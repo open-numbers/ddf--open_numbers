@@ -1190,12 +1190,12 @@ usa,U.S.A.
 usa,United States
 usa,United States of America
 usa,US
-usa,USA,usa_minor_out_isl,
-581,usa_minor_out_isl,
-UM,usa_minor_out_isl,
-UMI,usa_minor_out_isl,
-US Minor Outlying Islands,usa_minor_out_isl,
-US-UM
+usa,USA
+usa_minor_out_isl,581
+usa_minor_out_isl,UM
+usa_minor_out_isl,UMI
+usa_minor_out_isl,US Minor Outlying Islands
+usa_minor_out_isl,US-UM
 ussr,Soviet Union
 ussr,U.S.S.R.
 ussr,USS
