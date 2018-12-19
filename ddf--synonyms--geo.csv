@@ -191,6 +191,7 @@ CH,che
 CHE,che
 Switzerland,che
 Czechoslovakia,cheslo
+"Czechoslovakia, Former",cheslo
 152,chl
 Chile,chl
 CHL,chl
@@ -296,9 +297,11 @@ Germany,deu
 East Germany,deu_east
 East_Germany,deu_east
 FORMER GERMAN DEMOCRATIC REPUBLIC,deu_east
+"Germany, Former Democratic Republic",deu_east
 FEDERAL REPUBLIC OF GERMANY,deu_west
 West Germany,deu_west
 West_Germany,deu_west
+"Germany, Former Federal Republic",deu_west
 262,dji
 DJ,dji
 DJI,dji
@@ -913,6 +916,7 @@ Korea North,prk
 KP,prk
 North Korea,prk
 PRK,prk
+Democratic Peoples's Republic of Korea,prk
 620,prt
 Portugal,prt
 PRT,prt
@@ -970,6 +974,7 @@ Saudi Arabia,sau
 Serbia and Montenegro,scg
 Serbia_Montenegro,scg
 YUGOSLAVIA (MONTENEGRO & SERBIA),scg
+"Serbia and Montenegro, Former",scg
 Serbia excluding Kosovo,scg_ex_kos
 Serbia_excluding_Kosovo,scg_ex_kos
 729,sdn
@@ -1083,6 +1088,8 @@ Sweden,swe
 Swaziland,swz
 SWZ,swz
 SZ,swz
+Eswatini,swz
+Kingdom of Eswatini,swz
 534,sxm
 SAINT MARTIN (DUTCH PORTION),sxm
 Sint Maarten (Dutch part),sxm
@@ -1164,6 +1171,7 @@ Taiwan,twn
 Taiwan Province of China,twn
 TW,twn
 TWN,twn
+China: Province of Taiwan only,twn
 834,tza
 Tanzania,tza
 Tanzania (United Republic of),tza
@@ -1200,6 +1208,7 @@ Soviet Union,ussr
 U.S.S.R.,ussr
 USS,ussr
 USSR,ussr
+"USSR, Former",ussr
 860,uzb
 UZ,uzb
 UZB,uzb
@@ -1212,6 +1221,7 @@ St. Vincent and G.,vct
 St. Vincent and the Grenadines,vct
 VC,vct
 VCT,vct
+"Saint Vincent and Grenadines",vct
 862,ven
 VE,ven
 VEN,ven
@@ -1229,6 +1239,8 @@ United States Virgin Islands,vir
 VI,vir
 VIR,vir
 Virgin Islands (U.S.),vir
+Virgin Islands (USA),vir
+"Virgin Islands, U.S.",vir
 704,vnm
 Viet Nam,vnm
 Vietnam,vnm
@@ -1265,6 +1277,7 @@ South_Yemen,yem_south
 Yemen Democratic (Former),yem_south
 Yugoslavia,yug
 YUGOSLAVIA (FORMER SOCIALIST FEDERAL REPUBLIC),yug
+"Yugoslavia, Former",yug
 710,zaf
 South Africa,zaf
 South Africa Republic,zaf
