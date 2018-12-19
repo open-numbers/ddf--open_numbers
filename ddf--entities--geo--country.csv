@@ -117,7 +117,7 @@ irl,oecd,high_income,TRUE,IE,IE,IRL,372,,coastline,53.0,-8.0,christian,Ireland,T
 irn,g77,upper_middle_income,TRUE,IR,IR,IRN,364,,coastline,32.0,53.0,muslim,Iran,TRUE,asia,middle_east_north_africa
 irq,g77,upper_middle_income,TRUE,IQ,IQ,IRQ,368,,coastline,33.0,44.0,muslim,Iraq,TRUE,asia,middle_east_north_africa
 isl,oecd,high_income,TRUE,IS,IS,ISL,352,,coastline,65.0,-18.0,christian,Iceland,TRUE,europe,europe_central_asia
-isr,others,high_income,TRUE,IL,IL,ISR,376,,coastline,31.5,34.75,,Israel,TRUE,asia,middle_east_north_africa
+isr,oecd,high_income,TRUE,IL,IL,ISR,376,,coastline,31.5,34.75,,Israel,TRUE,asia,middle_east_north_africa
 ita,oecd,high_income,TRUE,IT,IT,ITA,380,,coastline,42.83333,12.83333,christian,Italy,TRUE,europe,europe_central_asia
 jam,g77,upper_middle_income,TRUE,JM,JM,JAM,388,,coastline,18.16667,-77.25,christian,Jamaica,TRUE,americas,america
 jey,others,,TRUE,JE,JE,JEY,832,,coastline,49.21667,-2.11667,,Jersey,FALSE,europe,europe_central_asia
