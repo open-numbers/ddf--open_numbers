@@ -153,7 +153,7 @@ mdg,g77,low_income,TRUE,MG,MG,MDG,450,,coastline,-20.0,47.0,,Madagascar,TRUE,afr
 mdv,g77,upper_middle_income,TRUE,MV,MV,MDV,462,,coastline,3.2,73.0,muslim,Maldives,TRUE,asia,south_asia
 mex,oecd,upper_middle_income,TRUE,MX,MX,MEX,484,,coastline,19.42847,-99.12766,christian,Mexico,TRUE,americas,america
 mhl,g77,upper_middle_income,TRUE,MH,MH,MHL,584,,coastline,7.113,171.236,christian,Marshall Islands,TRUE,asia,east_asia_pacific
-mkd,others,upper_middle_income,TRUE,MK,MK,MKD,807,,landlocked,41.66667,21.75,christian,"Macedonia, FYR",TRUE,europe,europe_central_asia
+mkd,others,upper_middle_income,TRUE,MK,MK,MKD,807,,landlocked,41.66667,21.75,christian,North Macedonia,TRUE,europe,europe_central_asia
 mli,g77,low_income,TRUE,ML,ML,MLI,466,,landlocked,18.0,-2.0,muslim,Mali,TRUE,africa,sub_saharan_africa
 mlt,others,high_income,TRUE,MT,MT,MLT,470,,coastline,35.91667,14.43333,christian,Malta,TRUE,europe,europe_central_asia
 mmr,g77,low_income,TRUE,MM,MM,MMR,104,,coastline,21.0,96.0,eastern_religions,Myanmar,TRUE,asia,east_asia_pacific
