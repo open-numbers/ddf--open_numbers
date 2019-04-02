@@ -24,7 +24,6 @@ Akrotiri_Dhekelia,akr_a_dhe
 Åland,ala
 AALAND ISLANDS,ala
 ALA,ala
-Åland,ala
 AX,ala
 8,alb
 AL,alb
@@ -1222,7 +1221,7 @@ St. Vincent and G.,vct
 St. Vincent and the Grenadines,vct
 VC,vct
 VCT,vct
-"Saint Vincent and Grenadines",vct
+Saint Vincent and Grenadines,vct
 862,ven
 VE,ven
 VEN,ven
@@ -1293,3 +1292,269 @@ ZMB,zmb
 Zimbabwe,zwe
 ZW,zwe
 ZWE,zwe
+ARUBA,abw
+AFGHANISTAN,afg
+ANGOLA,ago
+ANGUILLA,aia
+√Öland,ala
+ALBANIA,alb
+ANDORRA,and
+NETHERLANDS ANTILLES,ant
+UNITED ARAB EMIRATES,are
+ARGENTINA,arg
+ARMENIA,arm
+AMERICAN SAMOA,asm
+ANTIGUA AND BARBUDA,atg
+AUSTRALIA,aus
+AUSTRIA,aut
+AZERBAIJAN,aze
+BURUNDI,bdi
+BELGIUM,bel
+BENIN,ben
+BURKINA FASO,bfa
+BANGLADESH,bgd
+BULGARIA,bgr
+BAHRAIN,bhr
+BAHAMAS,bhs
+BOSNIA & HERZEGOVINA,bih
+BELARUS,blr
+BELIZE,blz
+BERMUDA,bmu
+BOLIVIA,bol
+BRAZIL,bra
+BARBADOS,brb
+BRUNEI DARUSSALAM,brn
+BHUTAN,btn
+BOTSWANA,bwa
+CENTRAL AFRICAN REPUBLIC,caf
+CANADA,can
+SWITZERLAND,che
+CHILE,chl
+CHINA,chn
+"China, mainland",chn
+COTE D'IVOIRE,civ
+CAMEROON,cmr
+"Congo, Democratic Republic of",cod
+"Congo, Democratic Republic of the",cod
+Democratic Republic of the Congo,cod
+Congo_Brazzaville,cog
+COOK ISLANDS,cok
+COLOMBIA,col
+COMOROS,com
+CAPE VERDE,cpv
+COSTA RICA,cri
+CUBA,cub
+CHRISTMAS ISLAND,cxr
+CAYMAN ISLANDS,cym
+CYPRUS,cyp
+CZECH REPUBLIC,cze
+Czechia,cze
+GERMANY,deu
+DJIBOUTI,dji
+DOMINICA,dma
+DENMARK,dnk
+DOMINICAN REP.,dom
+DOMINICAN REPUBLIC,dom
+ALGERIA,dza
+ECUADOR,ecu
+EGYPT,egy
+ERITREA,eri
+WESTERN SAHARA,esh
+SPAIN,esp
+ESTONIA,est
+ETHIOPIA,eth
+FINLAND,fin
+FIJI,fji
+FALKLAND ISLANDS (MALVINAS),flk
+FRANCE,fra
+FAROE ISLANDS,fro
+GABON,gab
+U.K. of Great Britain and Northern Ireland,gbr
+UNITED KINGDOM,gbr
+GEORGIA,geo
+GHANA,gha
+GIBRALTAR,gib
+GUINEA,gin
+GUADELOUPE,glp
+GAMBIA,gmb
+GUINEA-BISSAU,gnb
+EQUATORIAL GUINEA,gnq
+GREECE,grc
+GRENADA,grd
+GREENLAND,grl
+GUATEMALA,gtm
+FRENCH GUIANA,guf
+GUAM,gum
+GUYANA,guy
+China Hong Kong SAR,hkg
+HONG KONG,hkg
+HONG KONG SPECIAL ADMINISTRATIVE REGION OF CHINA,hkg
+HONDURAS,hnd
+CROATIA,hrv
+HAITI,hti
+HUNGARY,hun
+INDONESIA,idn
+INDIA,ind
+IRELAND,irl
+IRAN,irn
+Iran  (Islamic Republic of),irn
+Iran (Islamic Republic of),irn
+"Iran, Islamic Republic of",irn
+Islamic Republic of Iran,irn
+IRAQ,irq
+ICELAND,isl
+ISRAEL,isr
+ITALY,ita
+JAMAICA,jam
+JORDAN,jor
+JAPAN,jpn
+KAZAKHSTAN,kaz
+KENYA,ken
+KYRGYZSTAN,kgz
+CAMBODIA,khm
+KIRIBATI,kir
+SAINT KITTS AND NEVIS,kna
+Korea,kor
+"Korea, Republic of",kor
+Republic of Korea,kor
+SOUTH KOREA,kor
+KUWAIT,kwt
+Lao Peopleâ€™s Democratic Republic,lao
+LEBANON,lbn
+LIBERIA,lbr
+LIBYAN ARAB JAMAHIRIYA,lby
+SAINT LUCIA,lca
+LIECHTENSTEIN,lie
+SRI LANKA,lka
+LESOTHO,lso
+LITHUANIA,ltu
+LUXEMBOURG,lux
+LATVIA,lva
+MACAU,mac
+"Macau, China",mac
+MOROCCO,mar
+MONACO,mco
+MOLDOVA,mda
+"Moldova, Republic of",mda
+MADAGASCAR,mdg
+MALDIVES,mdv
+MEXICO,mex
+MARSHALL ISLANDS,mhl
+FYR Macedonia,mkd
+MACEDONIA,mkd
+"Macedonia, the former Yugoslav Republic of",mkd
+MALI,mli
+MALTA,mlt
+MYANMAR,mmr
+MONTENEGRO,mne
+MONGOLIA,mng
+NORTHERN MARIANA ISLANDS,mnp
+MOZAMBIQUE,moz
+MAURITANIA,mrt
+MONTSERRAT,msr
+MARTINIQUE,mtq
+MAURITIUS,mus
+MALAWI,mwi
+MALAYSIA,mys
+MAYOTTE,myt
+NAMIBIA,nam
+NEW CALEDONIA,ncl
+NIGER,ner
+NORFOLK ISLAND,nfk
+NIGERIA,nga
+NICARAGUA,nic
+NIUE,niu
+NETHERLANDS,nld
+Curacao,nld_curacao
+NORWAY,nor
+NEPAL,npl
+NAURU,nru
+NEW ZEALAND,nzl
+OMAN,omn
+PAKISTAN,pak
+PANAMA,pan
+PITCAIRN,pcn
+PERU,per
+PHILIPPINES,phl
+PALAU,plw
+PAPUA NEW GUINEA,png
+POLAND,pol
+PUERTO RICO,pri
+Dem People's Rep of Korea,prk
+Dem. People's Republic of Korea,prk
+"Korea, Dem. People's Rep.",prk
+"Korea, Democratic People's Republic of",prk
+PORTUGAL,prt
+PARAGUAY,pry
+FRENCH POLYNESIA,pyf
+QATAR,qat
+REUNION,reu
+ROMANIA,rou
+RUSSIAN FEDERATION,rus
+RWANDA,rwa
+SAUDI ARABIA,sau
+SUDAN,sdn
+SENEGAL,sen
+SINGAPORE,sgp
+SAINT HELENA,shn
+Svalbard and Jan Mayen,sjm
+SOLOMON ISLANDS,slb
+SIERRA LEONE,sle
+EL SALVADOR,slv
+SAN MARINO,smr
+SOMALIA,som
+Saint Pierre and Miquelon,spm
+SERBIA,srb
+Saint Barthelemy,stbar
+St. Barth√©lemy,stbar
+SAO TOME AND PRINCIPE,stp
+SURINAME,sur
+SLOVAKIA,svk
+SLOVENIA,svn
+SWEDEN,swe
+SWAZILAND,swz
+SEYCHELLES,syc
+SYRIAN ARAB REPUBLIC,syr
+TURKS AND CAICOS ISLANDS,tca
+CHAD,tcd
+TOGO,tgo
+THAILAND,tha
+TAJIKISTAN,tjk
+TOKELAU,tkl
+TURKMENISTAN,tkm
+TIMOR-LESTE,tls
+TONGA,ton
+TRINIDAD AND TOBAGO,tto
+Trinidad And Tobago,tto
+TUNISIA,tun
+TURKEY,tur
+TUVALU,tuv
+"China, Taiwan Province of",twn
+TAIWAN,twn
+"Taiwan, China",twn
+TANZANIA,tza
+"Tanzania, United Republic of",tza
+United Republic Of Tanzania,tza
+UGANDA,uga
+UKRAINE,ukr
+URUGUAY,ury
+UNITED STATES,usa
+United States Of America,usa
+UZBEKISTAN,uzb
+SAINT VINCENT AND THE GRENADINES,vct
+VENEZUELA,ven
+"Venezuela, Bolivarian Republic of",ven
+VIRGIN ISLANDS (U.S.),vir
+VIET NAM,vnm
+VIETNAM,vnm
+VANUATU,vut
+Wallis and Futuna Islands,wlf
+SAMOA,wsm
+YEMEN,yem
+"Yemen, The former Arab Rep. of",yem_north
+"Yemen, The former Democratic",yem_south
+Yugoslav SFR,yug
+"Yugoslavia, The former Socialist Fed. Rep. of",yug
+SOUTH AFRICA,zaf
+ZAMBIA,zmb
+ZIMBABWE,zwe
