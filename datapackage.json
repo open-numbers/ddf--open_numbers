@@ -8,7 +8,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2019-07-10T02:07:52.089361+00:00",
+    "created": "2019-07-10T02:19:27.000121+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -1308,6 +1308,16 @@
                 "value": null,
                 "resources": [
                     "ddf--synonyms--geo"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept",
+                    "synonym"
+                ],
+                "value": null,
+                "resources": [
+                    "ddf--synonyms--concept"
                 ]
             }
         ]
