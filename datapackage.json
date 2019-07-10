@@ -8,7 +8,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2019-07-09T03:29:32.843326+00:00",
+    "created": "2019-07-10T02:07:52.089361+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -376,8 +376,8 @@
             }
         },
         {
-            "name": "ddf--synonyms--concepts",
-            "path": "ddf--synonyms--concepts.csv",
+            "name": "ddf--synonyms--concept",
+            "path": "ddf--synonyms--concept.csv",
             "schema": {
                 "fields": [
                     {
@@ -387,7 +387,10 @@
                         "name": "concept"
                     }
                 ],
-                "primaryKey": "concept"
+                "primaryKey": [
+                    "synonym",
+                    "concept"
+                ]
             }
         },
         {
@@ -1289,7 +1292,7 @@
         "synonyms": [
             {
                 "primaryKey": [
-                    "country",
+                    "geo",
                     "synonym"
                 ],
                 "value": null,
@@ -1299,7 +1302,7 @@
             },
             {
                 "primaryKey": [
-                    "geo",
+                    "country",
                     "synonym"
                 ],
                 "value": null,
