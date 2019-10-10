@@ -221,6 +221,7 @@ CD,cod
 COD,cod
 Congo - Kinshasa,cod
 Congo (Democratic Republic of the),cod
+Dem. Rep. of the Congo,cod
 Congo [DRC],cod
 Congo Dem Rep,cod
 Congo DR,cod
@@ -504,6 +505,7 @@ Honduras,hnd
 336,hos
 Holy See,hos
 Holy_See,hos
+Holy See (the),hos
 VA,hos
 VAT,hos
 Vatican City,hos
@@ -639,7 +641,7 @@ Lao P.D.R.,lao
 Lao PDR,lao
 Lao People S Democratic Republic,lao
 Lao People's Democratic Republic,lao
-Lao People's Dem.  Rep.,lao
+Lao People's Dem. Rep.,lao
 LAO PEOPLE'S DEMOCRATIC REPUBLIC,lao
 Laos,lao
 422,lbn
@@ -716,6 +718,7 @@ Moldova,mda
 Moldova (Republic of),mda
 "Moldova, Rep. of",mda
 "MOLDOVA, REPUBLIC OF",mda
+Rep. of Moldova,mda
 Republic Of Moldov,mda
 Republic of Moldova,mda
 450,mdg
@@ -844,6 +847,7 @@ The Netherlands,nld
 531,nld_curacao
 CURACAO,nld_curacao
 Curaçao,nld_curacao
+CuraÃ§ao,nld_curacao
 CUW,nld_curacao
 CW,nld_curacao
 578,nor
@@ -930,6 +934,7 @@ PRY,pry
 PY,pry
 275,pse
 Occupied Palestinian Territory,pse
+Palestinian,pse
 OPT,pse
 Palestine,pse
 "Palestine, State of",pse
@@ -1109,6 +1114,7 @@ SYR,syr
 Syria,syr
 SYRIAN ARAB REP,syr
 Syrian Arab Republic,syr
+Syrian Arab Rep.,syr
 796,tca
 TC,tca
 TCA,tca
@@ -1183,6 +1189,7 @@ Tanzania,tza
 Tanzania (United Republic of),tza
 "Tanzania, U. Rep. of",tza
 "TANZANIA, UNITED REPUBLIC OF",tza
+United Rep. of Tanzania,tza
 TZ,tza
 TZA,tza
 United Republic of Tanzania,tza
@@ -1339,6 +1346,7 @@ CHILE,chl
 CHINA,chn
 "China, mainland",chn
 COTE D'IVOIRE,civ
+CÃ´te d'Ivoire,civ
 CAMEROON,cmr
 "Congo, Democratic Republic of",cod
 "Congo, Democratic Republic of the",cod
@@ -1422,6 +1430,7 @@ KIRIBATI,kir
 SAINT KITTS AND NEVIS,kna
 Korea,kor
 "Korea, Republic of",kor
+Rep. of Korea,kor
 Republic of Korea,kor
 SOUTH KOREA,kor
 KUWAIT,kwt
