@@ -84,15 +84,15 @@ if __name__ == '__main__':
     # modify concepts
     concept_df = pd.read_csv('../../ddf--concepts.csv', dtype=str)
 
-    income_3group_concept = pd.DataFrame.from_records(data=[
-        dict(concept='income_3groups',
-             concept_type='entity_set',
-             domain='geo',
-             name='Income Groups (3 levels)',
-             tags='categorizations')
-    ])
-
-    concept_df = concept_df.append(income_3group_concept, sort=False)
-    concept_df.to_csv('../../ddf--concepts.csv', index=False)
+    if 'income_3groups' not in concept_df['concept'].values:
+	income_3group_concept = pd.DataFrame.from_records(data=[
+	    dict(concept='income_3groups',
+		 concept_type='entity_set',
+		 domain='geo',
+		 name='Income Groups (3 levels)',
+		 tags='categorizations')
+	])
+	concept_df = concept_df.append(income_3group_concept, sort=False)
+	concept_df.to_csv('../../ddf--concepts.csv', index=False)
 
     print('Done')
