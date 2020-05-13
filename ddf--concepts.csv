@@ -2,6 +2,7 @@ concept,concept_type,domain,name,description,source_url,tags,scales,indicator_ur
 name,string,,Name,,,_none,,,,,
 name_long,string,,Name Long,,,_none,,,,,
 name_short,string,,Name Short,,,_none,,,,,
+name_catalog,string,,Name Catalog,,,_none,,,,,
 description,string,,Description,,,_none,,,,,
 domain,string,,Domain,,,_none,,,,,
 source_url,string,,Source url,,,_none,,,,,
