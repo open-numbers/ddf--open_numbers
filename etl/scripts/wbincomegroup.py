@@ -33,20 +33,24 @@ if __name__ == '__main__':
                              lmc='lower_middle_income',
                              umc='upper_middle_income')
 
-    wdi_country_df['income_3level'] = wdi_country_df['income_3level'].map(income_3level_map)
-    wdi_country_df['income_4level'] = wdi_country_df['income_4level'].map(income_4level_map)
+    wdi_country_df['income_3level'] = wdi_country_df['income_3level'].map(
+	income_3level_map)
+    wdi_country_df['income_4level'] = wdi_country_df['income_4level'].map(
+	income_4level_map)
 
     income_3lvl_df['economy'] = income_3lvl_df['economy'].map(income_3level_map)
 
     # export entity sets
-    income_3lvl_df = income_3lvl_df.rename(columns={'economy': 'income_3groups',
-                                                    'is--income_3level': 'is--income_3groups'})
+    income_3lvl_df = income_3lvl_df.rename(columns={
+	'economy': 'income_3groups',
+	'is--income_3level': 'is--income_3groups'
+    })
     income_3lvl_df.dropna(axis=1, how='any').to_csv(
         '../../ddf--entities--geo--income_3groups.csv', index=False)
 
     # modify countries
     on_country_df = pd.read_csv('../../ddf--entities--geo--country.csv',
-                                dtype=str).set_index('country')
+				dtype=str)
 
     on_synonyms = pd.read_csv('../../ddf--synonyms--geo.csv')
 
@@ -57,14 +61,25 @@ if __name__ == '__main__':
         dictionary_type='dataframe',
         dictionary=dict(key='synonym', value='geo'),
         base_df=on_synonyms,
-        not_found='drop').set_index('geo')
+	not_found='drop')
 
-    on_country_df['income_3groups'] = wdi_country_df_translated.loc[
-        on_country_df.index, 'income_3level']
-    on_country_df['income_groups'] = wdi_country_df_translated.loc[
-        on_country_df.index, 'income_4level']
-
-    on_country_df.to_csv('../../ddf--entities--geo--country.csv')
+    on_country_df = translate_column(df=on_country_df,
+				     column='country',
+				     target_column='income_3groups',
+				     dictionary_type='dataframe',
+				     dictionary=dict(key='geo',
+						     value='income_3level'),
+				     base_df=wdi_country_df_translated,
+				     not_found='include')
+    on_country_df = translate_column(df=on_country_df,
+				     column='country',
+				     target_column='income_groups',
+				     dictionary_type='dataframe',
+				     dictionary=dict(key='geo',
+						     value='income_4level'),
+				     base_df=wdi_country_df_translated,
+				     not_found='include')
+    on_country_df.to_csv('../../ddf--entities--geo--country.csv', index=False)
 
     # modify concepts
     concept_df = pd.read_csv('../../ddf--concepts.csv', dtype=str)
