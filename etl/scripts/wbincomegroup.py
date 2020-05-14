@@ -1,6 +1,7 @@
 """
 Load income groups from WDI, add income_3groups entity_set and update
 income_groups/income_3groups country properties.
+Make sure you have the correct source WDI dataset checked out in your datasets folder
 """
 
 import os
@@ -9,7 +10,7 @@ import pandas as pd
 from ddf_utils.model.package import DDFcsv
 from ddf_utils.transformer import translate_column
 
-datasets_dir = os.environ['DATASETS_DIR']
+datasets_dir = os.environ.get('DATASETS_DIR') or '../../../../'
 
 if __name__ == '__main__':
     wb_ddf = DDFcsv.from_path(
@@ -45,6 +46,8 @@ if __name__ == '__main__':
         'economy': 'income_3groups',
         'is--income_3level': 'is--income_3groups'
     })
+    rank_map = {'high_income': 3, 'middle_income': 2, 'low_income': 1 }
+    income_3lvl_df['rank'] = income_3lvl_df['income_3groups'].map(rank_map)
     income_3lvl_df.dropna(axis=1, how='any').to_csv(
         '../../ddf--entities--geo--income_3groups.csv', index=False)
 
