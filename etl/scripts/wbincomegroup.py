@@ -34,65 +34,65 @@ if __name__ == '__main__':
                              umc='upper_middle_income')
 
     wdi_country_df['income_3level'] = wdi_country_df['income_3level'].map(
-	income_3level_map)
+        income_3level_map)
     wdi_country_df['income_4level'] = wdi_country_df['income_4level'].map(
-	income_4level_map)
+        income_4level_map)
 
     income_3lvl_df['economy'] = income_3lvl_df['economy'].map(income_3level_map)
 
     # export entity sets
     income_3lvl_df = income_3lvl_df.rename(columns={
-	'economy': 'income_3groups',
-	'is--income_3level': 'is--income_3groups'
+        'economy': 'income_3groups',
+        'is--income_3level': 'is--income_3groups'
     })
     income_3lvl_df.dropna(axis=1, how='any').to_csv(
         '../../ddf--entities--geo--income_3groups.csv', index=False)
 
     # modify countries
     on_country_df = pd.read_csv('../../ddf--entities--geo--country.csv',
-				dtype=str)
+                                dtype=str)
 
     on_synonyms = pd.read_csv('../../ddf--synonyms--geo.csv')
 
-    wdi_country_df_translated = translate_column(
-        df=wdi_country_df,
-        column='name',
-        target_column='geo',
-        dictionary_type='dataframe',
-        dictionary=dict(key='synonym', value='geo'),
-        base_df=on_synonyms,
-	not_found='drop')
+    wdi_country_df_translated = translate_column(df=wdi_country_df,
+                                                 column='name',
+                                                 target_column='geo',
+                                                 dictionary_type='dataframe',
+                                                 dictionary=dict(key='synonym',
+                                                                 value='geo'),
+                                                 base_df=on_synonyms,
+                                                 not_found='drop')
 
     on_country_df = translate_column(df=on_country_df,
-				     column='country',
-				     target_column='income_3groups',
-				     dictionary_type='dataframe',
-				     dictionary=dict(key='geo',
-						     value='income_3level'),
-				     base_df=wdi_country_df_translated,
-				     not_found='include')
+                                     column='country',
+                                     target_column='income_3groups',
+                                     dictionary_type='dataframe',
+                                     dictionary=dict(key='geo',
+                                                     value='income_3level'),
+                                     base_df=wdi_country_df_translated,
+                                     not_found='include')
     on_country_df = translate_column(df=on_country_df,
-				     column='country',
-				     target_column='income_groups',
-				     dictionary_type='dataframe',
-				     dictionary=dict(key='geo',
-						     value='income_4level'),
-				     base_df=wdi_country_df_translated,
-				     not_found='include')
+                                     column='country',
+                                     target_column='income_groups',
+                                     dictionary_type='dataframe',
+                                     dictionary=dict(key='geo',
+                                                     value='income_4level'),
+                                     base_df=wdi_country_df_translated,
+                                     not_found='include')
     on_country_df.to_csv('../../ddf--entities--geo--country.csv', index=False)
 
     # modify concepts
     concept_df = pd.read_csv('../../ddf--concepts.csv', dtype=str)
 
     if 'income_3groups' not in concept_df['concept'].values:
-	income_3group_concept = pd.DataFrame.from_records(data=[
-	    dict(concept='income_3groups',
-		 concept_type='entity_set',
-		 domain='geo',
-		 name='Income Groups (3 levels)',
-		 tags='categorizations')
-	])
-	concept_df = concept_df.append(income_3group_concept, sort=False)
-	concept_df.to_csv('../../ddf--concepts.csv', index=False)
+        income_3group_concept = pd.DataFrame.from_records(data=[
+            dict(concept='income_3groups',
+                 concept_type='entity_set',
+                 domain='geo',
+                 name='Income Groups (3 levels)',
+                 tags='categorizations')
+        ])
+        concept_df = concept_df.append(income_3group_concept, sort=False)
+        concept_df.to_csv('../../ddf--concepts.csv', index=False)
 
     print('Done')
