@@ -88,6 +88,7 @@ BEN,ben
 Benin,ben
 BJ,ben
 "Bonaire, Sint Eustatius and Saba",bes
+"Bonaire, Saint Eustatius and Saba",bes
 535,bes
 854,bfa
 BF,bfa
@@ -175,6 +176,7 @@ CAR,caf
 Central AfR,caf
 Central African Rep.,caf
 Central African Republic,caf
+Central_African_Republic,caf
 CF,caf
 124,can
 CA,can
@@ -266,6 +268,7 @@ CPV,cpv
 CV,cpv
 188,cri
 Costa Rica,cri
+Costa_Rica,cri
 CR,cri
 CRI,cri
 192,cub
@@ -453,6 +456,7 @@ GW,gnb
 226,gnq
 Equa Guinea,gnq
 Equatorial Guinea,gnq
+Equatorial_Guinea,gnq
 GNQ,gnq
 GQ,gnq
 300,grc
@@ -672,6 +676,7 @@ Liechtenstein,lie
 LK,lka
 LKA,lka
 Sri Lanka,lka
+Sri_Lanka,lka
 426,lso
 Lesotho,lso
 LS,lso
@@ -778,6 +783,7 @@ Mongolia,mng
 MNP,mnp
 MP,mnp
 Northern Mariana Islands,mnp
+Northern_Mariana_Islands,mnp
 508,moz
 MOZ,moz
 Mozambique,moz
@@ -1026,6 +1032,7 @@ SL,sle
 SLE,sle
 222,slv
 El Salvador,slv
+El_Salvador,slv
 SLV,slv
 SV,slv
 674,smr
@@ -1103,6 +1110,7 @@ Kingdom of Eswatini,swz
 534,sxm
 SAINT MARTIN (DUTCH PORTION),sxm
 Sint Maarten (Dutch part),sxm
+Sint Maarten,sxm
 SX,sxm
 SXM,sxm
 690,syc
@@ -1121,6 +1129,7 @@ TC,tca
 TCA,tca
 Turks and Caicos,tca
 Turks and Caicos Islands,tca
+Turks_and_Caicos_islands,tca
 148,tcd
 Chad,tcd
 TCD,tcd
@@ -1179,7 +1188,7 @@ Tuvalu,tuv
 TV,tuv
 158,twn
 "China, Taiwan Province of China",twn
-"Taiwan (Province of China)",twn
+Taiwan (Province of China),twn
 Taiwan,twn
 Taiwan Province of China,twn
 TW,twn
@@ -1574,3 +1583,242 @@ Yugoslav SFR,yug
 SOUTH AFRICA,zaf
 ZAMBIA,zmb
 ZIMBABWE,zwe
+Islamic_Republic_of_Afghanistan,afg
+Akrotiri_and_Dhekelia,akr_a_dhe
+AALAND_ISLANDS,ala
+Netherland_Antilles,ant
+Netherlands_Antilles,ant
+United_Arab_Emirates,are
+American_Samoa,asm
+Antigua_and_Barbuda,atg
+The_Bahamas,bhs
+Bosnia_and_Herzegovina,bih
+BOSNIA_AND_HERZEGOWINA,bih
+Bosnia_Herzegovena,bih
+Bolivia_(Plurinational_State_of),bol
+Bolivia_Plurinational_States_of,bol
+PLURINATIONAL_STATE_OF_BOLIVIA,bol
+Bouvet_Island,bouisl
+Brunei_(Darussalam),brn
+Brunei_Darussalam,brn
+Central_AfR,caf
+COCOS_(KEELING)_ISLANDS,cck
+Cocos_Island,cck
+China_(Mainland),chn
+Cote_D_Ivoire,civ
+Cote_Divoire,civ
+Ivory_Coast,civ
+Republic_Of_Cameroon,cmr
+Congo_(Democratic_Republic_of_the),cod
+Congo_Dem_Rep,cod
+Congo_DR,cod
+Democratic_Republic_of_Congo,cod
+Democratic_Republic_Of_The_Congo,cod
+Democratic_Republic_Of_The_Congo_(Formerly_Zaire),cod
+Congo_(Republic_of),cog
+Republic_of_Congo,cog
+Cook_Is,cok
+Cook_Islands,cok
+Cabo_Verde,cpv
+Cape_Verde,cpv
+Christmas_Island,cxr
+Cayman_Islands,cym
+Czech_Rep,cze
+Czech_Republic,cze
+FORMER_GERMAN_DEMOCRATIC_REPUBLIC,deu_east
+FEDERAL_REPUBLIC_OF_GERMANY,deu_west
+Eritrea_and_Ethiopia,eri_a_eth
+Western_Sahara,esh
+Falkland_Is_(Malvinas),flk
+Falkland_Islands,flk
+Falkland_Islands_(Malvinas),flk
+France_(Including_Monaco),fra
+French_Southern_and_Antarctic_Lands,fra_antarc
+Faeroe_Islands,fro
+Faroe_Islands,fro
+Federated_States_of_Micronesia,fsm
+Micronesia_(Federated_States_of,fsm
+Micronesia_(Federated_States_of),fsm
+Isle_of_Man,gbm
+Unitd_Kingdm,gbr
+United_Kingdom,gbr
+United_Kingdom_of_Great_Britain_and_Northern_Ireland,gbr
+Gambia_The,gmb
+The_Gambia,gmb
+Guinea_Bissau,gnb
+Equa_Guinea,gnq
+French_Guiana,guf
+Heard_and_McDonald_Islands,heard_a_mcd
+Hong_Kong,hkg
+Hong_Kong_SAR,hkg
+Holy_See_(the),hos
+Vatican_City,hos
+British_Indian_Ocean_Territory,iot
+IRAN_(ISLAMIC_REPUBLIC_OF),irn
+Islamic_Republic_Of_Iran,irn
+Italy_(Including_San_Marino),ita
+JAPAN_(EXCLUDING_THE_RUYUKU_ISLANDS),jpn
+Saint_Kitts_and_Nevis,kna
+Korea_(Republic_of),kor
+Korea_Rep,kor
+Korea_South,kor
+Republic_Of_Korea,kor
+South_Korea,kor
+United_Korea_(former),korea_union
+Lao_PDR,lao
+Lao_People_S_Democratic_Republic,lao
+Libyan_Arab_Jamahiriya,lby
+Libyan_Arab_Jamahiriyah,lby
+Saint_Lucia,lca
+MACAU_SPECIAL_ADMINISTRATIVE_REGION_OF_CHINA,mac
+Saint_Martin_(French_part),maf
+Moldova_(Republic_of),mda
+Republic_Of_Moldov,mda
+Republic_of_Moldova,mda
+Marshall_Islands,mhl
+TFYR_Macedonia,mkd
+The_former_Yugoslav_Republic_of_Macedonia,mkd
+North_Macedonia,mkd
+MYANMAR_(FORMERLY_BURMA),mmr
+New_Caledonia,ncl
+Norfolk_Island,nfk
+The_Netherlands,nld
+New_Zealand,nzl
+Pitcairn_Islands,pcn
+Papua_New_Guinea,png
+Papua_NG,png
+Puerto_Rico,pri
+Democratic_People_S_Republic_Of_Korea,prk
+Korea_DPR,prk
+Korea_North,prk
+North_Korea,prk
+Occupied_Palestinian_Territory,pse
+Palestinian_territories,pse
+State_of_Palestine,pse
+West_Bank_and_Gaza,pse
+Gaza_Strip,pse_gaza
+West_Bank,pse_west_bank
+French_Polynesia,pyf
+RUSSIA_FEDERATION,rus
+Russian_Federation,rus
+Saudi_Arabia,sau
+Serbia_and_Montenegro,scg
+REPUBLIC_OF_SUDAN,sdn
+South_Georgia_and_the_South_Sandwich_Islands,sgero_a_ssandw
+Saint_Helena,shn
+SVALBARD_AND_JAN_MAYEN_ISLANDS,sjm
+Solomon_Islands,slb
+San_Marino,smr
+SAINT_PIERRE_AND_MIQUELON,spm
+REPUBLIC_OF_SOUTH_SUDAN,ssd
+South_Sudan,ssd
+Sudan_South,ssd
+Saint_Martin,stmar
+Slovak_Rep,svk
+Slovak_Republic,svk
+Kingdom_of_Eswatini,swz
+SAINT_MARTIN_(DUTCH_PORTION),sxm
+Sint_Maarten_(Dutch_part),sxm
+Sint_Maarten,sxm
+SYRIAN_ARAB_REP,syr
+Syrian_Arab_Republic,syr
+Turks_and_Caicos,tca
+Turks_and_Caicos_Islands,tca
+East_Timor,tls
+Timor_Leste,tls
+Trinidad_and_Tobago,tto
+Taiwan_(Province_of_China),twn
+Taiwan_Province_of_China,twn
+Tanzania_(United_Republic_of),tza
+United_Republic_of_Tanzania,tza
+United_States,usa
+United_States_of_America,usa
+US_Minor_Outlying_Islands,usa_minor_out_isl
+Soviet_Union,ussr
+Saint_Vincent_and_the_Grenadines,vct
+Saint_Vincent_and_Grenadines,vct
+Venezuela_(Bolivarian_Republic_of,ven
+Venezuela_(Bolivarian_Republic_of),ven
+British_Virgin_Islands,vgb
+VIRGIN_ISLANDS_(BRITISH),vgb
+United_States_Virgin_Islands,vir
+Virgin_Islands_(USA),vir
+Viet_Nam,vnm
+Wallis_and_Futuna,wlf
+WALLIS_AND_FUTUNA_ISLANDS,wlf
+Wallis_et_Futuna,wlf
+Samoa_(Western),wsm
+Yemen_Republic,yem
+FORMER_YEMEN,yem_north
+North_Yemen_(former),yem_north
+Yemen_Arab_Republic_(Former),yem_north
+FORMER_DEMOCRATIC_YEMEN,yem_south
+South_Yemen_(former),yem_south
+Yemen_Democratic_(Former),yem_south
+YUGOSLAVIA_(FORMER_SOCIALIST_FEDERAL_REPUBLIC),yug
+South_Africa_Republic,zaf
+NETHERLANDS_ANTILLES,ant
+UNITED_ARAB_EMIRATES,are
+AMERICAN_SAMOA,asm
+ANTIGUA_AND_BARBUDA,atg
+BURKINA_FASO,bfa
+BRUNEI_DARUSSALAM,brn
+CENTRAL_AFRICAN_REPUBLIC,caf
+Democratic_Republic_of_the_Congo,cod
+COOK_ISLANDS,cok
+CAPE_VERDE,cpv
+COSTA_RICA,cri
+CHRISTMAS_ISLAND,cxr
+CAYMAN_ISLANDS,cym
+CZECH_REPUBLIC,cze
+DOMINICAN_REPUBLIC,dom
+WESTERN_SAHARA,esh
+FALKLAND_ISLANDS_(MALVINAS),flk
+FAROE_ISLANDS,fro
+UNITED_KINGDOM,gbr
+EQUATORIAL_GUINEA,gnq
+FRENCH_GUIANA,guf
+China_Hong_Kong_SAR,hkg
+HONG_KONG,hkg
+HONG_KONG_SPECIAL_ADMINISTRATIVE_REGION_OF_CHINA,hkg
+Iran__(Islamic_Republic_of),irn
+Iran_(Islamic_Republic_of),irn
+Islamic_Republic_of_Iran,irn
+SAINT_KITTS_AND_NEVIS,kna
+Republic_of_Korea,kor
+SOUTH_KOREA,kor
+LIBYAN_ARAB_JAMAHIRIYA,lby
+SAINT_LUCIA,lca
+SRI_LANKA,lka
+MARSHALL_ISLANDS,mhl
+FYR_Macedonia,mkd
+NORTHERN_MARIANA_ISLANDS,mnp
+NEW_CALEDONIA,ncl
+NORFOLK_ISLAND,nfk
+NEW_ZEALAND,nzl
+PAPUA_NEW_GUINEA,png
+PUERTO_RICO,pri
+FRENCH_POLYNESIA,pyf
+RUSSIAN_FEDERATION,rus
+SAUDI_ARABIA,sau
+SAINT_HELENA,shn
+Svalbard_and_Jan_Mayen,sjm
+SOLOMON_ISLANDS,slb
+SIERRA_LEONE,sle
+EL_SALVADOR,slv
+SAN_MARINO,smr
+Saint_Pierre_and_Miquelon,spm
+Saint_Barthelemy,stbar
+SAO_TOME_AND_PRINCIPE,stp
+SYRIAN_ARAB_REPUBLIC,syr
+TURKS_AND_CAICOS_ISLANDS,tca
+TRINIDAD_AND_TOBAGO,tto
+Trinidad_And_Tobago,tto
+United_Republic_Of_Tanzania,tza
+UNITED_STATES,usa
+United_States_Of_America,usa
+SAINT_VINCENT_AND_THE_GRENADINES,vct
+VIET_NAM,vnm
+Wallis_and_Futuna_Islands,wlf
+Yugoslav_SFR,yug
+SOUTH_AFRICA,zaf
