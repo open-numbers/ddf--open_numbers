@@ -195,6 +195,7 @@ CHE,che
 Switzerland,che
 Czechoslovakia,cheslo
 "Czechoslovakia, Former",cheslo
+Czechoslovakia (former),cheslo
 152,chl
 Chile,chl
 CHL,chl
@@ -990,6 +991,7 @@ Serbia and Montenegro,scg
 Serbia_Montenegro,scg
 YUGOSLAVIA (MONTENEGRO & SERBIA),scg
 "Serbia and Montenegro, Former",scg
+Serbia and Montenegro (former),scg
 Serbia excluding Kosovo,scg_ex_kos
 Serbia_excluding_Kosovo,scg_ex_kos
 729,sdn
@@ -1232,6 +1234,7 @@ U.S.S.R.,ussr
 USS,ussr
 USSR,ussr
 "USSR, Former",ussr
+USSR (former),ussr
 860,uzb
 UZ,uzb
 UZB,uzb
@@ -1301,6 +1304,7 @@ Yemen Democratic (Former),yem_south
 Yugoslavia,yug
 YUGOSLAVIA (FORMER SOCIALIST FEDERAL REPUBLIC),yug
 "Yugoslavia, Former",yug
+Yugoslavia (former),yug
 710,zaf
 South Africa,zaf
 South Africa Republic,zaf
@@ -1588,6 +1592,7 @@ Akrotiri_and_Dhekelia,akr_a_dhe
 AALAND_ISLANDS,ala
 Netherland_Antilles,ant
 Netherlands_Antilles,ant
+Netherlands Antilles (former),ant
 United_Arab_Emirates,are
 American_Samoa,asm
 Antigua_and_Barbuda,atg
