@@ -1,16 +1,15 @@
 {
   "name": "ddf--open_numbers",
-  "language": {
-      "id": "en",
-      "name": "English"
-  },
   "title": "ddf--open_numbers",
   "description": "",
-  "author": "",
-  "license": "",
-  "created": "2020-08-25T19:51:00.490358+00:00",
-  "translations": [],
   "version": "0.0.1",
+  "language": {
+    "id": "en",
+    "name": "English"
+  },
+  "translations": [],
+  "license": "",
+  "author": "",
   "resources": [
     {
       "path": "ddf--concepts.csv",
@@ -274,6 +273,9 @@
           },
           {
             "name": "name"
+          },
+          {
+            "name": "is--un_sdg_ldc"
           }
         ],
         "primaryKey": "un_sdg_ldc"
@@ -292,6 +294,9 @@
           },
           {
             "name": "color"
+          },
+          {
+            "name": "is--un_sdg_region"
           }
         ],
         "primaryKey": "un_sdg_region"
@@ -694,8 +699,7 @@
         ],
         "value": "name",
         "resources": [
-          "geo--g77_and_oecd_countries",
-          "geo--un_sdg_ldc"
+          "geo--g77_and_oecd_countries"
         ]
       },
       {
@@ -815,6 +819,24 @@
         "value": "is--main_religion_2008",
         "resources": [
           "geo--main_religion_2008"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "is--un_sdg_ldc",
+        "resources": [
+          "geo--un_sdg_ldc"
+        ]
+      },
+      {
+        "primaryKey": [
+          "geo"
+        ],
+        "value": "is--un_sdg_region",
+        "resources": [
+          "geo--un_sdg_region"
         ]
       },
       {
@@ -1275,6 +1297,51 @@
       },
       {
         "primaryKey": [
+          "un_sdg_ldc"
+        ],
+        "value": "is--un_sdg_ldc",
+        "resources": [
+          "geo--un_sdg_ldc"
+        ]
+      },
+      {
+        "primaryKey": [
+          "un_sdg_ldc"
+        ],
+        "value": "name",
+        "resources": [
+          "geo--un_sdg_ldc"
+        ]
+      },
+      {
+        "primaryKey": [
+          "un_sdg_region"
+        ],
+        "value": "color",
+        "resources": [
+          "geo--un_sdg_region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "un_sdg_region"
+        ],
+        "value": "is--un_sdg_region",
+        "resources": [
+          "geo--un_sdg_region"
+        ]
+      },
+      {
+        "primaryKey": [
+          "un_sdg_region"
+        ],
+        "value": "name",
+        "resources": [
+          "geo--un_sdg_region"
+        ]
+      },
+      {
+        "primaryKey": [
           "unicef_region"
         ],
         "value": "is--unicef_region",
@@ -1385,15 +1452,6 @@
         "primaryKey": [
           "world_6region"
         ],
-        "value": "color",
-        "resources": [
-          "geo--un_sdg_region"
-        ]
-      },
-      {
-        "primaryKey": [
-          "world_6region"
-        ],
         "value": "is--world_6region",
         "resources": [
           "geo--world_6region"
@@ -1405,7 +1463,6 @@
         ],
         "value": "name",
         "resources": [
-          "geo--un_sdg_region",
           "geo--world_6region"
         ]
       },
