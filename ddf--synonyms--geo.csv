@@ -89,6 +89,7 @@ Benin,ben
 BJ,ben
 "Bonaire, Sint Eustatius and Saba",bes
 "Bonaire, Saint Eustatius and Saba",bes
+"bonaire, saint eustatius, and saba",bes
 535,bes
 854,bfa
 BF,bfa
@@ -503,6 +504,7 @@ Hong Kong SAR,hkg
 "Hong Kong, China",hkg
 "Hong Kong, China (SAR)",hkg
 Hongkong,hkg
+hong kong special adminstrative region of china,hkg
 340,hnd
 HN,hnd
 HND,hnd
@@ -702,6 +704,7 @@ Macao,mac
 "Macao, China",mac
 Macau,mac
 MACAU SPECIAL ADMINISTRATIVE REGION OF CHINA,mac
+macau special adminstrative region of china,mac
 MO,mac
 663,maf
 MAF,maf
