@@ -7,7 +7,6 @@ import requests
 from ddf_utils.str import to_concept_id
 
 UN_SDG_URL = 'https://unstats.un.org/SDGAPI/v1/sdg/GeoArea/Tree'
-SHEET = 'data-for-countries-etc-by-year'
 
 # Most SDG Regions are not official UN regions (M49) and should be divided into Subregions so we can read what countries belong to it. 
 # This subdivision is not given in the API/Data, so we manually do it here.
@@ -71,15 +70,47 @@ def main():
     regions_tree = r.json()
     regions_flat = flatten(regions_tree[0]) # 0 = world
 
+    # Least Developed Countries
+    ldc_entities = [ {
+        'un_sdg_ldc': 'un_least_developed',
+        'name': regions_tree[1]['geoAreaName'],
+        'is--un_sdg_ldc': 'TRUE'
+    },{
+        'un_sdg_ldc': 'un_not_least_developed',
+        'name': 'Other UN Countries',
+        'is--un_sdg_ldc': 'TRUE'
+    }]
+    ldc_countries = []
+    ldc_set = set()
+    for country in regions_tree[1]['children']:
+        code = str(country['geoAreaCode'])
+        if code in synonyms_dict:
+            ldc_countries.append({
+                'country': synonyms_dict[code],
+                'un_sdg_ldc': 'un_least_developed'
+            })
+            ldc_set.add(code)
+        else:
+            print('Could not find synonym for ', country)
+    """for country in regions_flat[1]['children']:
+        code = str(country['geoAreaCode'])
+        if code in synonyms_dict and code not in ldc_set:
+            ldc_countries.append({
+                'country': synonyms_dict[code],
+                'un_sdg_ldc': 'un_not_least_developed'
+            })
+    """
+    # SDG Regions
     regions = []
-    sdg_countries = []
+    region_countries = []
     for region_id, subregions in region_composition.items():
         region_name = regions_flat[region_id]['geoAreaName']
-        region_entity_id = to_concept_id(region_name)
+        region_entity_id = 'un_' + to_concept_id(region_name)
         region = {
             'un_sdg_region': region_entity_id,
             'name': region_name,
-            'color': '#' + region_color[region_id]
+            'color': '#' + region_color[region_id],
+            'is--un_sdg_region': 'TRUE'
         }
         regions.append(region)
 
@@ -88,7 +119,7 @@ def main():
             for country in regions_flat[subregion]['children']:
                 code = str(country['geoAreaCode'])
                 if code in synonyms_dict:
-                    sdg_countries.append({
+                    region_countries.append({
                         'country': synonyms_dict[code],
                         'un_sdg_region': region_entity_id
                     })
@@ -100,12 +131,19 @@ def main():
     # un sdg region entity set
     regions_df = pd.DataFrame.from_records(regions)
     regions_df.to_csv('../../ddf--entities--geo--un_sdg_region.csv', index=False)
+    
+    # un sdg ldc entity set
+    ldc_df = pd.DataFrame.from_records(ldc_entities)
+    ldc_df.to_csv('../../ddf--entities--geo--un_sdg_ldc.csv', index=False)
 
     # update country properties
     country_df = country_df.set_index('country')
-    sdg_countries = pd.DataFrame.from_records(sdg_countries).set_index('country')
+    region_countries = pd.DataFrame.from_records(region_countries).set_index('country')
+    ldc_countries = pd.DataFrame.from_records(ldc_countries).set_index('country')
 
-    country_df['un_sdg_region'] = sdg_countries.reindex(country_df.index)['un_sdg_region']
+    country_df['un_sdg_region'] = region_countries.reindex(country_df.index)['un_sdg_region']
+    country_df['un_sdg_ldc'] = ldc_countries.reindex(country_df.index)['un_sdg_ldc']
+    country_df.loc[(country_df['un_state'] == 'TRUE') & (country_df['un_sdg_ldc'] != 'un_least_developed'), 'un_sdg_ldc'] = 'un_not_least_developed'
     country_df.to_csv('../../ddf--entities--geo--country.csv')
 
 
