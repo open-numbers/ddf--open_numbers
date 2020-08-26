@@ -92,14 +92,14 @@ def main():
             ldc_set.add(code)
         else:
             print('Could not find synonym for ', country)
-    """for country in regions_flat[1]['children']:
+    for country in regions_flat[1]['children']:
         code = str(country['geoAreaCode'])
         if code in synonyms_dict and code not in ldc_set:
             ldc_countries.append({
                 'country': synonyms_dict[code],
                 'un_sdg_ldc': 'un_not_least_developed'
             })
-    """
+
     # SDG Regions
     regions = []
     region_countries = []
@@ -143,10 +143,10 @@ def main():
 
     country_df['un_sdg_region'] = region_countries.reindex(country_df.index)['un_sdg_region']
     country_df['un_sdg_ldc'] = ldc_countries.reindex(country_df.index)['un_sdg_ldc']
-    country_df.loc[(country_df['un_state'] == 'TRUE') & (country_df['un_sdg_ldc'] != 'un_least_developed'), 'un_sdg_ldc'] = 'un_not_least_developed'
     country_df.to_csv('../../ddf--entities--geo--country.csv')
 
 
 if __name__ == '__main__':
     main()
+    print('Concept file was not manipulated. Please update concepts and their properties (e.g. colors) manually if needed.')
     print('Done.')
