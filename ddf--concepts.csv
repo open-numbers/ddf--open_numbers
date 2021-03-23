@@ -13,8 +13,8 @@ format,string,,Format,value formatter settings: add 'format' concept property to
 tags,string,,Tags,,,_none,,,,,
 synonym,string,,Synonym,,,_none,,,,,
 scales,string,,Scales,,,_none,,,,,
-geo,entity_domain,,Geographic location,,,_none,,https://github.com/open-numbers/ddf--gapminder--dim_geo_countries_and_groups/blob/master/ddf--list--geo--country.csv,,,
-country,entity_set,geo,Country,,,categorizations,,https://github.com/open-numbers/ddf--gapminder--dim_geo_countries_and_groups/blob/master/ddf--list--geo--country.csv,,"[""world_6region"", ""income_groups"", ""landlocked"", ""g77_and_oecd_countries"", ""main_religion_2008"", ""world_4region"", ""unicef_region"", ""un_sdg_ldc"", ""un_sdg_region""]",
+geo,entity_domain,,Geographic location,,,_none,,,,,
+country,entity_set,geo,Country,,,categorizations,,,,"[""world_6region"", ""income_groups"", ""landlocked"", ""g77_and_oecd_countries"", ""main_religion_2008"", ""world_4region"", ""unicef_region"", ""un_sdg_ldc"", ""un_sdg_region""]",
 world_4region,entity_set,geo,World Regions,,,categorizations,,https://docs.google.com/spreadsheet/pub?key=0ArfEDsV3bBwCdHlocWJBM1Uyd1ZPeHduU3c4WGplMEE,"{""shades"": {""fill3"": 2, ""print_stroke"": 5, ""print_fill"": 4, ""fill2"": 1, ""shade"": 3, ""fill1"": 0}, ""palette"": {""americas"": [""#7feb00"", ""#5de200"", ""#81f201"", ""#00b900"", ""#b5ea32"", ""#008d36""], ""europe"": [""#ffe700"", ""#fbdd00"", ""#fff400"", ""#fbaf09"", ""#ffe700"", ""#b17f4a""], ""africa"": [""#00d5e9"", ""#00c8ec"", ""#00e1ec"", ""#0098df"", ""#77dff7"", ""#0586c6""], ""asia"": [""#ff5872"", ""#ff5178"", ""#ff658a"", ""#da0025"", ""#fa4e73"", ""#b2043a""], ""_default"": [""#ffb600"", ""#ffaa14"", ""#ffc500"", ""#fb6d19"", ""#ffb600"", ""#9b4838""]}, ""selectable"": false}",,
 world_6region,entity_set,geo,World Regions (6 colors),,,categorizations,,https://docs.google.com/spreadsheet/pub?key=phT4mwjvEuGBtdf1ZeO7_PQ,"{""palette"": {""east_asia_pacific"": ""#f03838"", ""sub_saharan_africa"": ""#4e7af0"", ""south_asia"": ""#35d1d1"", ""europe_central_asia"": ""#f49d37"", ""middle_east_north_africa"": ""#5be56b"", ""america"": ""#ebcc21""}, ""selectable"": false}",,
 un_sdg_region,entity_set,geo,UN SDG Regions,,,categorizations,,https://unstats.un.org/sdgs/indicators/regional-groups,"{""palette"": {""un_sub_saharan_africa"":""#e11484"",""un_northern_africa_and_western_asia"":""#f99d26"",""un_central_and_southern_asia"":""#f36d25"",""un_eastern_and_south_eastern_asia"":""#279b48"",""un_oceania_exc_australia_and_new_zealand"":""#8f1838"",""un_latin_america_and_the_caribbean"":""#00aed9"",""un_australia_and_new_zealand"":""#eb1c2d"",""un_europe_and_northern_america"":""#02558b""}, ""selectable"": true}",,
@@ -32,8 +32,8 @@ iso3166_1_alpha3,string,,ISO 3166-1 alpha-3,,,_none,,http://www.iso.org/iso/home
 iso3166_1_numeric,string,,ISO 3166-1 numeric,,,_none,,http://www.iso.org/iso/home/standards/country_codes.htm,,,
 iso3166_2,string,,ISO 3166-2,,,_none,,https://en.wikipedia.org/wiki/ISO_3166-2,,,
 unicode_region_subtag,string,,Unicode CLDR Region subtag,,,_none,,http://www.unicode.org/reports/tr35/#unicode_region_subtag_validity,,,
-latitude,measure,,Latitude,,,_none,"[""linear""]",https://github.com/open-numbers/ddf--gapminder--dim_geo_countries_and_groups/blob/master/ddf--list--geo--country.csv,,,degrees
-longitude,measure,,Longitude,,,_none,"[""linear""]",https://github.com/open-numbers/ddf--gapminder--dim_geo_countries_and_groups/blob/master/ddf--list--geo--country.csv,,,degrees
+latitude,measure,,Latitude,,,_none,"[""linear""]",,,,degrees
+longitude,measure,,Longitude,,,_none,"[""linear""]",,,,degrees
 rank,measure,,Ranking order,,,_none,,,,,
 topojson,string,,TopoJSON,,,_none,,,,,
 color,string,,Color,,,_none,,,,,
