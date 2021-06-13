@@ -245,6 +245,7 @@ Cong,cog
 Congo,cog
 Congo - Brazzaville,cog
 Congo (Republic of),cog
+"Congo, Republic of",cog
 Congo Brazzaville,cog
 "Congo, Rep.",cog
 "CONGO, Republic of",cog
@@ -344,6 +345,7 @@ EG,egy
 EGY,egy
 Egypt,egy
 "Egypt, Arab Rep.",egy
+"Egypt, Arab Republic of",egy
 232,eri
 ER,eri
 ERI,eri
@@ -1262,6 +1264,7 @@ VEN,ven
 Venezuela,ven
 Venezuela (Bolivarian Republic of,ven
 Venezuela (Bolivarian Republic of),ven
+"Venezuela, Republica Bolivariana de",ven
 "Venezuela, RB",ven
 92,vgb
 British Virgin Islands,vgb
@@ -1301,6 +1304,7 @@ YEM,yem
 Yemen,yem
 Yemen Republic,yem
 "Yemen, Rep.",yem
+"Yemen, Republic of",yem
 FORMER YEMEN,yem_north
 North Yemen (former),yem_north
 North_Yemen,yem_north
@@ -1651,6 +1655,7 @@ Faroe_Islands,fro
 Federated_States_of_Micronesia,fsm
 Micronesia_(Federated_States_of,fsm
 Micronesia_(Federated_States_of),fsm
+"Micronesia, Federated States of",fsm
 Isle_of_Man,gbm
 Unitd_Kingdm,gbr
 United_Kingdom,gbr
