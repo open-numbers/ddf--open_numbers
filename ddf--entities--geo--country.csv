@@ -168,7 +168,7 @@ mus,g77,upper_middle_income,TRUE,MU,MU,MUS,480,,coastline,-20.3,57.58333,,Maurit
 mwi,g77,low_income,TRUE,MW,MW,MWI,454,,landlocked,-13.5,34.0,christian,Malawi,TRUE,africa,sub_saharan_africa,ssa,low_income,un_sub_saharan_africa,un_least_developed,unhcr_southern_africa
 mys,g77,upper_middle_income,TRUE,MY,MY,MYS,458,,coastline,2.5,112.5,muslim,Malaysia,TRUE,asia,east_asia_pacific,eap,middle_income,un_eastern_and_south_eastern_asia,un_not_least_developed,unhcr_asia_pacific
 myt,others,,TRUE,YT,YT,MYT,175,,coastline,-12.83333,45.16667,muslim,Mayotte,FALSE,africa,sub_saharan_africa,,,un_sub_saharan_africa,un_not_least_developed,
-nam,g77,upper_middle_income,TRUE,,,NAM,516,,coastline,-22.0,17.0,christian,Namibia,TRUE,africa,sub_saharan_africa,ssa,middle_income,un_sub_saharan_africa,un_not_least_developed,unhcr_southern_africa
+nam,g77,upper_middle_income,TRUE,NA,NA,NAM,516,,coastline,-22.0,17.0,christian,Namibia,TRUE,africa,sub_saharan_africa,ssa,middle_income,un_sub_saharan_africa,un_not_least_developed,unhcr_southern_africa
 ncl,others,high_income,TRUE,NC,NC,NCL,540,,coastline,-21.5,165.5,christian,New Caledonia,FALSE,asia,east_asia_pacific,,high_income,un_oceania_exc_australia_and_new_zealand,un_not_least_developed,unhcr_asia_pacific
 ner,g77,low_income,TRUE,NE,NE,NER,562,,landlocked,18.0,9.0,muslim,Niger,TRUE,africa,sub_saharan_africa,ssa,low_income,un_sub_saharan_africa,un_least_developed,unhcr_west_central_africa
 nfk,others,,TRUE,NF,NF,NFK,574,,coastline,-29.03333,167.95,,Norfolk Island,FALSE,asia,east_asia_pacific,,,un_australia_and_new_zealand,un_not_least_developed,
