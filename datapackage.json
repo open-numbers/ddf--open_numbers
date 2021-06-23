@@ -8,9 +8,9 @@
     "description": "",
     "author": "",
     "license": "",
+    "created": "2021-06-23T03:16:51.637497+00:00",
     "translations": [],
     "version": "0.0.1",
-    "created": "2021-06-22T03:19:56.313377+00:00",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -126,7 +126,7 @@
                         "name": "un_sdg_ldc"
                     },
                     {
-                        "name": "unhcr_regions"
+                        "name": "unhcr_region"
                     }
                 ],
                 "primaryKey": "country"
@@ -1541,7 +1541,7 @@
                 "primaryKey": [
                     "country"
                 ],
-                "value": "unhcr_regions",
+                "value": "unhcr_region",
                 "resources": [
                     "ddf--entities--geo--country"
                 ]
@@ -1550,7 +1550,7 @@
                 "primaryKey": [
                     "geo"
                 ],
-                "value": "unhcr_regions",
+                "value": "unhcr_region",
                 "resources": [
                     "ddf--entities--geo--country"
                 ]

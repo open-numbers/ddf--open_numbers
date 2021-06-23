@@ -1,4 +1,4 @@
-country,g77_and_oecd_countries,income_groups,is--country,iso3166_1_alpha2,unicode_region_subtag,iso3166_1_alpha3,iso3166_1_numeric,iso3166_2,landlocked,latitude,longitude,main_religion_2008,name,un_state,world_4region,world_6region,unicef_region,income_3groups,un_sdg_region,un_sdg_ldc,unhcr_regions
+country,g77_and_oecd_countries,income_groups,is--country,iso3166_1_alpha2,unicode_region_subtag,iso3166_1_alpha3,iso3166_1_numeric,iso3166_2,landlocked,latitude,longitude,main_religion_2008,name,un_state,world_4region,world_6region,unicef_region,income_3groups,un_sdg_region,un_sdg_ldc,unhcr_region
 abkh,others,,TRUE,,,,,,,,,,Abkhazia,FALSE,europe,europe_central_asia,,,,,
 abw,others,high_income,TRUE,AW,AW,ABW,533,,coastline,12.5,-69.96667,christian,Aruba,FALSE,americas,america,,high_income,un_latin_america_and_the_caribbean,un_not_least_developed,unhcr_americas
 afg,g77,low_income,TRUE,AF,AF,AFG,4,,landlocked,33.0,66.0,muslim,Afghanistan,TRUE,asia,south_asia,sa,low_income,un_central_and_southern_asia,un_least_developed,unhcr_asia_pacific
