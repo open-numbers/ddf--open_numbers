@@ -3,413 +3,569 @@ Abkhazia,abkh
 GE-AB,abkh
 533,abw
 ABW,abw
-Aruba,abw
+ARUBA,abw
 AW,abw
+Aruba,abw
 4,afg
 AF,afg
 AFG,afg
+AFGHANISTAN,afg
 Afghanistan,afg
 Islamic Republic of Afghanistan,afg
+Islamic_Republic_of_Afghanistan,afg
 24,ago
 AGO,ago
-Angola,ago
+ANGOLA,ago
 AO,ago
+Angola,ago
 660,aia
 AI,aia
 AIA,aia
+ANGUILLA,aia
 Anguilla,aia
 Akrotiri and Dhekelia,akr_a_dhe
 Akrotiri_Dhekelia,akr_a_dhe
+Akrotiri_and_Dhekelia,akr_a_dhe
 248,ala
-Åland,ala
 AALAND ISLANDS,ala
+AALAND_ISLANDS,ala
 ALA,ala
 AX,ala
+Åland,ala
+Åland Islands,ala
+√Öland,ala
 8,alb
 AL,alb
 ALB,alb
+ALBANIA,alb
 Albania,alb
 20,and
 AD,and
 AND,and
+ANDORRA,and
 Andorra,and
+530,ant
 AN,ant
+NETHERLANDS ANTILLES,ant
+NETHERLANDS_ANTILLES,ant
 Neth. Antilles,ant
 Netherland Antilles,ant
+Netherland_Antilles,ant
 Netherlands Antilles,ant
-530,ant
+Netherlands Antilles (former),ant
+Netherlands_Antilles,ant
 784,are
 AE,are
 ARE,are
 UAE,are
+UNITED ARAB EMIRATES,are
+UNITED_ARAB_EMIRATES,are
 United Arab Emirates,are
+United_Arab_Emirates,are
 32,arg
 AR,arg
 ARG,arg
+ARGENTINA,arg
 Argentina,arg
 51,arm
 AM,arm
 ARM,arm
+ARMENIA,arm
 Armenia,arm
 16,asm
-American Samoa,asm
+AMERICAN SAMOA,asm
+AMERICAN_SAMOA,asm
 AS,asm
 ASM,asm
+American Samoa,asm
+American_Samoa,asm
 10,ata
-Antarctica,ata
 AQ,ata
 ATA,ata
+Antarctica,ata
 28,atg
 AG,atg
+ANTIGUA AND BARBUDA,atg
+ANTIGUA_AND_BARBUDA,atg
+ATG,atg
 Antigua & Barbuda,atg
 Antigua and Barbuda,atg
-ATG,atg
+Antigua_and_Barbuda,atg
 36,aus
 AU,aus
 AUS,aus
+AUSTRALIA,aus
 Australia,aus
 40,aut
 AT,aut
-Austria,aut
+AUSTRIA,aut
 AUT,aut
+Austria,aut
 31,aze
 AZ,aze
 AZE,aze
+AZERBAIJAN,aze
 Azerbaijan,aze
 108,bdi
 BDI,bdi
 BI,bdi
+BURUNDI,bdi
 Burundi,bdi
 56,bel
 BE,bel
 BEL,bel
+BELGIUM,bel
 Belgium,bel
 204,ben
 BEN,ben
-Benin,ben
+BENIN,ben
 BJ,ben
-"Bonaire, Sint Eustatius and Saba",bes
-"Bonaire, Saint Eustatius and Saba",bes
-"bonaire, saint eustatius, and saba",bes
+Benin,ben
 535,bes
 BES,bes
+"Bonaire, Saint Eustatius and Saba",bes
+"Bonaire, Sint Eustatius and Saba",bes
+"bonaire, saint eustatius, and saba",bes
 854,bfa
 BF,bfa
 BFA,bfa
+BURKINA FASO,bfa
+BURKINA_FASO,bfa
 Burkina Faso,bfa
 Burkina_Faso,bfa
 50,bgd
-Bangladesh,bgd
+BANGLADESH,bgd
 BD,bgd
 BGD,bgd
+Bangladesh,bgd
 100,bgr
 BG,bgr
 BGR,bgr
+BULGARIA,bgr
 Bulgaria,bgr
 48,bhr
-Bahrain,bhr
-Bahrein,bhr
+BAHRAIN,bhr
 BH,bhr
 BHR,bhr
+Bahrain,bhr
+Bahrein,bhr
 44,bhs
-Bahamas,bhs
-"Bahamas, The",bhs
+BAHAMAS,bhs
 BHS,bhs
 BS,bhs
+Bahamas,bhs
+"Bahamas, The",bhs
 The Bahamas,bhs
+The_Bahamas,bhs
 70,bih
 BA,bih
 BIH,bih
+BOSNIA & HERZEGOVINA,bih
+BOSNIA AND HERZEGOWINA,bih
+BOSNIA_AND_HERZEGOWINA,bih
 Bosnia,bih
 Bosnia & Herzegovina,bih
 Bosnia & Herzegovinia,bih
+Bosnia Herzegovena,bih
 Bosnia and H.,bih
 Bosnia and Herzegovina,bih
-BOSNIA AND HERZEGOWINA,bih
-Bosnia Herzegovena,bih
 Bosnia-Herzegovina,bih
+Bosnia_Herzegovena,bih
+Bosnia_and_Herzegovina,bih
 112,blr
-Belarus,blr
+BELARUS,blr
 BLR,blr
 BY,blr
+Belarus,blr
 84,blz
-Belize,blz
+BELIZE,blz
 BLZ,blz
 BZ,blz
+Belize,blz
 60,bmu
-Bermuda,bmu
+BERMUDA,bmu
 BM,bmu
 BMU,bmu
+Bermuda,bmu
 68,bol
 BO,bol
 BOL,bol
+BOLIVIA,bol
 Bolivia,bol
 Bolivia (Plurinational State of),bol
 Bolivia Plurinational States of,bol
+Bolivia_(Plurinational_State_of),bol
+Bolivia_Plurinational_States_of,bol
 PLURINATIONAL STATE OF BOLIVIA,bol
+PLURINATIONAL_STATE_OF_BOLIVIA,bol
 74,bouisl
-Bouvet Island,bouisl
 BV,bouisl
 BVT,bouisl
+Bouvet Island,bouisl
+Bouvet_Island,bouisl
 76,bra
 BR,bra
 BRA,bra
+BRAZIL,bra
 Brazil,bra
 52,brb
-Barbados,brb
+BARBADOS,brb
 BB,brb
 BRB,brb
+Barbados,brb
 96,brn
 BN,brn
 BRN,brn
+BRUNEI DARUSSALAM,brn
+BRUNEI_DARUSSALAM,brn
 Brunei,brn
 Brunei (Darussalam),brn
 Brunei Darussalam,brn
+Brunei_(Darussalam),brn
+Brunei_Darussalam,brn
 64,btn
-Bhutan,btn
+BHUTAN,btn
 BT,btn
 BTN,btn
+Bhutan,btn
 72,bwa
-Botswana,bwa
+BOTSWANA,bwa
 BW,bwa
 BWA,bwa
+Botswana,bwa
 140,caf
 CAF,caf
 CAR,caf
+CENTRAL AFRICAN REPUBLIC,caf
+CENTRAL_AFRICAN_REPUBLIC,caf
+CF,caf
 Central AfR,caf
 Central African Rep.,caf
 Central African Republic,caf
+Central_AfR,caf
 Central_African_Republic,caf
-CF,caf
 124,can
 CA,can
 CAN,can
+CANADA,can
 Canada,can
 166,cck
 CC,cck
 CCK,cck
 COCOS (KEELING) ISLANDS,cck
+COCOS_(KEELING)_ISLANDS,cck
 Cocos Island,cck
+Cocos_Island,cck
 Channel Islands,chanisl
 Channel_Islands,chanisl
 756,che
 CH,che
 CHE,che
+SWITZERLAND,che
 Switzerland,che
 Czechoslovakia,cheslo
-"Czechoslovakia, Former",cheslo
 Czechoslovakia (former),cheslo
+"Czechoslovakia, Former",cheslo
 152,chl
-Chile,chl
+CHILE,chl
 CHL,chl
 CL,chl
+Chile,chl
 156,chn
-China,chn
-China (Mainland),chn
+CHINA,chn
 CHN,chn
 CN,chn
+China,chn
+China (Mainland),chn
+"China, mainland",chn
+China_(Mainland),chn
 384,civ
 CI,civ
 CIV,civ
+COTE D'IVOIRE,civ
 Cote D Ivoire,civ
 Cote Divoire,civ
 Cote d'Ivoire,civ
-Côte d'Ivoire,civ
+Cote_D_Ivoire,civ
+Cote_Divoire,civ
 Cote_dIvoire,civ
+CÃ´te d'Ivoire,civ
+Côte d'Ivoire,civ
 Ivory Coast,civ
+Ivory_Coast,civ
 120,cmr
-Cameroon,cmr
+CAMEROON,cmr
 CM,cmr
 CMR,cmr
+Cameroon,cmr
 Republic Of Cameroon,cmr
+Republic_Of_Cameroon,cmr
 180,cod
 CD,cod
 COD,cod
-Congo - Kinshasa,cod
-Congo (Democratic Republic of the),cod
-Dem. Rep. of the Congo,cod
-Congo [DRC],cod
-Congo Dem Rep,cod
-Congo DR,cod
 "CONGO, DEM REP",cod
-"Congo, Dem. Rep.",cod
 "CONGO, Democratic Republic of (was Zaire)",cod
+Congo (Democratic Republic of the),cod
+Congo - Kinshasa,cod
+Congo DR,cod
+Congo Dem Rep,cod
+Congo [DRC],cod
+"Congo, Dem. Rep.",cod
+"Congo, Democratic Republic of",cod
+"Congo, Democratic Republic of the",cod
+Congo_(Democratic_Republic_of_the),cod
+Congo_DR,cod
+Congo_Dem_Rep,cod
 Congo_Democratic_Republic,cod
 Dem. Rep. Congo,cod
-Democratic Republic of Congo,cod
+Dem. Rep. of the Congo,cod
 Democratic Republic Of The Congo,cod
 Democratic Republic Of The Congo (Formerly Zaire),cod
+Democratic Republic of Congo,cod
+Democratic Republic of the Congo,cod
+Democratic_Republic_Of_The_Congo,cod
+Democratic_Republic_Of_The_Congo_(Formerly_Zaire),cod
+Democratic_Republic_of_Congo,cod
+Democratic_Republic_of_the_Congo,cod
+The Democratic Republic of the Congo,cod
 178,cog
 CG,cog
 COG,cog
+"CONGO, REPUBLIC OF THE",cog
+"CONGO, Republic of",cog
 Cong,cog
 Congo,cog
-Congo - Brazzaville,cog
 Congo (Republic of),cog
-"Congo, Republic of",cog
+Congo - Brazzaville,cog
 Congo Brazzaville,cog
 "Congo, Rep.",cog
-"CONGO, Republic of",cog
-"CONGO, REPUBLIC OF THE",cog
+"Congo, Republic of",cog
+Congo_(Republic_of),cog
+Congo_Brazzaville,cog
 Republic of Congo,cog
+Republic_of_Congo,cog
 184,cok
 CK,cok
 COK,cok
+COOK ISLANDS,cok
+COOK_ISLANDS,cok
 Cook Is,cok
 Cook Islands,cok
+Cook_Is,cok
+Cook_Islands,cok
 170,col
 CO,col
 COL,col
+COLOMBIA,col
 Colombia,col
 174,com
 COM,com
+COMOROS,com
 Comores,com
 Comoros,com
 KM,com
 132,cpv
-Cabo Verde,cpv
-Cape Verde,cpv
+CAPE VERDE,cpv
+CAPE_VERDE,cpv
 CPV,cpv
 CV,cpv
+Cabo Verde,cpv
+Cabo_Verde,cpv
+Cape Verde,cpv
+Cape_Verde,cpv
 188,cri
-Costa Rica,cri
-Costa_Rica,cri
+COSTA RICA,cri
+COSTA_RICA,cri
 CR,cri
 CRI,cri
+Costa Rica,cri
+Costa_Rica,cri
 192,cub
 CU,cub
 CUB,cub
+CUBA,cub
 Cuba,cub
 162,cxr
-Christmas Island,cxr
+CHRISTMAS ISLAND,cxr
+CHRISTMAS_ISLAND,cxr
 CX,cxr
 CXR,cxr
+Christmas Island,cxr
+Christmas_Island,cxr
 136,cym
-Cayman Islands,cym
+CAYMAN ISLANDS,cym
+CAYMAN_ISLANDS,cym
 CYM,cym
+Cayman Islands,cym
+Cayman_Islands,cym
 KY,cym
 196,cyp
 CY,cyp
 CYP,cyp
+CYPRUS,cyp
 Cyprus,cyp
 Northern Cyprus,cyp_nor
 Northern_Cyprus,cyp_nor
 203,cze
 CZ,cze
 CZE,cze
+CZECH REPUBLIC,cze
+CZECH_REPUBLIC,cze
 Czech Rep,cze
 Czech Rep.,cze
 Czech Republic,cze
+Czech_Rep,cze
+Czech_Republic,cze
 Czechia,cze
 276,deu
 DE,deu
 DEU,deu
+GERMANY,deu
 Germany,deu
 East Germany,deu_east
 East_Germany,deu_east
 FORMER GERMAN DEMOCRATIC REPUBLIC,deu_east
+FORMER_GERMAN_DEMOCRATIC_REPUBLIC,deu_east
 "Germany, Former Democratic Republic",deu_east
 FEDERAL REPUBLIC OF GERMANY,deu_west
+FEDERAL_REPUBLIC_OF_GERMANY,deu_west
+"Germany, Former Federal Republic",deu_west
 West Germany,deu_west
 West_Germany,deu_west
-"Germany, Former Federal Republic",deu_west
 262,dji
 DJ,dji
 DJI,dji
+DJIBOUTI,dji
 Djibouti,dji
 212,dma
 DM,dma
 DMA,dma
+DOMINICA,dma
 Dominica,dma
 208,dnk
-Denmark,dnk
+DENMARK,dnk
 DK,dnk
 DNK,dnk
+Denmark,dnk
 214,dom
 DO,dom
 DOM,dom
+DOMINICAN REP.,dom
+DOMINICAN REPUBLIC,dom
+DOMINICAN_REPUBLIC,dom
 Dom.R.,dom
 Dominican Rep.,dom
 Dominican Republic,dom
-Dominican_Republic,dom
 DominicanRep,dom
+Dominican_Republic,dom
 12,dza
+ALGERIA,dza
 Algeria,dza
 DZ,dza
 DZA,dza
 218,ecu
 EC,ecu
 ECU,ecu
+ECUADOR,ecu
 Ecuador,ecu
 818,egy
 EG,egy
 EGY,egy
+EGYPT,egy
 Egypt,egy
 "Egypt, Arab Rep.",egy
 "Egypt, Arab Republic of",egy
 232,eri
 ER,eri
 ERI,eri
+ERITREA,eri
 Eritrea,eri
 Eritrea and Ethiopia,eri_a_eth
 Eritrea_Ethiopia,eri_a_eth
+Eritrea_and_Ethiopia,eri_a_eth
 732,esh
 EH,esh
 ESH,esh
+WESTERN SAHARA,esh
+WESTERN_SAHARA,esh
 Western Sahara,esh
+Western_Sahara,esh
 724,esp
 ES,esp
 ESP,esp
+SPAIN,esp
 Spain,esp
 233,est
 EE,est
 EST,est
+ESTONIA,est
 Estonia,est
 231,eth
 ET,eth
 ETH,eth
+ETHIOPIA,eth
 Ethiopia,eth
 246,fin
 FI,fin
 FIN,fin
+FINLAND,fin
 Finland,fin
 242,fji
-Fiji,fji
+FIJI,fji
 FJ,fji
 FJI,fji
+Fiji,fji
 238,flk
+FALKLAND ISLANDS (MALVINAS),flk
+FALKLAND_ISLANDS_(MALVINAS),flk
+FK,flk
+FLK,flk
 Falkland Is (Malvinas),flk
 Falkland Islands,flk
 Falkland Islands (Malvinas),flk
-FK,flk
-FLK,flk
+Falkland_Is_(Malvinas),flk
+Falkland_Islands,flk
+Falkland_Islands_(Malvinas),flk
 250,fra
 FR,fra
 FRA,fra
+FRANCE,fra
 France,fra
 France (Including Monaco),fra
+France_(Including_Monaco),fra
 French Southern and Antarctic Lands,fra_antarc
+French_Southern_and_Antarctic_Lands,fra_antarc
 TF,fra_antarc
-Clipperton,fra_clipperton
 CP,fra_clipperton
+Clipperton,fra_clipperton
+Clipperton Island,fra_clipperton
 234,fro
-Faeroe Islands,fro
-Faroe Islands,fro
+FAROE ISLANDS,fro
+FAROE_ISLANDS,fro
 FO,fro
 FRO,fro
+Faeroe Islands,fro
+Faeroe_Islands,fro
+Faroe Islands,fro
+Faroe_Islands,fro
 583,fsm
-Federated States of Micronesia,fsm
 FM,fsm
 FSM,fsm
+Federated States of Micronesia,fsm
+Federated_States_of_Micronesia,fsm
+"MICRONESIA, FEDERATED STATES OF",fsm
 Micronesia,fsm
 Micronesia (Fed. States of),fsm
 Micronesia (Federated States of,fsm
 Micronesia (Federated States of),fsm
 "Micronesia, Fed. Sts.",fsm
-"MICRONESIA, FEDERATED STATES OF",fsm
+"Micronesia, Federated States of",fsm
+Micronesia_(Federated_States_of,fsm
+Micronesia_(Federated_States_of),fsm
 266,gab
 GA,gab
 GAB,gab
+GABON,gab
 Gabon,gab
 831,gbg
 GG,gbg
@@ -419,49 +575,69 @@ Guernsey,gbg
 IM,gbm
 IMN,gbm
 Isle of Man,gbm
+Isle_of_Man,gbm
 826,gbr
 GB,gbr
 GBR,gbr
+U.K. of Great Britain and Northern Ireland,gbr
 UK,gbr
+UNITED KINGDOM,gbr
+UNITED_KINGDOM,gbr
 Unitd Kingdm,gbr
+Unitd_Kingdm,gbr
 United Kingdom,gbr
 United Kingdom of Great Britain and Northern Ireland,gbr
+United_Kingdom,gbr
+United_Kingdom_of_Great_Britain_and_Northern_Ireland,gbr
 268,geo
 GE,geo
 GEO,geo
+GEORGIA,geo
 Georgia,geo
 http://en.wikipedia.org/wiki/ISO_3166-2:GE,geo
 288,gha
 GH,gha
 GHA,gha
+GHANA,gha
 Ghana,gha
 292,gib
 GI,gib
 GIB,gib
+GIBRALTAR,gib
 Gibraltar,gib
 324,gin
 GIN,gin
 GN,gin
+GUINEA,gin
 Guinea,gin
 312,glp
 GLP,glp
 GP,glp
+GUADELOUPE,glp
 Guadeloupe,glp
 270,gmb
+GAMBIA,gmb
+GM,gmb
+GMB,gmb
 Gambia,gmb
 Gambia The,gmb
 "Gambia, The",gmb
-GM,gmb
-GMB,gmb
+Gambia_The,gmb
 The Gambia,gmb
+The_Gambia,gmb
 624,gnb
 GNB,gnb
-Guinea Bissau,gnb
-GuineaBiss,gnb
-Guinea-Bissau,gnb
+GUINEA-BISSAU,gnb
 GW,gnb
+Guinea Bissau,gnb
+Guinea-Bissau,gnb
+GuineaBiss,gnb
+Guinea_Bissau,gnb
 226,gnq
+EQUATORIAL GUINEA,gnq
+EQUATORIAL_GUINEA,gnq
 Equa Guinea,gnq
+Equa_Guinea,gnq
 Equatorial Guinea,gnq
 Equatorial_Guinea,gnq
 GNQ,gnq
@@ -469,591 +645,811 @@ GQ,gnq
 300,grc
 GR,grc
 GRC,grc
+GREECE,grc
 Greece,grc
 308,grd
 GD,grd
 GRD,grd
+GRENADA,grd
 Grenada,grd
 304,grl
 GL,grl
-Greenland,grl
+GREENLAND,grl
 GRL,grl
+Greenland,grl
 320,gtm
 GT,gtm
 GTM,gtm
+GUATEMALA,gtm
 Guatemala,gtm
 254,guf
+FRENCH GUIANA,guf
+FRENCH_GUIANA,guf
 French Guiana,guf
+French_Guiana,guf
 GF,guf
 GUF,guf
 Guyana (Fr.),guf
 316,gum
 GU,gum
-Guam,gum
+GUAM,gum
 GUM,gum
+Guam,gum
 328,guy
 GUY,guy
-Guyana,guy
+GUYANA,guy
 GY,guy
+Guyana,guy
 334,heard_a_mcd
-Heard and McDonald Islands,heard_a_mcd
 HM,heard_a_mcd
 HMD,heard_a_mcd
+Heard and McDonald Islands,heard_a_mcd
+Heard_and_McDonald_Islands,heard_a_mcd
+Heard Island and McDonald Islands,heard_a_mcd
 344,hkg
+China Hong Kong SAR,hkg
 "China, Hong Kong SAR",hkg
+China_Hong_Kong_SAR,hkg
 HK,hkg
 HKG,hkg
+HONG KONG,hkg
+HONG KONG SPECIAL ADMINISTRATIVE REGION OF CHINA,hkg
+HONG_KONG,hkg
+HONG_KONG_SPECIAL_ADMINISTRATIVE_REGION_OF_CHINA,hkg
 Hong Kong,hkg
 Hong Kong SAR,hkg
 "Hong Kong SAR, China",hkg
 "Hong Kong, China",hkg
 "Hong Kong, China (SAR)",hkg
+Hong_Kong,hkg
+Hong_Kong_SAR,hkg
 Hongkong,hkg
 hong kong special adminstrative region of china,hkg
 340,hnd
 HN,hnd
 HND,hnd
+HONDURAS,hnd
 Honduras,hnd
 336,hos
 Holy See,hos
-Holy_See,hos
 Holy See (the),hos
+Holy_See,hos
+Holy_See_(the),hos
 VA,hos
 VAT,hos
 Vatican City,hos
+Vatican_City,hos
+Holy See (Vatican City State),hos
 191,hrv
-Croatia,hrv
+CROATIA,hrv
 CROATIA (local name: Hrvatska),hrv
+Croatia,hrv
 HR,hrv
 HRV,hrv
 332,hti
-Haiti,hti
+HAITI,hti
 HT,hti
 HTI,hti
+Haiti,hti
 348,hun
 HU,hun
 HUN,hun
+HUNGARY,hun
 Hungary,hun
 360,idn
 ID,idn
 IDN,idn
+INDONESIA,idn
 Indonesia,idn
 356,ind
 IN,ind
 IND,ind
+INDIA,ind
 India,ind
 86,iot
 British Indian Ocean Territory,iot
+British_Indian_Ocean_Territory,iot
 IO,iot
 IOT,iot
 372,irl
 IE,irl
-Ireland,irl
+IRELAND,irl
 IRL,irl
+Ireland,irl
 364,irn
 IR,irn
-Iran,irn
-Iran (Islamic Rep. of),irn
+IRAN,irn
 IRAN (ISLAMIC REPUBLIC OF),irn
+IRAN_(ISLAMIC_REPUBLIC_OF),irn
+IRN,irn
+Iran,irn
+Iran  (Islamic Republic of),irn
+Iran (Islamic Rep. of),irn
+Iran (Islamic Republic of),irn
 "Iran, Islamic Rep.",irn
 "Iran, Islamic Rep. of",irn
-IRN,irn
+"Iran, Islamic Republic of",irn
+Iran_(Islamic_Republic_of),irn
+Iran__(Islamic_Republic_of),irn
 Islamic Republic Of Iran,irn
+Islamic Republic of Iran,irn
+Islamic_Republic_Of_Iran,irn
+Islamic_Republic_of_Iran,irn
 368,irq
 IQ,irq
-Iraq,irq
+IRAQ,irq
 IRQ,irq
+Iraq,irq
 352,isl
-Iceland,isl
+ICELAND,isl
 IS,isl
 ISL,isl
+Iceland,isl
 376,isr
 IL,isr
 ISR,isr
+ISRAEL,isr
 Israel,isr
 380,ita
 IT,ita
 ITA,ita
+ITALY,ita
 Italy,ita
 Italy (Including San Marino),ita
+Italy_(Including_San_Marino),ita
 388,jam
 JAM,jam
-Jamaica,jam
+JAMAICA,jam
 JM,jam
+Jamaica,jam
 832,jey
 JE,jey
-Jersey,jey
 JEY,jey
+Jersey,jey
 400,jor
 JO,jor
 JOR,jor
+JORDAN,jor
 Jordan,jor
 392,jpn
-Japan,jpn
+JAPAN,jpn
 JAPAN (EXCLUDING THE RUYUKU ISLANDS),jpn
+JAPAN_(EXCLUDING_THE_RUYUKU_ISLANDS),jpn
 JP,jpn
 JPN,jpn
+Japan,jpn
 398,kaz
 KAZ,kaz
-Kazakhstan,kaz
+KAZAKHSTAN,kaz
 KZ,kaz
+Kazakhstan,kaz
 404,ken
 KE,ken
 KEN,ken
+KENYA,ken
 Kenya,ken
 417,kgz
 KG,kgz
 KGZ,kgz
+KYRGYZSTAN,kgz
 Kyrgyz,kgz
 Kyrgyz Republic,kgz
 Kyrgyz_Republic,kgz
 Kyrgyzstan,kgz
 116,khm
+CAMBODIA,khm
 Cambodia,khm
 KH,khm
 KHM,khm
 296,kir
 KI,kir
 KIR,kir
+KIRIBATI,kir
 Kiribati,kir
 659,kna
 KN,kna
 KNA,kna
+SAINT KITTS AND NEVIS,kna
+SAINT_KITTS_AND_NEVIS,kna
 Saint Kitts & Nevis,kna
 Saint Kitts and Nevis,kna
+Saint_Kitts_and_Nevis,kna
 St. Kitts and Nevis,kna
 St. Kitts-Nevis,kna
 410,kor
 KOR,kor
+"KOREA, REPUBLIC OF",kor
+KR,kor
+Korea,kor
 Korea (Rep. of),kor
 Korea (Republic of),kor
 Korea Rep,kor
 Korea South,kor
 "Korea, Rep.",kor
 "Korea, Rep. of",kor
-"KOREA, REPUBLIC OF",kor
+"Korea, Republic of",kor
 "Korea, South",kor
-KR,kor
+Korea_(Republic_of),kor
+Korea_Rep,kor
+Korea_South,kor
+Rep. of Korea,kor
 Republic Of Korea,kor
+Republic of Korea,kor
+Republic_Of_Korea,kor
+Republic_of_Korea,kor
+SOUTH KOREA,kor
+SOUTH_KOREA,kor
 South Korea,kor
+South_Korea,kor
 "Korea, United",korea_union
 United Korea,korea_union
 United Korea (former),korea_union
 United_Korea,korea_union
+United_Korea_(former),korea_union
 412,kos
 Kosovo,kos
 XK,kos
 414,kwt
-Kuwait,kwt
+KUWAIT,kwt
 KW,kwt
 KWT,kwt
+Kuwait,kwt
 418,lao
 LA,lao
 LAO,lao
+LAO PEOPLE'S DEMOCRATIC REPUBLIC,lao
 Lao P.D.R.,lao
 Lao PDR,lao
 Lao People S Democratic Republic,lao
-Lao People's Democratic Republic,lao
 Lao People's Dem. Rep.,lao
-LAO PEOPLE'S DEMOCRATIC REPUBLIC,lao
+Lao People's Democratic Republic,lao
+Lao Peopleâ€™s Democratic Republic,lao
+Lao_PDR,lao
+Lao_People_S_Democratic_Republic,lao
 Laos,lao
 422,lbn
 LB,lbn
 LBN,lbn
+LEBANON,lbn
 Lebanon,lbn
 430,lbr
 LBR,lbr
-Liberia,lbr
+LIBERIA,lbr
 LR,lbr
+Liberia,lbr
 434,lby
 LBY,lby
+LIBYAN ARAB JAMAHIRIYA,lby
+LIBYAN_ARAB_JAMAHIRIYA,lby
+LY,lby
 Libya,lby
 Libyan Arab Jamahiriya,lby
 Libyan Arab Jamahiriyah,lby
-LY,lby
+Libyan_Arab_Jamahiriya,lby
+Libyan_Arab_Jamahiriyah,lby
 662,lca
 LC,lca
 LCA,lca
+SAINT LUCIA,lca
+SAINT_LUCIA,lca
 Saint Lucia,lca
+Saint_Lucia,lca
 St. Lucia,lca
 St.Lucia,lca
 438,lie
 LI,lie
 LIE,lie
+LIECHTENSTEIN,lie
 Liechtenstein,lie
 144,lka
 LK,lka
 LKA,lka
+SRI LANKA,lka
+SRI_LANKA,lka
 Sri Lanka,lka
 Sri_Lanka,lka
 426,lso
-Lesotho,lso
+LESOTHO,lso
 LS,lso
 LSO,lso
+Lesotho,lso
 440,ltu
-Lithuania,ltu
+LITHUANIA,ltu
 LT,ltu
 LTU,ltu
+Lithuania,ltu
 442,lux
 LU,lux
 LUX,lux
+LUXEMBOURG,lux
 Luxembourg,lux
 428,lva
-Latvia,lva
+LATVIA,lva
 LV,lva
 LVA,lva
+Latvia,lva
 446,mac
 "China, Macao SAR",mac
 MAC,mac
+MACAU,mac
+MACAU SPECIAL ADMINISTRATIVE REGION OF CHINA,mac
+MACAU_SPECIAL_ADMINISTRATIVE_REGION_OF_CHINA,mac
+MO,mac
 Macao,mac
 "Macao SAR, China",mac
 "Macao, China",mac
 Macau,mac
-MACAU SPECIAL ADMINISTRATIVE REGION OF CHINA,mac
+"Macau, China",mac
 macau special adminstrative region of china,mac
-MO,mac
 663,maf
 MAF,maf
 MF,maf
-St. Martin (French part),maf
-Saint-Martin (French part),maf
 Saint Martin (French part),maf
+Saint-Martin (French part),maf
+Saint_Martin_(French_part),maf
+St. Martin (French part),maf
 504,mar
 MA,mar
 MAR,mar
+MOROCCO,mar
 Morocc,mar
 Morocco,mar
 492,mco
 MC,mco
 MCO,mco
+MONACO,mco
 Monaco,mco
 498,mda
 MD,mda
 MDA,mda
+MOLDOVA,mda
+"MOLDOVA, REPUBLIC OF",mda
 Moldova,mda
 Moldova (Republic of),mda
 "Moldova, Rep. of",mda
-"MOLDOVA, REPUBLIC OF",mda
+"Moldova, Republic of",mda
+Moldova_(Republic_of),mda
 Rep. of Moldova,mda
 Republic Of Moldov,mda
 Republic of Moldova,mda
+Republic_Of_Moldov,mda
+Republic_of_Moldova,mda
 450,mdg
-Madagascar,mdg
+MADAGASCAR,mdg
 MDG,mdg
 MG,mdg
+Madagascar,mdg
 462,mdv
-Maldives,mdv
+MALDIVES,mdv
 MDV,mdv
 MV,mdv
+Maldives,mdv
 484,mex
 MEX,mex
-Mexico,mex
+MEXICO,mex
 MX,mex
+Mexico,mex
 584,mhl
-Marshall Islands,mhl
+MARSHALL ISLANDS,mhl
+MARSHALL_ISLANDS,mhl
 MH,mhl
 MHL,mhl
+Marshall Islands,mhl
+Marshall_Islands,mhl
 807,mkd
-Macedonia,mkd
-Macedonia [FYROM],mkd
-"Macedonia, FYR",mkd
+FYR Macedonia,mkd
+FYR_Macedonia,mkd
+MACEDONIA,mkd
 "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",mkd
 MK,mkd
 MKD,mkd
+Macedonia,mkd
+Macedonia [FYROM],mkd
+"Macedonia, FYR",mkd
+"Macedonia, the former Yugoslav Republic of",mkd
+North Macedonia,mkd
+North_Macedonia,mkd
 T.F.Y.R. Macedonia,mkd
 TFYR Macedonia,mkd
+TFYR_Macedonia,mkd
 The former Yugoslav Republic of Macedonia,mkd
-North Macedonia,mkd
+The_former_Yugoslav_Republic_of_Macedonia,mkd
 466,mli
-Mali,mli
+MALI,mli
 ML,mli
 MLI,mli
+Mali,mli
 470,mlt
-Malta,mlt
+MALTA,mlt
 MLT,mlt
 MT,mlt
+Malta,mlt
 104,mmr
 Burma,mmr
 MM,mmr
 MMR,mmr
-Myanmar,mmr
+MYANMAR,mmr
 MYANMAR (FORMERLY BURMA),mmr
+MYANMAR_(FORMERLY_BURMA),mmr
+Myanmar,mmr
 Myanmar [Burma],mmr
 Myanmar/Burma,mmr
 499,mne
 ME,mne
 MNE,mne
+MONTENEGRO,mne
 Montenegro,mne
 496,mng
 MN,mng
 MNG,mng
+MONGOLIA,mng
 Mongoli,mng
 Mongolia,mng
 580,mnp
 MNP,mnp
 MP,mnp
+NORTHERN MARIANA ISLANDS,mnp
+NORTHERN_MARIANA_ISLANDS,mnp
 Northern Mariana Islands,mnp
 Northern_Mariana_Islands,mnp
 508,moz
 MOZ,moz
-Mozambique,moz
+MOZAMBIQUE,moz
 MZ,moz
+Mozambique,moz
 478,mrt
-Mauritania,mrt
+MAURITANIA,mrt
 MR,mrt
 MRT,mrt
+Mauritania,mrt
 500,msr
-Montserra,msr
-Montserrat,msr
+MONTSERRAT,msr
 MS,msr
 MSR,msr
+Montserra,msr
+Montserrat,msr
 474,mtq
-Martinique,mtq
+MARTINIQUE,mtq
 MQ,mtq
 MTQ,mtq
+Martinique,mtq
 480,mus
-Mauritius,mus
+MAURITIUS,mus
 MU,mus
 MUS,mus
+Mauritius,mus
 454,mwi
-Malawi,mwi
+MALAWI,mwi
 MW,mwi
 MWI,mwi
+Malawi,mwi
 458,mys
-Malaysia,mys
+MALAYSIA,mys
 MY,mys
 MYS,mys
+Malaysia,mys
 175,myt
-Mayotte,myt
+MAYOTTE,myt
 MYT,myt
+Mayotte,myt
 YT,myt
 516,nam
 NAM,nam
+NAMIBIA,nam
 Namibia,nam
 540,ncl
 NC,ncl
 NCL,ncl
+NEW CALEDONIA,ncl
+NEW_CALEDONIA,ncl
 New Caledonia,ncl
+New_Caledonia,ncl
 562,ner
 NE,ner
 NER,ner
+NIGER,ner
 Niger,ner
 574,nfk
 NF,nfk
 NFK,nfk
+NORFOLK ISLAND,nfk
+NORFOLK_ISLAND,nfk
 Norfolk Island,nfk
+Norfolk_Island,nfk
 566,nga
 NG,nga
 NGA,nga
+NIGERIA,nga
 Nigeria,nga
-Ngorno_Karabakh,ngokar
 Ngorno-Karabakh,ngokar
+Ngorno_Karabakh,ngokar
 558,nic
 NI,nic
 NIC,nic
+NICARAGUA,nic
 Nicaragua,nic
 570,niu
 NIU,niu
-Niue,niu
+NIUE,niu
 NU,niu
+Niue,niu
 528,nld
-Netherlands,nld
+NETHERLANDS,nld
 NL,nld
 NLD,nld
+Netherlands,nld
 The Netherlands,nld
+The_Netherlands,nld
 531,nld_curacao
 CURACAO,nld_curacao
-Curaçao,nld_curacao
-CuraÃ§ao,nld_curacao
 CUW,nld_curacao
 CW,nld_curacao
+Curacao,nld_curacao
+CuraÃ§ao,nld_curacao
+Curaçao,nld_curacao
 578,nor
 NO,nor
 NOR,nor
+NORWAY,nor
 Norway,nor
 524,npl
-Nepal,npl
+NEPAL,npl
 NP,npl
 NPL,npl
+Nepal,npl
 520,nru
-Nauru,nru
+NAURU,nru
 NR,nru
 NRU,nru
+Nauru,nru
 554,nzl
-New Zealand,nzl
+NEW ZEALAND,nzl
+NEW_ZEALAND,nzl
 NZ,nzl
 NZL,nzl
+New Zealand,nzl
+New_Zealand,nzl
 512,omn
 OM,omn
-Oman,omn
+OMAN,omn
 OMN,omn
+Oman,omn
 586,pak
 PAK,pak
-Pakistan,pak
+PAKISTAN,pak
 PK,pak
+Pakistan,pak
 591,pan
 PA,pan
 PAN,pan
+PANAMA,pan
 Panama,pan
 612,pcn
 PCN,pcn
+PITCAIRN,pcn
+PN,pcn
 Pitcairn,pcn
 Pitcairn Islands,pcn
-PN,pcn
+Pitcairn_Islands,pcn
 604,per
 PE,per
 PER,per
+PERU,per
 Peru,per
 608,phl
 PH,phl
-Philippines,phl
+PHILIPPINES,phl
 PHL,phl
+Philippines,phl
 585,plw
-Palau,plw
+PALAU,plw
 PLW,plw
 PW,plw
+Palau,plw
 598,png
-Papua New Guinea,png
-Papua NG,png
+PAPUA NEW GUINEA,png
+PAPUA_NEW_GUINEA,png
 PG,png
 PNG,png
+Papua NG,png
+Papua New Guinea,png
+Papua_NG,png
+Papua_New_Guinea,png
 616,pol
 PL,pol
 POL,pol
+POLAND,pol
 Poland,pol
 630,pri
 PR,pri
 PRI,pri
+PUERTO RICO,pri
+PUERTO_RICO,pri
 Puerto Rico,pri
+Puerto_Rico,pri
 408,prk
+Dem People's Rep of Korea,prk
 Dem. People's Rep. Korea,prk
 Dem. People's Rep. of Korea,prk
+Dem. People's Republic of Korea,prk
 Democratic People S Republic Of Korea,prk
 Democratic People's Republic of Korea,prk
+Democratic Peoples's Republic of Korea,prk
+Democratic_People_S_Republic_Of_Korea,prk
+"KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",prk
+KP,prk
 Korea (Democratic People's Rep. of),prk
 Korea DPR,prk
 Korea North,prk
+"Korea, Dem. People's Rep.",prk
 "Korea, Dem. Rep.",prk
-"KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",prk
+"Korea, Democratic People's Republic of",prk
 "Korea, Democratic Republic of",prk
 "Korea, North",prk
-KP,prk
+Korea_DPR,prk
+Korea_North,prk
 North Korea,prk
+North_Korea,prk
 PRK,prk
-Democratic Peoples's Republic of Korea,prk
 620,prt
-Portugal,prt
+PORTUGAL,prt
 PRT,prt
 PT,prt
+Portugal,prt
 600,pry
-Paraguay,pry
+PARAGUAY,pry
 PRY,pry
 PY,pry
+Paraguay,pry
 275,pse
-Occupied Palestinian Territory,pse
-Palestinian,pse
 OPT,pse
-Palestine,pse
-"Palestine, State of",pse
-Palestinian territories,pse
+Occupied Palestinian Territory,pse
+Occupied_Palestinian_Territory,pse
 "PALESTINIAN TERRITORY, Occupied",pse
 PS,pse
 PSE,pse
+Palestine,pse
+"Palestine, State of",pse
+Palestinian,pse
+Palestinian territories,pse
+Palestinian_territories,pse
 State of Palestine,pse
+State_of_Palestine,pse
 West Bank and Gaza,pse
-Gaza Strip,pse_gaza
+West_Bank_and_Gaza,pse
 GZ,pse_gaza
+Gaza Strip,pse_gaza
+Gaza_Strip,pse_gaza
 West Bank,pse_west_bank
+West_Bank,pse_west_bank
 258,pyf
+FRENCH POLYNESIA,pyf
+FRENCH_POLYNESIA,pyf
 French Polynesia,pyf
+French_Polynesia,pyf
 PF,pyf
 PYF,pyf
 634,qat
 QA,qat
 QAT,qat
+QATAR,qat
 Qatar,qat
 638,reu
-RÃ©union,reu
 RE,reu
 REU,reu
+REUNION,reu
 Reunion,reu
+RÃ©union,reu
 Réunion,reu
 642,rou
 RO,rou
-Romania,rou
+ROMANIA,rou
 ROU,rou
+Romania,rou
 643,rus
 RU,rus
 RUS,rus
-Russia,rus
 RUSSIA FEDERATION,rus
+RUSSIAN FEDERATION,rus
+RUSSIAN_FEDERATION,rus
+RUSSIA_FEDERATION,rus
+Russia,rus
 Russian Federation,rus
+Russian_Federation,rus
 646,rwa
 RW,rwa
 RWA,rwa
+RWANDA,rwa
 Rwanda,rwa
 682,sau
 SA,sau
 SAU,sau
+SAUDI ARABIA,sau
+SAUDI_ARABIA,sau
 Saudi Arabia,sau
+Saudi_Arabia,sau
 891,scg
 Serbia and Montenegro,scg
-Serbia_Montenegro,scg
-YUGOSLAVIA (MONTENEGRO & SERBIA),scg
-"Serbia and Montenegro, Former",scg
 Serbia and Montenegro (former),scg
+"Serbia and Montenegro, Former",scg
+Serbia_Montenegro,scg
+Serbia_and_Montenegro,scg
+YUGOSLAVIA (MONTENEGRO & SERBIA),scg
 Serbia excluding Kosovo,scg_ex_kos
 Serbia_excluding_Kosovo,scg_ex_kos
 729,sdn
 REPUBLIC OF SUDAN,sdn
+REPUBLIC_OF_SUDAN,sdn
 SD,sdn
 SDN,sdn
+SUDAN,sdn
 Sudan,sdn
 686,sen
 SEN,sen
-Senegal,sen
+SENEGAL,sen
 SN,sen
+Senegal,sen
 239,sgero_a_ssandw
 GS,sgero_a_ssandw
 SGS,sgero_a_ssandw
 South Georgia and the South Sandwich Islands,sgero_a_ssandw
+South_Georgia_and_the_South_Sandwich_Islands,sgero_a_ssandw
 702,sgp
 SG,sgp
 SGP,sgp
+SINGAPORE,sgp
 Singapore,sgp
 654,shn
-Saint Helena,shn
+SAINT HELENA,shn
+SAINT_HELENA,shn
 SH,shn
 SHN,shn
+Saint Helena,shn
+Saint_Helena,shn
 St. Helena,shn
+"Saint Helena, Ascension and Tristan da Cunha",shn
 744,sjm
 SJ,sjm
 SJM,sjm
-Svalbard,sjm
 SVALBARD AND JAN MAYEN ISLANDS,sjm
+SVALBARD_AND_JAN_MAYEN_ISLANDS,sjm
+Svalbard,sjm
+Svalbard and Jan Mayen,sjm
+Svalbard_and_Jan_Mayen,sjm
 90,slb
 SB,slb
 SLB,slb
+SOLOMON ISLANDS,slb
+SOLOMON_ISLANDS,slb
 Solomon Isl.,slb
 Solomon Islands,slb
+Solomon_Islands,slb
 694,sle
-Sierra Leone,sle
-Sierra_Leone,sle
-SierraLeo,sle
+SIERRA LEONE,sle
+SIERRA_LEONE,sle
 SL,sle
 SLE,sle
+Sierra Leone,sle
+SierraLeo,sle
+Sierra_Leone,sle
 222,slv
+EL SALVADOR,slv
+EL_SALVADOR,slv
 El Salvador,slv
 El_Salvador,slv
 SLV,slv
 SV,slv
 674,smr
-San Marino,smr
+SAN MARINO,smr
+SAN_MARINO,smr
 SM,smr
 SMR,smr
+San Marino,smr
+San_Marino,smr
 706,som
 SO,som
 SOM,som
+SOMALIA,som
 Somalia,som
 Somaliland,som_somland
 South Ossetia,sosset
@@ -1061,782 +1457,394 @@ South_Ossetia,sosset
 666,spm
 PM,spm
 SAINT PIERRE AND MIQUELON,spm
-Saint-Pierre-et-Miquelon,spm
+SAINT_PIERRE_AND_MIQUELON,spm
 SPM,spm
+Saint Pierre and Miquelon,spm
+Saint-Pierre-et-Miquelon,spm
+Saint_Pierre_and_Miquelon,spm
 St. Pierre & Miquelon,spm
 St.-Pierre-et-Miquelon,spm
 688,srb
 RS,srb
-Serbia,srb
+SERBIA,srb
 SRB,srb
+Serbia,srb
 728,ssd
 REPUBLIC OF SOUTH SUDAN,ssd
-South â€Žsudan,ssd
-South Sudan,ssd
+REPUBLIC_OF_SOUTH_SUDAN,ssd
 SS,ssd
 SSD,ssd
+South Sudan,ssd
+South â€Žsudan,ssd
+South_Sudan,ssd
 Sudan South,ssd
+Sudan_South,ssd
 652,stbar
 BL,stbar
 BLM,stbar
+Saint Barthelemy,stbar
 Saint Barthélemy,stbar
 Saint-Barthélemy,stbar
+Saint_Barthelemy,stbar
 St. Barth?©lemy,stbar
 St. Barthélemy,stbar
-MF,stmar
+St. Barth√©lemy,stbar
 Saint Martin,stmar
+Saint_Martin,stmar
 St. Martin,stmar
 678,stp
-Sao Tome & Principe,stp
-Sao Tome and Principe,stp
-São Tomé and Principe,stp
-São Tomé and Príncipe,stp
-Sao_Tome_and_Principe,stp
+SAO TOME AND PRINCIPE,stp
+SAO_TOME_AND_PRINCIPE,stp
 ST,stp
 STP,stp
+Sao Tome & Principe,stp
+Sao Tome and Principe,stp
+Sao_Tome_and_Principe,stp
+São Tomé and Principe,stp
+São Tomé and Príncipe,stp
 740,sur
 SR,sur
 SUR,sur
+SURINAME,sur
 Suriname,sur
 703,svk
 SK,svk
+SLOVAKIA,svk
+SVK,svk
 Slovak Rep,svk
 Slovak Rep.,svk
 Slovak Republic,svk
+Slovak_Rep,svk
+Slovak_Republic,svk
 Slovakia,svk
-SVK,svk
 705,svn
 SI,svn
-Slovenia,svn
+SLOVENIA,svn
 SVN,svn
+Slovenia,svn
 752,swe
 SE,swe
 SWE,swe
+SWEDEN,swe
 Sweden,swe
 748,swz
-Swaziland,swz
+Eswatini,swz
+Eswatini (Kingdom of),swz
+Kingdom of Eswatini,swz
+Kingdom_of_Eswatini,swz
+SWAZILAND,swz
 SWZ,swz
 SZ,swz
-Eswatini,swz
-Kingdom of Eswatini,swz
-Eswatini (Kingdom of),swz
+Swaziland,swz
 534,sxm
 SAINT MARTIN (DUTCH PORTION),sxm
-Sint Maarten (Dutch part),sxm
-Sint Maarten,sxm
+SAINT_MARTIN_(DUTCH_PORTION),sxm
 SX,sxm
 SXM,sxm
+Sint Maarten,sxm
+Sint Maarten (Dutch part),sxm
+Sint_Maarten,sxm
+Sint_Maarten_(Dutch_part),sxm
 690,syc
 SC,syc
-Seychelles,syc
+SEYCHELLES,syc
 SYC,syc
+Seychelles,syc
 760,syr
 SY,syr
 SYR,syr
-Syria,syr
 SYRIAN ARAB REP,syr
-Syrian Arab Republic,syr
+SYRIAN ARAB REPUBLIC,syr
+SYRIAN_ARAB_REP,syr
+SYRIAN_ARAB_REPUBLIC,syr
+Syria,syr
 Syrian Arab Rep.,syr
+Syrian Arab Republic,syr
+Syrian_Arab_Republic,syr
 796,tca
 TC,tca
 TCA,tca
+TURKS AND CAICOS ISLANDS,tca
+TURKS_AND_CAICOS_ISLANDS,tca
 Turks and Caicos,tca
 Turks and Caicos Islands,tca
+Turks_and_Caicos,tca
+Turks_and_Caicos_Islands,tca
 Turks_and_Caicos_islands,tca
 148,tcd
+CHAD,tcd
 Chad,tcd
 TCD,tcd
 TD,tcd
 768,tgo
 TG,tgo
 TGO,tgo
+TOGO,tgo
 Togo,tgo
 764,tha
 TH,tha
 THA,tha
+THAILAND,tha
 Thailand,tha
 762,tjk
-Tajikistan,tjk
+TAJIKISTAN,tjk
 TJ,tjk
 TJK,tjk
+Tajikistan,tjk
 772,tkl
 TK,tkl
 TKL,tkl
+TOKELAU,tkl
 Tokelau,tkl
 795,tkm
 TKM,tkm
 TM,tkm
+TURKMENISTAN,tkm
 Turkmenistan,tkm
 626,tls
 Dem. Republic of Timor-Leste,tls
 East Timor,tls
+East_Timor,tls
+TIMOR-LESTE,tls
+TL,tls
+TLS,tls
 Timor Leste,tls
 "Timor, East",tls
 Timor-Leste,tls
 Timor-Leste (Formerly East Timor),tls
-TL,tls
-TLS,tls
+Timor_Leste,tls
 776,ton
 TO,ton
 TON,ton
+TONGA,ton
 Tonga,ton
 Transnistria,transn
 780,tto
-Trinidad,tto
-Trinidad & Tobago,tto
-Trinidad and Tobago,tto
+TRINIDAD AND TOBAGO,tto
+TRINIDAD_AND_TOBAGO,tto
 TT,tto
 TTO,tto
+Trinidad,tto
+Trinidad & Tobago,tto
+Trinidad And Tobago,tto
+Trinidad and Tobago,tto
+Trinidad_And_Tobago,tto
+Trinidad_and_Tobago,tto
 788,tun
 TN,tun
 TUN,tun
+TUNISIA,tun
 Tunisia,tun
 792,tur
 TR,tur
 TUR,tur
+TURKEY,tur
 Turkey,tur
 798,tuv
 TUV,tuv
-Tuvalu,tuv
+TUVALU,tuv
 TV,tuv
+Tuvalu,tuv
 158,twn
+"China, Taiwan Province of",twn
 "China, Taiwan Province of China",twn
-Taiwan (Province of China),twn
-Taiwan,twn
-Taiwan Province of China,twn
+China: Province of Taiwan only,twn
+TAIWAN,twn
 TW,twn
 TWN,twn
-China: Province of Taiwan only,twn
+Taiwan,twn
+Taiwan (Province of China),twn
+Taiwan Province of China,twn
+"Taiwan, China",twn
+Taiwan_(Province_of_China),twn
+Taiwan_Province_of_China,twn
+"Taiwan, Province of China",twn
 834,tza
+TANZANIA,tza
+"TANZANIA, UNITED REPUBLIC OF",tza
+TZ,tza
+TZA,tza
 Tanzania,tza
 Tanzania (United Republic of),tza
 "Tanzania, U. Rep. of",tza
-"TANZANIA, UNITED REPUBLIC OF",tza
+"Tanzania, United Republic of",tza
+Tanzania_(United_Republic_of),tza
 United Rep. of Tanzania,tza
-TZ,tza
-TZA,tza
+United Republic Of Tanzania,tza
 United Republic of Tanzania,tza
+United_Republic_Of_Tanzania,tza
+United_Republic_of_Tanzania,tza
 800,uga
 UG,uga
 UGA,uga
+UGANDA,uga
 Uganda,uga
 804,ukr
 UA,ukr
 UKR,ukr
+UKRAINE,ukr
 Ukraine,ukr
 858,ury
-Uruguay,ury
+URUGUAY,ury
 URY,ury
 UY,ury
+Uruguay,ury
 840,usa
 U.S.,usa
 U.S.A.,usa
-United States,usa
-United States of America,usa
+UNITED STATES,usa
+UNITED_STATES,usa
 US,usa
 USA,usa
+United States,usa
+United States Of America,usa
+United States of America,usa
+United_States,usa
+United_States_Of_America,usa
+United_States_of_America,usa
 581,usa_minor_out_isl
 UM,usa_minor_out_isl
 UMI,usa_minor_out_isl
 US Minor Outlying Islands,usa_minor_out_isl
 US-UM,usa_minor_out_isl
+US_Minor_Outlying_Islands,usa_minor_out_isl
+United States Minor Outlying Islands,usa_minor_out_isl
 Soviet Union,ussr
+Soviet_Union,ussr
 U.S.S.R.,ussr
 USS,ussr
 USSR,ussr
-"USSR, Former",ussr
 USSR (former),ussr
+"USSR, Former",ussr
 860,uzb
 UZ,uzb
 UZB,uzb
+UZBEKISTAN,uzb
 Uzbekistan,uzb
 670,vct
+SAINT VINCENT AND THE GRENADINES,vct
+SAINT_VINCENT_AND_THE_GRENADINES,vct
+Saint Vincent and Grenadines,vct
 Saint Vincent and the Grenadines,vct
+Saint_Vincent_and_Grenadines,vct
+Saint_Vincent_and_the_Grenadines,vct
 St Vincent & the Grenadines,vct
 St. Vincent & The Grenadines,vct
 St. Vincent and G.,vct
 St. Vincent and the Grenadines,vct
 VC,vct
 VCT,vct
-Saint Vincent and Grenadines,vct
 862,ven
 VE,ven
 VEN,ven
+VENEZUELA,ven
 Venezuela,ven
 Venezuela (Bolivarian Republic of,ven
 Venezuela (Bolivarian Republic of),ven
-"Venezuela, Republica Bolivariana de",ven
+"Venezuela, Bolivarian Republic of",ven
 "Venezuela, RB",ven
+"Venezuela, Republica Bolivariana de",ven
+Venezuela_(Bolivarian_Republic_of,ven
+Venezuela_(Bolivarian_Republic_of),ven
 92,vgb
 British Virgin Islands,vgb
+British_Virgin_Islands,vgb
 VG,vgb
 VGB,vgb
 VIRGIN ISLANDS (BRITISH),vgb
+VIRGIN_ISLANDS_(BRITISH),vgb
 850,vir
 United States Virgin Islands,vir
+United_States_Virgin_Islands,vir
 VI,vir
 VIR,vir
+VIRGIN ISLANDS (U.S.),vir
 Virgin Islands (U.S.),vir
 Virgin Islands (USA),vir
 "Virgin Islands, U.S.",vir
+Virgin_Islands_(USA),vir
+U.S. Virgin Islands,vir
 704,vnm
-Viet Nam,vnm
-Vietnam,vnm
+VIET NAM,vnm
+VIETNAM,vnm
+VIET_NAM,vnm
 VN,vnm
 VNM,vnm
+Viet Nam,vnm
+Viet_Nam,vnm
+Vietnam,vnm
 548,vut
-Vanuatu,vut
+VANUATU,vut
 VU,vut
 VUT,vut
+Vanuatu,vut
 876,wlf
-Wallis and Futuna,wlf
 WALLIS AND FUTUNA ISLANDS,wlf
-Wallis et Futuna,wlf
+WALLIS_AND_FUTUNA_ISLANDS,wlf
 WF,wlf
 WLF,wlf
+Wallis and Futuna,wlf
+Wallis and Futuna Islands,wlf
+Wallis et Futuna,wlf
+Wallis_and_Futuna,wlf
+Wallis_and_Futuna_Islands,wlf
+Wallis_et_Futuna,wlf
 882,wsm
+SAMOA,wsm
 Samoa,wsm
 Samoa (Western),wsm
+Samoa_(Western),wsm
 WS,wsm
 WSM,wsm
 887,yem
 YE,yem
 YEM,yem
+YEMEN,yem
 Yemen,yem
 Yemen Republic,yem
 "Yemen, Rep.",yem
 "Yemen, Republic of",yem
+Yemen_Republic,yem
 FORMER YEMEN,yem_north
+FORMER_YEMEN,yem_north
 North Yemen (former),yem_north
 North_Yemen,yem_north
+North_Yemen_(former),yem_north
 Yemen Arab Republic (Former),yem_north
+"Yemen, The former Arab Rep. of",yem_north
+Yemen_Arab_Republic_(Former),yem_north
 FORMER DEMOCRATIC YEMEN,yem_south
+FORMER_DEMOCRATIC_YEMEN,yem_south
 South Yemen (former),yem_south
 South_Yemen,yem_south
+South_Yemen_(former),yem_south
 Yemen Democratic (Former),yem_south
-Yugoslavia,yug
+"Yemen, The former Democratic",yem_south
+Yemen_Democratic_(Former),yem_south
 YUGOSLAVIA (FORMER SOCIALIST FEDERAL REPUBLIC),yug
-"Yugoslavia, Former",yug
+YUGOSLAVIA_(FORMER_SOCIALIST_FEDERAL_REPUBLIC),yug
+Yugoslav SFR,yug
+Yugoslav_SFR,yug
+Yugoslavia,yug
 Yugoslavia (former),yug
+"Yugoslavia, Former",yug
+"Yugoslavia, The former Socialist Fed. Rep. of",yug
 710,zaf
+SOUTH AFRICA,zaf
+SOUTH_AFRICA,zaf
 South Africa,zaf
 South Africa Republic,zaf
 South_Africa,zaf
+South_Africa_Republic,zaf
 ZA,zaf
 ZAF,zaf
 894,zmb
-Zambia,zmb
+ZAMBIA,zmb
 ZM,zmb
 ZMB,zmb
+Zambia,zmb
 716,zwe
-Zimbabwe,zwe
+ZIMBABWE,zwe
 ZW,zwe
 ZWE,zwe
-ARUBA,abw
-AFGHANISTAN,afg
-ANGOLA,ago
-ANGUILLA,aia
-√Öland,ala
-ALBANIA,alb
-ANDORRA,and
-NETHERLANDS ANTILLES,ant
-UNITED ARAB EMIRATES,are
-ARGENTINA,arg
-ARMENIA,arm
-AMERICAN SAMOA,asm
-ANTIGUA AND BARBUDA,atg
-AUSTRALIA,aus
-AUSTRIA,aut
-AZERBAIJAN,aze
-BURUNDI,bdi
-BELGIUM,bel
-BENIN,ben
-BURKINA FASO,bfa
-BANGLADESH,bgd
-BULGARIA,bgr
-BAHRAIN,bhr
-BAHAMAS,bhs
-BOSNIA & HERZEGOVINA,bih
-BELARUS,blr
-BELIZE,blz
-BERMUDA,bmu
-BOLIVIA,bol
-BRAZIL,bra
-BARBADOS,brb
-BRUNEI DARUSSALAM,brn
-BHUTAN,btn
-BOTSWANA,bwa
-CENTRAL AFRICAN REPUBLIC,caf
-CANADA,can
-SWITZERLAND,che
-CHILE,chl
-CHINA,chn
-"China, mainland",chn
-COTE D'IVOIRE,civ
-CÃ´te d'Ivoire,civ
-CAMEROON,cmr
-"Congo, Democratic Republic of",cod
-"Congo, Democratic Republic of the",cod
-Democratic Republic of the Congo,cod
-Congo_Brazzaville,cog
-COOK ISLANDS,cok
-COLOMBIA,col
-COMOROS,com
-CAPE VERDE,cpv
-COSTA RICA,cri
-CUBA,cub
-CHRISTMAS ISLAND,cxr
-CAYMAN ISLANDS,cym
-CYPRUS,cyp
-CZECH REPUBLIC,cze
-GERMANY,deu
-DJIBOUTI,dji
-DOMINICA,dma
-DENMARK,dnk
-DOMINICAN REP.,dom
-DOMINICAN REPUBLIC,dom
-ALGERIA,dza
-ECUADOR,ecu
-EGYPT,egy
-ERITREA,eri
-WESTERN SAHARA,esh
-SPAIN,esp
-ESTONIA,est
-ETHIOPIA,eth
-FINLAND,fin
-FIJI,fji
-FALKLAND ISLANDS (MALVINAS),flk
-FRANCE,fra
-FAROE ISLANDS,fro
-GABON,gab
-U.K. of Great Britain and Northern Ireland,gbr
-UNITED KINGDOM,gbr
-GEORGIA,geo
-GHANA,gha
-GIBRALTAR,gib
-GUINEA,gin
-GUADELOUPE,glp
-GAMBIA,gmb
-GUINEA-BISSAU,gnb
-EQUATORIAL GUINEA,gnq
-GREECE,grc
-GRENADA,grd
-GREENLAND,grl
-GUATEMALA,gtm
-FRENCH GUIANA,guf
-GUAM,gum
-GUYANA,guy
-China Hong Kong SAR,hkg
-HONG KONG,hkg
-HONG KONG SPECIAL ADMINISTRATIVE REGION OF CHINA,hkg
-HONDURAS,hnd
-CROATIA,hrv
-HAITI,hti
-HUNGARY,hun
-INDONESIA,idn
-INDIA,ind
-IRELAND,irl
-IRAN,irn
-Iran  (Islamic Republic of),irn
-Iran (Islamic Republic of),irn
-"Iran, Islamic Republic of",irn
-Islamic Republic of Iran,irn
-IRAQ,irq
-ICELAND,isl
-ISRAEL,isr
-ITALY,ita
-JAMAICA,jam
-JORDAN,jor
-JAPAN,jpn
-KAZAKHSTAN,kaz
-KENYA,ken
-KYRGYZSTAN,kgz
-CAMBODIA,khm
-KIRIBATI,kir
-SAINT KITTS AND NEVIS,kna
-Korea,kor
-"Korea, Republic of",kor
-Rep. of Korea,kor
-Republic of Korea,kor
-SOUTH KOREA,kor
-KUWAIT,kwt
-Lao Peopleâ€™s Democratic Republic,lao
-LEBANON,lbn
-LIBERIA,lbr
-LIBYAN ARAB JAMAHIRIYA,lby
-SAINT LUCIA,lca
-LIECHTENSTEIN,lie
-SRI LANKA,lka
-LESOTHO,lso
-LITHUANIA,ltu
-LUXEMBOURG,lux
-LATVIA,lva
-MACAU,mac
-"Macau, China",mac
-MOROCCO,mar
-MONACO,mco
-MOLDOVA,mda
-"Moldova, Republic of",mda
-MADAGASCAR,mdg
-MALDIVES,mdv
-MEXICO,mex
-MARSHALL ISLANDS,mhl
-FYR Macedonia,mkd
-MACEDONIA,mkd
-"Macedonia, the former Yugoslav Republic of",mkd
-MALI,mli
-MALTA,mlt
-MYANMAR,mmr
-MONTENEGRO,mne
-MONGOLIA,mng
-NORTHERN MARIANA ISLANDS,mnp
-MOZAMBIQUE,moz
-MAURITANIA,mrt
-MONTSERRAT,msr
-MARTINIQUE,mtq
-MAURITIUS,mus
-MALAWI,mwi
-MALAYSIA,mys
-MAYOTTE,myt
-NAMIBIA,nam
-NEW CALEDONIA,ncl
-NIGER,ner
-NORFOLK ISLAND,nfk
-NIGERIA,nga
-NICARAGUA,nic
-NIUE,niu
-NETHERLANDS,nld
-Curacao,nld_curacao
-NORWAY,nor
-NEPAL,npl
-NAURU,nru
-NEW ZEALAND,nzl
-OMAN,omn
-PAKISTAN,pak
-PANAMA,pan
-PITCAIRN,pcn
-PERU,per
-PHILIPPINES,phl
-PALAU,plw
-PAPUA NEW GUINEA,png
-POLAND,pol
-PUERTO RICO,pri
-Dem People's Rep of Korea,prk
-Dem. People's Republic of Korea,prk
-"Korea, Dem. People's Rep.",prk
-"Korea, Democratic People's Republic of",prk
-PORTUGAL,prt
-PARAGUAY,pry
-FRENCH POLYNESIA,pyf
-QATAR,qat
-REUNION,reu
-ROMANIA,rou
-RUSSIAN FEDERATION,rus
-RWANDA,rwa
-SAUDI ARABIA,sau
-SUDAN,sdn
-SENEGAL,sen
-SINGAPORE,sgp
-SAINT HELENA,shn
-Svalbard and Jan Mayen,sjm
-SOLOMON ISLANDS,slb
-SIERRA LEONE,sle
-EL SALVADOR,slv
-SAN MARINO,smr
-SOMALIA,som
-Saint Pierre and Miquelon,spm
-SERBIA,srb
-Saint Barthelemy,stbar
-St. Barth√©lemy,stbar
-SAO TOME AND PRINCIPE,stp
-SURINAME,sur
-SLOVAKIA,svk
-SLOVENIA,svn
-SWEDEN,swe
-SWAZILAND,swz
-SEYCHELLES,syc
-SYRIAN ARAB REPUBLIC,syr
-TURKS AND CAICOS ISLANDS,tca
-CHAD,tcd
-TOGO,tgo
-THAILAND,tha
-TAJIKISTAN,tjk
-TOKELAU,tkl
-TURKMENISTAN,tkm
-TIMOR-LESTE,tls
-TONGA,ton
-TRINIDAD AND TOBAGO,tto
-Trinidad And Tobago,tto
-TUNISIA,tun
-TURKEY,tur
-TUVALU,tuv
-"China, Taiwan Province of",twn
-TAIWAN,twn
-"Taiwan, China",twn
-TANZANIA,tza
-"Tanzania, United Republic of",tza
-United Republic Of Tanzania,tza
-UGANDA,uga
-UKRAINE,ukr
-URUGUAY,ury
-UNITED STATES,usa
-United States Of America,usa
-UZBEKISTAN,uzb
-SAINT VINCENT AND THE GRENADINES,vct
-VENEZUELA,ven
-"Venezuela, Bolivarian Republic of",ven
-VIRGIN ISLANDS (U.S.),vir
-VIET NAM,vnm
-VIETNAM,vnm
-VANUATU,vut
-Wallis and Futuna Islands,wlf
-SAMOA,wsm
-YEMEN,yem
-"Yemen, The former Arab Rep. of",yem_north
-"Yemen, The former Democratic",yem_south
-Yugoslav SFR,yug
-"Yugoslavia, The former Socialist Fed. Rep. of",yug
-SOUTH AFRICA,zaf
-ZAMBIA,zmb
-ZIMBABWE,zwe
-Islamic_Republic_of_Afghanistan,afg
-Akrotiri_and_Dhekelia,akr_a_dhe
-AALAND_ISLANDS,ala
-Netherland_Antilles,ant
-Netherlands_Antilles,ant
-Netherlands Antilles (former),ant
-United_Arab_Emirates,are
-American_Samoa,asm
-Antigua_and_Barbuda,atg
-The_Bahamas,bhs
-Bosnia_and_Herzegovina,bih
-BOSNIA_AND_HERZEGOWINA,bih
-Bosnia_Herzegovena,bih
-Bolivia_(Plurinational_State_of),bol
-Bolivia_Plurinational_States_of,bol
-PLURINATIONAL_STATE_OF_BOLIVIA,bol
-Bouvet_Island,bouisl
-Brunei_(Darussalam),brn
-Brunei_Darussalam,brn
-Central_AfR,caf
-COCOS_(KEELING)_ISLANDS,cck
-Cocos_Island,cck
-China_(Mainland),chn
-Cote_D_Ivoire,civ
-Cote_Divoire,civ
-Ivory_Coast,civ
-Republic_Of_Cameroon,cmr
-Congo_(Democratic_Republic_of_the),cod
-Congo_Dem_Rep,cod
-Congo_DR,cod
-Democratic_Republic_of_Congo,cod
-Democratic_Republic_Of_The_Congo,cod
-Democratic_Republic_Of_The_Congo_(Formerly_Zaire),cod
-Congo_(Republic_of),cog
-Republic_of_Congo,cog
-Cook_Is,cok
-Cook_Islands,cok
-Cabo_Verde,cpv
-Cape_Verde,cpv
-Christmas_Island,cxr
-Cayman_Islands,cym
-Czech_Rep,cze
-Czech_Republic,cze
-FORMER_GERMAN_DEMOCRATIC_REPUBLIC,deu_east
-FEDERAL_REPUBLIC_OF_GERMANY,deu_west
-Eritrea_and_Ethiopia,eri_a_eth
-Western_Sahara,esh
-Falkland_Is_(Malvinas),flk
-Falkland_Islands,flk
-Falkland_Islands_(Malvinas),flk
-France_(Including_Monaco),fra
-French_Southern_and_Antarctic_Lands,fra_antarc
-Faeroe_Islands,fro
-Faroe_Islands,fro
-Federated_States_of_Micronesia,fsm
-Micronesia_(Federated_States_of,fsm
-Micronesia_(Federated_States_of),fsm
-"Micronesia, Federated States of",fsm
-Isle_of_Man,gbm
-Unitd_Kingdm,gbr
-United_Kingdom,gbr
-United_Kingdom_of_Great_Britain_and_Northern_Ireland,gbr
-Gambia_The,gmb
-The_Gambia,gmb
-Guinea_Bissau,gnb
-Equa_Guinea,gnq
-French_Guiana,guf
-Heard_and_McDonald_Islands,heard_a_mcd
-Hong_Kong,hkg
-Hong_Kong_SAR,hkg
-Holy_See_(the),hos
-Vatican_City,hos
-British_Indian_Ocean_Territory,iot
-IRAN_(ISLAMIC_REPUBLIC_OF),irn
-Islamic_Republic_Of_Iran,irn
-Italy_(Including_San_Marino),ita
-JAPAN_(EXCLUDING_THE_RUYUKU_ISLANDS),jpn
-Saint_Kitts_and_Nevis,kna
-Korea_(Republic_of),kor
-Korea_Rep,kor
-Korea_South,kor
-Republic_Of_Korea,kor
-South_Korea,kor
-United_Korea_(former),korea_union
-Lao_PDR,lao
-Lao_People_S_Democratic_Republic,lao
-Libyan_Arab_Jamahiriya,lby
-Libyan_Arab_Jamahiriyah,lby
-Saint_Lucia,lca
-MACAU_SPECIAL_ADMINISTRATIVE_REGION_OF_CHINA,mac
-Saint_Martin_(French_part),maf
-Moldova_(Republic_of),mda
-Republic_Of_Moldov,mda
-Republic_of_Moldova,mda
-Marshall_Islands,mhl
-TFYR_Macedonia,mkd
-The_former_Yugoslav_Republic_of_Macedonia,mkd
-North_Macedonia,mkd
-MYANMAR_(FORMERLY_BURMA),mmr
-New_Caledonia,ncl
-Norfolk_Island,nfk
-The_Netherlands,nld
-New_Zealand,nzl
-Pitcairn_Islands,pcn
-Papua_New_Guinea,png
-Papua_NG,png
-Puerto_Rico,pri
-Democratic_People_S_Republic_Of_Korea,prk
-Korea_DPR,prk
-Korea_North,prk
-North_Korea,prk
-Occupied_Palestinian_Territory,pse
-Palestinian_territories,pse
-State_of_Palestine,pse
-West_Bank_and_Gaza,pse
-Gaza_Strip,pse_gaza
-West_Bank,pse_west_bank
-French_Polynesia,pyf
-RUSSIA_FEDERATION,rus
-Russian_Federation,rus
-Saudi_Arabia,sau
-Serbia_and_Montenegro,scg
-REPUBLIC_OF_SUDAN,sdn
-South_Georgia_and_the_South_Sandwich_Islands,sgero_a_ssandw
-Saint_Helena,shn
-SVALBARD_AND_JAN_MAYEN_ISLANDS,sjm
-Solomon_Islands,slb
-San_Marino,smr
-SAINT_PIERRE_AND_MIQUELON,spm
-REPUBLIC_OF_SOUTH_SUDAN,ssd
-South_Sudan,ssd
-Sudan_South,ssd
-Saint_Martin,stmar
-Slovak_Rep,svk
-Slovak_Republic,svk
-Kingdom_of_Eswatini,swz
-SAINT_MARTIN_(DUTCH_PORTION),sxm
-Sint_Maarten_(Dutch_part),sxm
-Sint_Maarten,sxm
-SYRIAN_ARAB_REP,syr
-Syrian_Arab_Republic,syr
-Turks_and_Caicos,tca
-Turks_and_Caicos_Islands,tca
-East_Timor,tls
-Timor_Leste,tls
-Trinidad_and_Tobago,tto
-Taiwan_(Province_of_China),twn
-Taiwan_Province_of_China,twn
-Tanzania_(United_Republic_of),tza
-United_Republic_of_Tanzania,tza
-United_States,usa
-United_States_of_America,usa
-US_Minor_Outlying_Islands,usa_minor_out_isl
-Soviet_Union,ussr
-Saint_Vincent_and_the_Grenadines,vct
-Saint_Vincent_and_Grenadines,vct
-Venezuela_(Bolivarian_Republic_of,ven
-Venezuela_(Bolivarian_Republic_of),ven
-British_Virgin_Islands,vgb
-VIRGIN_ISLANDS_(BRITISH),vgb
-United_States_Virgin_Islands,vir
-Virgin_Islands_(USA),vir
-Viet_Nam,vnm
-Wallis_and_Futuna,wlf
-WALLIS_AND_FUTUNA_ISLANDS,wlf
-Wallis_et_Futuna,wlf
-Samoa_(Western),wsm
-Yemen_Republic,yem
-FORMER_YEMEN,yem_north
-North_Yemen_(former),yem_north
-Yemen_Arab_Republic_(Former),yem_north
-FORMER_DEMOCRATIC_YEMEN,yem_south
-South_Yemen_(former),yem_south
-Yemen_Democratic_(Former),yem_south
-YUGOSLAVIA_(FORMER_SOCIALIST_FEDERAL_REPUBLIC),yug
-South_Africa_Republic,zaf
-NETHERLANDS_ANTILLES,ant
-UNITED_ARAB_EMIRATES,are
-AMERICAN_SAMOA,asm
-ANTIGUA_AND_BARBUDA,atg
-BURKINA_FASO,bfa
-BRUNEI_DARUSSALAM,brn
-CENTRAL_AFRICAN_REPUBLIC,caf
-Democratic_Republic_of_the_Congo,cod
-COOK_ISLANDS,cok
-CAPE_VERDE,cpv
-COSTA_RICA,cri
-CHRISTMAS_ISLAND,cxr
-CAYMAN_ISLANDS,cym
-CZECH_REPUBLIC,cze
-DOMINICAN_REPUBLIC,dom
-WESTERN_SAHARA,esh
-FALKLAND_ISLANDS_(MALVINAS),flk
-FAROE_ISLANDS,fro
-UNITED_KINGDOM,gbr
-EQUATORIAL_GUINEA,gnq
-FRENCH_GUIANA,guf
-China_Hong_Kong_SAR,hkg
-HONG_KONG,hkg
-HONG_KONG_SPECIAL_ADMINISTRATIVE_REGION_OF_CHINA,hkg
-Iran__(Islamic_Republic_of),irn
-Iran_(Islamic_Republic_of),irn
-Islamic_Republic_of_Iran,irn
-SAINT_KITTS_AND_NEVIS,kna
-Republic_of_Korea,kor
-SOUTH_KOREA,kor
-LIBYAN_ARAB_JAMAHIRIYA,lby
-SAINT_LUCIA,lca
-SRI_LANKA,lka
-MARSHALL_ISLANDS,mhl
-FYR_Macedonia,mkd
-NORTHERN_MARIANA_ISLANDS,mnp
-NEW_CALEDONIA,ncl
-NORFOLK_ISLAND,nfk
-NEW_ZEALAND,nzl
-PAPUA_NEW_GUINEA,png
-PUERTO_RICO,pri
-FRENCH_POLYNESIA,pyf
-RUSSIAN_FEDERATION,rus
-SAUDI_ARABIA,sau
-SAINT_HELENA,shn
-Svalbard_and_Jan_Mayen,sjm
-SOLOMON_ISLANDS,slb
-SIERRA_LEONE,sle
-EL_SALVADOR,slv
-SAN_MARINO,smr
-Saint_Pierre_and_Miquelon,spm
-Saint_Barthelemy,stbar
-SAO_TOME_AND_PRINCIPE,stp
-SYRIAN_ARAB_REPUBLIC,syr
-TURKS_AND_CAICOS_ISLANDS,tca
-TRINIDAD_AND_TOBAGO,tto
-Trinidad_And_Tobago,tto
-United_Republic_Of_Tanzania,tza
-UNITED_STATES,usa
-United_States_Of_America,usa
-SAINT_VINCENT_AND_THE_GRENADINES,vct
-VIET_NAM,vnm
-Wallis_and_Futuna_Islands,wlf
-Yugoslav_SFR,yug
-SOUTH_AFRICA,zaf
+Zimbabwe,zwe
