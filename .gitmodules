@@ -1,0 +1,3 @@
+[submodule "etl/source/region-flags"]
+	path = etl/source/region-flags
+	url = https://github.com/fonttools/region-flags
