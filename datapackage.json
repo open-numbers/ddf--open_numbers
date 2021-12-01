@@ -8,7 +8,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2021-11-15T16:05:51.301578+00:00",
+    "created": "2021-12-01T04:15:06.739043+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -127,6 +127,9 @@
                     },
                     {
                         "name": "unhcr_region"
+                    },
+                    {
+                        "name": "west_and_rest"
                     }
                 ],
                 "primaryKey": "country"
@@ -1682,6 +1685,24 @@
                 "primaryKey": [
                     "country"
                 ],
+                "value": "west_and_rest",
+                "resources": [
+                    "ddf--entities--geo--country"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo"
+                ],
+                "value": "west_and_rest",
+                "resources": [
+                    "ddf--entities--geo--country"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country"
+                ],
                 "value": "world_4region",
                 "resources": [
                     "ddf--entities--geo--country"
@@ -1721,12 +1742,12 @@
         "synonyms": [
             {
                 "primaryKey": [
-                    "country",
+                    "concept",
                     "synonym"
                 ],
                 "value": null,
                 "resources": [
-                    "ddf--synonyms--geo"
+                    "ddf--synonyms--concept"
                 ]
             },
             {
@@ -1741,12 +1762,12 @@
             },
             {
                 "primaryKey": [
-                    "concept",
+                    "country",
                     "synonym"
                 ],
                 "value": null,
                 "resources": [
-                    "ddf--synonyms--concept"
+                    "ddf--synonyms--geo"
                 ]
             }
         ]
