@@ -311,6 +311,7 @@ Congo DR,cod
 Congo Dem Rep,cod
 Congo [DRC],cod
 "Congo, Dem. Rep.",cod
+"Congo Dem. Rep.",cod
 "Congo, Democratic Republic of",cod
 "Congo, Democratic Republic of the",cod
 Congo_(Democratic_Republic_of_the),cod
@@ -340,6 +341,7 @@ Congo - Brazzaville,cog
 Congo Brazzaville,cog
 "Congo, Rep.",cog
 "Congo, Republic of",cog
+"Congo Rep.",cog
 Congo_(Republic_of),cog
 Congo_Brazzaville,cog
 Republic of Congo,cog
@@ -690,6 +692,7 @@ Heard Island and McDonald Islands,heard_a_mcd
 China Hong Kong SAR,hkg
 "China, Hong Kong SAR",hkg
 China_Hong_Kong_SAR,hkg
+Hong Kong SAR China,hkg
 HK,hkg
 HKG,hkg
 HONG KONG,hkg
@@ -864,6 +867,7 @@ Korea,kor
 Korea (Rep. of),kor
 Korea (Republic of),kor
 Korea Rep,kor
+"Korea Rep.",kor
 Korea South,kor
 "Korea, Rep.",kor
 "Korea, Rep. of",kor
@@ -1039,6 +1043,7 @@ Marshall_Islands,mhl
 807,mkd
 FYR Macedonia,mkd
 FYR_Macedonia,mkd
+Macedonia FYR,mkd
 MACEDONIA,mkd
 "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",mkd
 MK,mkd
@@ -1649,6 +1654,8 @@ Tuvalu,tuv
 "China, Taiwan Province of",twn
 "China, Taiwan Province of China",twn
 China: Province of Taiwan only,twn
+"Taiwan (Chinese Taipei)",twn
+China Taiwan,twn
 TAIWAN,twn
 TW,twn
 TWN,twn
@@ -1805,6 +1812,7 @@ Yemen Republic,yem
 "Yemen, Rep.",yem
 "Yemen, Republic of",yem
 Yemen_Republic,yem
+"Yemen Rep.",yem
 FORMER YEMEN,yem_north
 FORMER_YEMEN,yem_north
 North Yemen (former),yem_north
