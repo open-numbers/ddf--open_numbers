@@ -8,7 +8,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2021-12-01T04:15:06.739043+00:00",
+    "created": "2022-08-18T16:56:31.402700+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -268,6 +268,24 @@
                     }
                 ],
                 "primaryKey": "main_religion_2008"
+            }
+        },
+        {
+            "name": "ddf--entities--geo--subnational_region",
+            "path": "ddf--entities--geo--subnational_region.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "subnational_region"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "is--subnational_region"
+                    }
+                ],
+                "primaryKey": "subnational_region"
             }
         },
         {
@@ -896,6 +914,24 @@
                 "primaryKey": [
                     "geo"
                 ],
+                "value": "is--subnational_region",
+                "resources": [
+                    "ddf--entities--geo--subnational_region"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "subnational_region"
+                ],
+                "value": "is--subnational_region",
+                "resources": [
+                    "ddf--entities--geo--subnational_region"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "geo"
+                ],
                 "value": "is--un_sdg_ldc",
                 "resources": [
                     "ddf--entities--geo--un_sdg_ldc"
@@ -1242,6 +1278,7 @@
                     "ddf--entities--geo--income_groups",
                     "ddf--entities--geo--landlocked",
                     "ddf--entities--geo--main_religion_2008",
+                    "ddf--entities--geo--subnational_region",
                     "ddf--entities--geo--un_sdg_ldc",
                     "ddf--entities--geo--un_sdg_region",
                     "ddf--entities--geo--unhcr_region",
@@ -1296,6 +1333,15 @@
                 "value": "name",
                 "resources": [
                     "ddf--entities--geo--main_religion_2008"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "subnational_region"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--geo--subnational_region"
                 ]
             },
             {
@@ -1752,7 +1798,7 @@
             },
             {
                 "primaryKey": [
-                    "geo",
+                    "country",
                     "synonym"
                 ],
                 "value": null,
@@ -1762,7 +1808,7 @@
             },
             {
                 "primaryKey": [
-                    "country",
+                    "geo",
                     "synonym"
                 ],
                 "value": null,

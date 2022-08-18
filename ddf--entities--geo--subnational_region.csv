@@ -1,0 +1,1900 @@
+subnational_region,name,is--subnational_region
+afgr101,Afghanistan - Central (Kabul Wardak Kapisa Logar Parwan Panjsher),TRUE
+afgr102,Afghanistan - Central Highlands (Bamyan Daikundi),TRUE
+afgr103,Afghanistan - East (Nangarhar Kunar Laghman Nooristan),TRUE
+afgr104,Afghanistan - North (Samangan Sar-e-Pul Balkh Jawzjan Faryab),TRUE
+afgr105,Afghanistan - North East (Baghlan Takhar Badakhshan Kunduz),TRUE
+afgr106,Afghanistan - South (Uruzgan Helmand Zabul Nimroz Kandahar),TRUE
+afgr107,Afghanistan - South East (Ghazni Paktya Paktika Khost),TRUE
+afgr108,Afghanistan - West (Ghor Herat Badghis Farah),TRUE
+agor201,Angola - Cabinda,TRUE
+agor202,Angola - Zaire,TRUE
+agor203,Angola - Uige,TRUE
+agor204,Angola - Luanda,TRUE
+agor205,Angola - Kuanza Norte,TRUE
+agor206,Angola - Kuanza Sul,TRUE
+agor207,Angola - Malange,TRUE
+agor208,Angola - Lunda Norte,TRUE
+agor209,Angola - Benguela,TRUE
+agor210,Angola - Huambo,TRUE
+agor211,Angola - Bie,TRUE
+agor212,Angola - Moxico,TRUE
+agor213,Angola - Kuando Kubango,TRUE
+agor214,Angola - Namibe,TRUE
+agor215,Angola - Huila,TRUE
+agor216,Angola - Cunene,TRUE
+agor217,Angola - Lunda Sul,TRUE
+agor218,Angola - Bengo,TRUE
+albr201,Albania - Berat,TRUE
+albr202,Albania - Diber,TRUE
+albr203,Albania - Durres,TRUE
+albr204,Albania - Elbasan,TRUE
+albr205,Albania - Fier,TRUE
+albr206,Albania - Gjirokaster,TRUE
+albr207,Albania - Korce,TRUE
+albr208,Albania - Kukes,TRUE
+albr209,Albania - Lezhe,TRUE
+albr210,Albania - Shkoder,TRUE
+albr211,Albania - Tirana,TRUE
+albr212,Albania - Vlore,TRUE
+argr101,Argentina - City of Buenos Aires,TRUE
+argr102,Argentina - Rest of Buenos Aires,TRUE
+argr103,"Argentina - Catamarca, La Rioja, San Juan",TRUE
+argr104,Argentina - Cordoba,TRUE
+argr105,"Argentina - Corrientes, Entre Rios, Misiones",TRUE
+argr106,"Argentina - Chaco, Formosa",TRUE
+argr107,"Argentina - Chubut, Neuquen, Rio Negro, Santa Cruz, Tierra del Fuego",TRUE
+argr108,"Argentina - Jujuy, Salta",TRUE
+argr109,"Argentina - La Pampa, San Luis, Mendoza",TRUE
+argr110,Argentina - Santa Fe,TRUE
+argr111,"Argentina - Santiago del Estero, Tucuman",TRUE
+armr101,Armenia - Aragatsotn,TRUE
+armr102,Armenia - Ararat,TRUE
+armr103,Armenia - Armavir,TRUE
+armr104,Armenia - Gegharkunik,TRUE
+armr105,Armenia - Lori,TRUE
+armr106,Armenia - Kotayk,TRUE
+armr107,Armenia - Shirak,TRUE
+armr108,Armenia - Syunik,TRUE
+armr109,Armenia - Vayots Dzor,TRUE
+armr110,Armenia - Tavush,TRUE
+armr111,Armenia - Yerevan,TRUE
+ausr101,Australia - New South Wales,TRUE
+ausr102,Australia - Victoria,TRUE
+ausr103,Australia - Queensland,TRUE
+ausr104,Australia - South Australia,TRUE
+ausr105,Australia - Western Australia,TRUE
+ausr106,Australia - Tasmania,TRUE
+ausr107,Australia - Northern Territory,TRUE
+ausr108,Australia - Australian Capital Territory,TRUE
+autr101,Austria - Burgenland,TRUE
+autr102,Austria - Niederosterreich,TRUE
+autr103,Austria - Wien,TRUE
+autr104,Austria - Karnten,TRUE
+autr105,Austria - Steiermark,TRUE
+autr106,Austria - Oberosterreich,TRUE
+autr107,Austria - Salzburg,TRUE
+autr108,Austria - Tirol,TRUE
+autr109,Austria - Vorarlberg,TRUE
+azer101,Azerbaijan - Baku,TRUE
+azer102,Azerbaijan - Absheron,TRUE
+azer103,Azerbaijan - Ganja Gazakh,TRUE
+azer104,Azerbaijan - Shaki Zaqatala,TRUE
+azer105,Azerbaijan - Lankaran,TRUE
+azer106,Azerbaijan - Guba Khachmaz,TRUE
+azer107,Azerbaijan - Aran,TRUE
+azer108,Azerbaijan - Yukhari Karabakh,TRUE
+azer109,Azerbaijan - Dakhlik Shirvan,TRUE
+bdir101,"Burundi - North (Kayanza, Kirundo, Muyinga, Ngozi)",TRUE
+bdir102,"Burundi - South (Bururi, Makamba)",TRUE
+bdir103,"Burundi - East (Cankuzo, Rutana, Ruyigi )",TRUE
+bdir104,"Burundi - West (Bubanza, Buja Rural, Cibitoke, Mairie de Bujumbura)",TRUE
+bdir105,"Burundi - Middle (Gitega, Karuzi, Muramvya, Mwaro)",TRUE
+belr101,Belgium - Bruxelles - Brussel,TRUE
+belr102,Belgium - Prov. Antwerpen,TRUE
+belr103,Belgium - Prov. Limburg,TRUE
+belr104,Belgium - Prov. Oost-Vlaanderen,TRUE
+belr105,Belgium - Prov. Vlaams-Brabant,TRUE
+belr106,Belgium - Prov. West-Vlaanderen,TRUE
+belr107,Belgium - Prov. Brabant Wallon,TRUE
+belr108,Belgium - Prov. Hainaut,TRUE
+belr109,Belgium - Prov. Liege,TRUE
+belr110,Belgium - Prov. Luxembourg,TRUE
+belr111,Belgium - Prov. Namur,TRUE
+benr101,Benin - Atacora (incl Donga),TRUE
+benr102,Benin - Atlantique (incl Littoral (Cotonou)),TRUE
+benr103,Benin - Borgou (incl Alibori),TRUE
+benr104,Benin - Mono (incl Couffo),TRUE
+benr105,Benin - Queme (incl Plateau),TRUE
+benr106,Benin - Zou (incl Collines),TRUE
+bfar101,Burkina Faso - Boucle de Mouhoun,TRUE
+bfar102,Burkina Faso - Cascades,TRUE
+bfar103,Burkina Faso - Centre (incl Ouagadougou),TRUE
+bfar104,Burkina Faso - Centre-Est,TRUE
+bfar105,Burkina Faso - Centre-Nord,TRUE
+bfar106,Burkina Faso - Centre-Ouest,TRUE
+bfar107,Burkina Faso - Centre-Sud,TRUE
+bfar108,Burkina Faso - Est,TRUE
+bfar109,Burkina Faso - Hauts Bassins,TRUE
+bfar110,Burkina Faso - Nord,TRUE
+bfar111,Burkina Faso - Plateau Central,TRUE
+bfar112,Burkina Faso - Sahel,TRUE
+bfar113,Burkina Faso - Sud-Ouest,TRUE
+bgdr201,"Bangladesh - Barisal, Jhalokati, Pirojpur",TRUE
+bgdr202,"Bangladesh - Barguna, Bhola, Patuakhali",TRUE
+bgdr203,Bangladesh - Chittagong,TRUE
+bgdr204,"Bangladesh - Bandarban, Cox s Bazar",TRUE
+bgdr205,"Bangladesh - Khagrachhari, Rangamati (Chattagram)",TRUE
+bgdr206,"Bangladesh - Feni, Lakshmipur, Noakhali",TRUE
+bgdr207,"Bangladesh - Brahmanbaria, Chandpur, Comilla",TRUE
+bgdr208,Bangladesh - Dhaka,TRUE
+bgdr209,"Bangladesh - Gazipur, Narayanganj, Narsingdi",TRUE
+bgdr210,"Bangladesh - Jamalpur, Sherpur, Tangail",TRUE
+bgdr211,"Bangladesh - Kishoreganj, Mymensingh, Netrakona",TRUE
+bgdr212,"Bangladesh - Faridpur, Manikganj, Rajbari",TRUE
+bgdr213,"Bangladesh - Gopalganj, Madaripur, Munshiganj, Shariatpur",TRUE
+bgdr214,"Bangladesh - Bagerhat, Khulna, Satkhira",TRUE
+bgdr215,"Bangladesh - Jessore, Magura, Narail",TRUE
+bgdr216,"Bangladesh - Chuadanga, Jhenaidah, Kushtia, Meherpur",TRUE
+bgdr217,"Bangladesh - Naogaon, Nawabganj, Rajshahi",TRUE
+bgdr218,"Bangladesh - Natore, Pabna, Sirajganj",TRUE
+bgdr219,"Bangladesh - Bogra, Gaibandha, Jaypurhat",TRUE
+bgdr220,"Bangladesh - Dinajpur, Nilphamari, Panchagarh, Thakurgaon",TRUE
+bgdr221,"Bangladesh - Kurigram, Lalmonirhat, Rangpur",TRUE
+bgdr222,"Bangladesh - Maulvibazar, Sylhet",TRUE
+bgdr223,"Bangladesh - Habiganj, Sunamganj",TRUE
+bgrr101,Bulgaria - Severozapaden,TRUE
+bgrr102,Bulgaria - Severen tsentralen,TRUE
+bgrr103,Bulgaria - Severoiztochen,TRUE
+bgrr104,Bulgaria - Yugoiztochen,TRUE
+bgrr105,Bulgaria - Yugozapaden,TRUE
+bgrr106,Bulgaria - Yuzhen tsentralen,TRUE
+bihr101,Bosnia and Herzegovina - Western Bosnia,TRUE
+bihr102,Bosnia and Herzegovina - Northern Bosnia,TRUE
+bihr103,Bosnia and Herzegovina - Central Bosnia,TRUE
+bihr104,Bosnia and Herzegovina - Western herzegovina,TRUE
+bihr105,Bosnia and Herzegovina - Republica Srpska,TRUE
+blrr101,Belarus - Brest region,TRUE
+blrr102,Belarus - Vitebsk region,TRUE
+blrr103,Belarus - Gomel region,TRUE
+blrr104,Belarus - Grodno region,TRUE
+blrr105,Belarus - Minsk region,TRUE
+blrr106,Belarus - Mogilev region,TRUE
+blzr101,"Belize - Corozal, Orange Walk",TRUE
+blzr102,Belize - Belize,TRUE
+blzr103,Belize - Cayo,TRUE
+blzr104,"Belize - Stann Creek, Toledo",TRUE
+bolr101,Bolivia - Chuquisaca,TRUE
+bolr102,Bolivia - La Paz,TRUE
+bolr103,Bolivia - Cochabamba,TRUE
+bolr104,Bolivia - Oruro,TRUE
+bolr105,Bolivia - Potosi,TRUE
+bolr106,Bolivia - Tarija,TRUE
+bolr107,Bolivia - Santa Cruz,TRUE
+bolr108,Bolivia - Beni,TRUE
+bolr109,Bolivia - Pando,TRUE
+brar101,Brazil - Rondonia,TRUE
+brar102,Brazil - Acre,TRUE
+brar103,Brazil - Amazonas,TRUE
+brar104,Brazil - Roraima,TRUE
+brar105,Brazil - Para,TRUE
+brar106,Brazil - Amapa,TRUE
+brar107,Brazil - Tocantins,TRUE
+brar108,Brazil - Maranhao,TRUE
+brar109,Brazil - Piaui,TRUE
+brar110,Brazil - Ceara,TRUE
+brar111,Brazil - Rio Grande do Norte,TRUE
+brar112,Brazil - Paraiba,TRUE
+brar113,Brazil - Pernambuco,TRUE
+brar114,Brazil - Alagoas,TRUE
+brar115,Brazil - Sergipe,TRUE
+brar116,Brazil - Bahia,TRUE
+brar117,Brazil - Minas Gerais,TRUE
+brar118,Brazil - Espirito Santo,TRUE
+brar119,Brazil - Rio de Janeiro,TRUE
+brar120,Brazil - Sao Paulo,TRUE
+brar121,Brazil - Parana,TRUE
+brar122,Brazil - Santa Catarina,TRUE
+brar123,Brazil - Rio Grande do Sul,TRUE
+brar124,Brazil - Mato Grosso do Sul,TRUE
+brar125,Brazil - Mato Grosso,TRUE
+brar126,Brazil - Goias,TRUE
+brar127,Brazil - Distrito Federal,TRUE
+brbr101,Barbados - St Michael,TRUE
+brbr102,Barbados - Christ Church and St. Philip,TRUE
+brbr103,"Barbados - St. James, St. George, and St. Thomas",TRUE
+brbr104,"Barbados - St. Lucy, St. Peter, St. Andrew, St. Joseph, and St. John",TRUE
+btnr101,Bhutan - Bumthang,TRUE
+btnr102,Bhutan - Chukha,TRUE
+btnr103,Bhutan - Dagana,TRUE
+btnr104,Bhutan - Gasa,TRUE
+btnr105,Bhutan - Haa,TRUE
+btnr106,Bhutan - Lhuntse,TRUE
+btnr107,Bhutan - Mongar,TRUE
+btnr108,Bhutan - Paro,TRUE
+btnr109,Bhutan - Pemagatshel,TRUE
+btnr110,Bhutan - Punakha,TRUE
+btnr111,Bhutan - Samdrup jongkhar,TRUE
+btnr112,Bhutan - Samtse,TRUE
+btnr113,Bhutan - Sarpang,TRUE
+btnr114,Bhutan - Thimphu,TRUE
+btnr115,Bhutan - Trashigang,TRUE
+btnr116,Bhutan - Trashiyangtse,TRUE
+btnr117,Bhutan - Trongsa,TRUE
+btnr118,Bhutan - Tsirang,TRUE
+btnr119,Bhutan - Wangdi,TRUE
+btnr120,Bhutan - Zhemgang,TRUE
+bwar101,Botswana - Central,TRUE
+bwar102,Botswana - Ghanzi,TRUE
+bwar103,Botswana - Kgalagadi,TRUE
+bwar104,Botswana - Kgatleng,TRUE
+bwar105,Botswana - Kweneng,TRUE
+bwar106,Botswana - North-East,TRUE
+bwar107,"Botswana - North-West, Ngamiland",TRUE
+bwar108,Botswana - South-East,TRUE
+bwar109,Botswana - Southern,TRUE
+bwar110,Botswana - Chobe,TRUE
+cafr101,"Central African Republic CAR - RS I (Ombella Mpoko, Lobaye, Kemo, Nana Grebizi, Ouaka)",TRUE
+cafr102,"Central African Republic CAR - RS II (Mambera Kadei, Nana Mambere, Sangha Mbaere)",TRUE
+cafr103,"Central African Republic CAR - RS III (Ouham Pende, Ouham)",TRUE
+cafr104,"Central African Republic CAR - RS IV (Haute-Kotto, Baminigui Bangoran, Vakaga)",TRUE
+cafr105,"Central African Republic CAR - RS V (Basse Kotto, Mbornou, Houte Mbormou)",TRUE
+cafr106,Central African Republic CAR - Bangui,TRUE
+canr101,Canada - Newfoundland and Labrador,TRUE
+canr102,"Canada - Prince Edward Island, Yukon Territory, Northwest Territories, Nunavut",TRUE
+canr103,Canada - Nova Scotia,TRUE
+canr104,Canada - New Brunswick,TRUE
+canr105,Canada - Quebec,TRUE
+canr106,Canada - Ontario,TRUE
+canr107,Canada - Manitoba,TRUE
+canr108,Canada - Saskatchewan,TRUE
+canr109,Canada - Alberta,TRUE
+canr110,Canada - British Columbia,TRUE
+cher101,Switzerland - Lake Geneva region,TRUE
+cher102,Switzerland - Espace Mittelland,TRUE
+cher103,Switzerland - Northwestern Switzerland,TRUE
+cher104,Switzerland - Zurich,TRUE
+cher105,Switzerland - Eastern Switzerland,TRUE
+cher106,Switzerland - Central Switzerland,TRUE
+cher107,Switzerland - Ticino,TRUE
+chlr101,Chili - Tarapaca (incl Arica and Parinacota),TRUE
+chlr102,Chili - Antofagasta,TRUE
+chlr103,Chili - Atacama,TRUE
+chlr104,Chili - Coquimbo,TRUE
+chlr105,Chili - Valparaiso (former Aconcagua),TRUE
+chlr106,Chili - OHiggins,TRUE
+chlr107,Chili - Maule,TRUE
+chlr108,Chili - Bio Bio,TRUE
+chlr109,Chili - Arbucania,TRUE
+chlr110,Chili - Los Lagos (incl Los Rios),TRUE
+chlr111,Chili - Aisen,TRUE
+chlr112,Chili - Magallanes and La Antartica Chilena,TRUE
+chlr113,Chili - Region Metropolitana,TRUE
+chnr101,China - Beijing,TRUE
+chnr102,China - Tianjin,TRUE
+chnr103,China - Hebei,TRUE
+chnr104,China - Shanxi,TRUE
+chnr105,China - Inner Mongolia,TRUE
+chnr106,China - Liaoning,TRUE
+chnr107,China - Jilin,TRUE
+chnr108,China - Heilongjiang,TRUE
+chnr109,China - Shanghai,TRUE
+chnr110,China - Jiangsu,TRUE
+chnr111,China - Zhejiang,TRUE
+chnr112,China - Anhui,TRUE
+chnr113,China - Fujian,TRUE
+chnr114,China - Jiangxi,TRUE
+chnr115,China - Shandong,TRUE
+chnr116,China - Henan,TRUE
+chnr117,China - Hubei,TRUE
+chnr118,China - Hunan,TRUE
+chnr119,China - Guangdong,TRUE
+chnr120,China - Guangxi,TRUE
+chnr121,China - Hainan,TRUE
+chnr122,China - Chongqing,TRUE
+chnr123,China - Sichuan,TRUE
+chnr124,China - Guizhou,TRUE
+chnr125,China - Yunnan,TRUE
+chnr126,China - Tibet,TRUE
+chnr127,China - Shaanxi,TRUE
+chnr128,China - Gansu,TRUE
+chnr129,China - Qinghai,TRUE
+chnr130,China - Ningxia,TRUE
+chnr131,China - Xinjiang,TRUE
+civr101,Cote d'Ivoire - Centre,TRUE
+civr102,Cote d'Ivoire - Centre Est,TRUE
+civr103,Cote d'Ivoire - Centre Nord,TRUE
+civr104,Cote d'Ivoire - Centre Ouest,TRUE
+civr105,Cote d'Ivoire - Nord,TRUE
+civr106,Cote d'Ivoire - Nord Est,TRUE
+civr107,Cote d'Ivoire - Nord Ouest,TRUE
+civr108,Cote d'Ivoire - Ouest,TRUE
+civr109,"Cote d'Ivoire - Sud, Abidjan",TRUE
+civr110,Cote d'Ivoire - Sud Ouest,TRUE
+cmrr101,Cameroon - Adamaoua,TRUE
+cmrr102,Cameroon - Centre (incl Yaounde),TRUE
+cmrr103,Cameroon - Est,TRUE
+cmrr104,Cameroon - Extreme Nord,TRUE
+cmrr105,Cameroon - Littoral (incl Douala),TRUE
+cmrr106,Cameroon - Nord,TRUE
+cmrr107,Cameroon - Nord Ouest,TRUE
+cmrr108,Cameroon - Ouest,TRUE
+cmrr109,Cameroon - Sud,TRUE
+cmrr110,Cameroon - Sud Ouest,TRUE
+codr101,Congo Democratic Republic - Kinshasa,TRUE
+codr102,Congo Democratic Republic - Bas-Congo,TRUE
+codr103,Congo Democratic Republic - Bandundu,TRUE
+codr104,Congo Democratic Republic - Equateur,TRUE
+codr105,Congo Democratic Republic - Orientale,TRUE
+codr106,Congo Democratic Republic - Nord-Kivu,TRUE
+codr107,Congo Democratic Republic - Sud-Kivu,TRUE
+codr108,Congo Democratic Republic - Maniema,TRUE
+codr109,Congo Democratic Republic - Katanga,TRUE
+codr110,Congo Democratic Republic - Kasai Oriental,TRUE
+codr111,Congo Democratic Republic - Kasai Occidental,TRUE
+cogr201,Congo Brazzaville - Kouilou,TRUE
+cogr202,Congo Brazzaville - Niari,TRUE
+cogr203,Congo Brazzaville - Lekoumou,TRUE
+cogr204,Congo Brazzaville - Bouenza,TRUE
+cogr205,Congo Brazzaville - Pool,TRUE
+cogr206,Congo Brazzaville - Plateaux,TRUE
+cogr207,Congo Brazzaville - Cuvette,TRUE
+cogr208,Congo Brazzaville - Cuvette Ouest,TRUE
+cogr209,Congo Brazzaville - Sangha,TRUE
+cogr210,Congo Brazzaville - Likouala,TRUE
+cogr211,Congo Brazzaville - Brazzaville,TRUE
+cogr212,Congo Brazzaville - Pointe Noire,TRUE
+colr101,Colombia - Antioquia (incl Medellin),TRUE
+colr102,Colombia - Atlantico (incl Barranquilla),TRUE
+colr103,Colombia - Bogota D.C.,TRUE
+colr104,Colombia - Bolivar (Sur and Norte),TRUE
+colr105,Colombia - Boyaca,TRUE
+colr106,Colombia - Caldas,TRUE
+colr107,Colombia - Caqueta,TRUE
+colr108,Colombia - Cauca,TRUE
+colr109,Colombia - Cesar,TRUE
+colr110,Colombia - Cordoba,TRUE
+colr111,Colombia - Cundinamarca,TRUE
+colr112,Colombia - Choco,TRUE
+colr113,Colombia - Huila,TRUE
+colr114,Colombia - Guajira,TRUE
+colr115,Colombia - Magdalena,TRUE
+colr116,Colombia - Meta,TRUE
+colr117,Colombia - Narino,TRUE
+colr118,Colombia - Norte de Santander,TRUE
+colr119,Colombia - Quindio,TRUE
+colr120,Colombia - Risaralda,TRUE
+colr121,Colombia - Santander,TRUE
+colr122,Colombia - Sucre,TRUE
+colr123,Colombia - Tolima,TRUE
+colr124,Colombia - Valle (incl Cali),TRUE
+colr125,Colombia - Arauca,TRUE
+colr126,Colombia - Casanare,TRUE
+colr127,Colombia - Putumayo,TRUE
+colr128,Colombia - San Andres,TRUE
+colr129,Colombia - Amazonas,TRUE
+colr130,Colombia - Guainja,TRUE
+colr131,Colombia - Guaviare,TRUE
+colr132,Colombia - Vaupis,TRUE
+colr133,Colombia - Vichada,TRUE
+comr101,Comoros - Grande Comore (Ngazidja),TRUE
+comr102,Comoros - Moheli,TRUE
+comr103,Comoros - Anjouan (Ndzouani),TRUE
+cpvr101,Cape Verde - S.Antao,TRUE
+cpvr102,Cape Verde - S.Vicente,TRUE
+cpvr103,Cape Verde - Santiago-Interior,TRUE
+cpvr104,Cape Verde - Santiago- Praia,TRUE
+cpvr105,Cape Verde - Fogo,TRUE
+crir101,Costa Rica - San Jose,TRUE
+crir102,Costa Rica - Alajuela,TRUE
+crir103,Costa Rica - Cartago,TRUE
+crir104,Costa Rica - Heredia,TRUE
+crir105,Costa Rica - Guanacaste,TRUE
+crir106,Costa Rica - Puntarenas,TRUE
+crir107,Costa Rica - Limon,TRUE
+cubr101,Cuba - Pinar del Rio,TRUE
+cubr102,Cuba - Prov. Habana,TRUE
+cubr103,Cuba - C. Habana,TRUE
+cubr104,Cuba - Matanzas,TRUE
+cubr105,Cuba - Villa Clara,TRUE
+cubr106,Cuba - Cienfuegos,TRUE
+cubr107,Cuba - S.Spiritus,TRUE
+cubr108,Cuba - Ciego de Avila,TRUE
+cubr109,Cuba - Camaguey,TRUE
+cubr110,Cuba - Las Tunas,TRUE
+cubr111,Cuba - Holguin,TRUE
+cubr112,Cuba - Granma,TRUE
+cubr113,Cuba - Santiago de Cuba,TRUE
+cubr114,Cuba - Guantanamo,TRUE
+cubr115,Cuba - Isla,TRUE
+czer101,Czech Republic - Praha,TRUE
+czer102,Czech Republic - Stredni Cechy,TRUE
+czer103,Czech Republic - Jihozapad,TRUE
+czer104,Czech Republic - Severozapad,TRUE
+czer105,Czech Republic - Severovychod,TRUE
+czer106,Czech Republic - Jihovychod,TRUE
+czer107,Czech Republic - Stredni Morava,TRUE
+czer108,Czech Republic - Moravskoslezsko,TRUE
+deur101,Germany - Baden-Wurttemberg,TRUE
+deur102,Germany - Bayern,TRUE
+deur103,Germany - Berlin,TRUE
+deur104,Germany - Brandenburg,TRUE
+deur105,Germany - Bremen,TRUE
+deur106,Germany - Hamburg,TRUE
+deur107,Germany - Hessen,TRUE
+deur108,Germany - Mecklenburg-Vorpommern,TRUE
+deur109,Germany - Niedersachsen,TRUE
+deur110,Germany - Nordrhein-Westfalen,TRUE
+deur111,Germany - Rheinland-Pfalz,TRUE
+deur112,Germany - Saarland,TRUE
+deur113,Germany - Sachsen,TRUE
+deur114,Germany - Sachsen-Anhalt,TRUE
+deur115,Germany - Schleswig-Holstein,TRUE
+deur116,Germany - Thuringen,TRUE
+djir101,Djibouti - Djibouti,TRUE
+djir102,Djibouti - Other Districts,TRUE
+dnkr101,Denmark - Hovedstaden,TRUE
+dnkr102,Denmark - Sjaelland,TRUE
+dnkr103,Denmark - Syddanmark,TRUE
+dnkr104,Denmark - Midtjylland,TRUE
+dnkr105,Denmark - Nordjylland,TRUE
+domr101,"Dominican Republic - Region 0 (Distrito Nacional, Santo Domingo, Monte Plata)",TRUE
+domr102,"Dominican Republic - Region I (Peravia, San Cristobal, San Jose de Ocoa, Azua)",TRUE
+domr103,"Dominican Republic - Region II (Espaillat, Puerto Plata, Santiago)",TRUE
+domr104,"Dominican Republic - Region III (Duarte, Maria Trinidad Sanchez, Salcedo, Samana)",TRUE
+domr105,"Dominican Republic - Region IV (Independencia, Bahoruco, Barahona, Pedernales)",TRUE
+domr106,"Dominican Republic - Region V (El Seibo, La Altagracia, La Romana, San Pedro de Macoris, Hato Mayor)",TRUE
+domr107,"Dominican Republic - Region VI (San Juan, Elias Pina)",TRUE
+domr108,"Dominican Republic - Region VII (Dajabon, Monte Cristi, Santiago Rodriguez, Valverde)",TRUE
+domr109,"Dominican Republic - Region VIII (La Vega, Monsenor Nouel, Sanchez Ramirez)",TRUE
+dzar101,"Algeria - Nord Centre (Alger, Blida, Boumerdes, Tipaza, Bouira, Medea, Tizi-Ouzou, Bejaia, Chlef, Ain Defla)",TRUE
+dzar102,"Algeria - Nord Est (Annaba, Constantine, Skikda, Jijel, Mila, Souk Ahras, El Tarf, Guelma)",TRUE
+dzar103,"Algeria - Nord Ouest (Oran, Tlemcen, Mostaganem, Ain Temouchent, Relizane, Sidi Bel Abbes, Mascara)",TRUE
+dzar104,"Algeria - Hauts Plateaux Centre (Djelfa, Laghouat, MSila)",TRUE
+dzar105,"Algeria - Hauts Plateaux Est (Setif, Batna, Khenchela, Bordj Bou Arreridj, Oum El Bouaghi, Tebessa)",TRUE
+dzar106,"Algeria - Hauts Plateaux Ouest (Tiaret, Saida, Tissemsilt, Naama, El Bayadh)",TRUE
+dzar107,"Algeria - Sud (Bechar, Tindouf, Adrar, Ghardaia, Biskra, El Oued, Ouargla, Tamanrasset,Illizi)",TRUE
+ecur101,Ecuador - Coste,TRUE
+ecur102,Ecuador - Sierra,TRUE
+ecur103,Ecuador - Oriente,TRUE
+egyr101,Egypt - Cairo,TRUE
+egyr102,Egypt - Alexandria,TRUE
+egyr103,Egypt - Port Said,TRUE
+egyr104,Egypt - Suez,TRUE
+egyr105,Egypt - Damietta,TRUE
+egyr106,Egypt - Dakahlia,TRUE
+egyr107,Egypt - Sharkia,TRUE
+egyr108,Egypt - Kalyubia,TRUE
+egyr109,Egypt - Kafr El-Sheikh,TRUE
+egyr110,Egypt - Gharbia,TRUE
+egyr111,Egypt - Menoufia,TRUE
+egyr112,Egypt - Behera,TRUE
+egyr113,Egypt - Ismailia,TRUE
+egyr114,Egypt - Giza,TRUE
+egyr115,Egypt - Beni Suef,TRUE
+egyr116,Egypt - Fayoum,TRUE
+egyr117,Egypt - Menya,TRUE
+egyr118,Egypt - Assuit,TRUE
+egyr119,Egypt - Souhag,TRUE
+egyr120,Egypt - Qena,TRUE
+egyr121,Egypt - Aswan,TRUE
+egyr122,"Egypt - Frontier governorates (Red Sea, New Valley, Matroh, North Sainai, South Sainai)",TRUE
+erir101,Eritrea - Debubawi Keyih Bahri (Southern Red Sea),TRUE
+erir102,Eritrea - Maekel (Central including Asmara),TRUE
+erir103,Eritrea - Semenawi Keyih Bahri (Northern Red Sea),TRUE
+erir104,Eritrea - Anseba,TRUE
+erir105,Eritrea - Gash Barka,TRUE
+erir106,Eritrea - Debub (Southern),TRUE
+espr101,Spain - Galicia,TRUE
+espr102,Spain - Principado de Asturias,TRUE
+espr103,Spain - Cantabria,TRUE
+espr104,Spain - Pais Vasco,TRUE
+espr105,Spain - Comunidad Foral de Navarra,TRUE
+espr106,Spain - La Rioja,TRUE
+espr107,Spain - Aragon,TRUE
+espr108,Spain - Comunidad de Madrid,TRUE
+espr109,Spain - Castilla y Leon,TRUE
+espr110,Spain - Castilla-la Mancha,TRUE
+espr111,Spain - Extremadura,TRUE
+espr112,Spain - Cataluna,TRUE
+espr113,Spain - Comunidad Valenciana,TRUE
+espr114,Spain - Illes Balears,TRUE
+espr115,Spain - Andalucia,TRUE
+espr116,Spain - Region de Murcia,TRUE
+espr117,Spain - Ciudad Autonoma de Ceuta,TRUE
+espr118,Spain - Ciudad Autonoma de Melilla,TRUE
+espr119,Spain - Canarias,TRUE
+estr101,Estonia - Pohja-Eesti,TRUE
+estr102,Estonia - Laane-Eesti,TRUE
+estr103,Estonia - Kesk-Eesti,TRUE
+estr104,Estonia - Kirde-Eesti,TRUE
+estr105,Estonia - Louna-Eesti,TRUE
+ethr101,Ethiopia - Tigray,TRUE
+ethr102,Ethiopia - Affar,TRUE
+ethr103,Ethiopia - Amhara,TRUE
+ethr104,Ethiopia - Oromiya,TRUE
+ethr105,Ethiopia - Somali,TRUE
+ethr106,Ethiopia - Ben-Gumz,TRUE
+ethr107,Ethiopia - SNNP,TRUE
+ethr108,Ethiopia - Gambela,TRUE
+ethr109,Ethiopia - Harari,TRUE
+ethr110,Ethiopia - Addis,TRUE
+ethr111,Ethiopia - Dire Dawa,TRUE
+finr101,Finland - Lansi-Suomi,TRUE
+finr102,Finland - Helsinki-Uusimaa,TRUE
+finr103,Finland - Etela-Suomi,TRUE
+finr104,Finland - Pohjois-ja Ita-Suomi,TRUE
+finr105,Finland - Aland,TRUE
+fjir101,Fiji - Naitasiri,TRUE
+fjir102,Fiji - Rewa,TRUE
+fjir103,"Fiji - Serua, Namosi",TRUE
+fjir104,Fiji - Tailevu,TRUE
+fjir105,"Fiji - Kadavu, Lau, Lomaiviti, Rotuma",TRUE
+fjir106,"Fiji - Cakaudrove, Bua",TRUE
+fjir107,Fiji - Macuata,TRUE
+fjir108,Fiji - Ba,TRUE
+fjir109,Fiji - Nadroga or Navosa,TRUE
+fjir110,Fiji - Ra,TRUE
+frar101,France - Ile de France,TRUE
+frar102,France - Champagne-Ardenne,TRUE
+frar103,France - Picardie,TRUE
+frar104,France - Haute-Normandie,TRUE
+frar105,France - Centre,TRUE
+frar106,France - Basse-Normandie,TRUE
+frar107,France - Bourgogne,TRUE
+frar108,France - Nord,TRUE
+frar109,France - Lorraine,TRUE
+frar110,France - Alsace,TRUE
+frar111,France - Franche-Comte,TRUE
+frar112,France - Pays de la Loire,TRUE
+frar113,France - Bretagne,TRUE
+frar114,France - Poitou-Charentes,TRUE
+frar115,France - Aquitaine,TRUE
+frar116,France - Midi-Pyrenees,TRUE
+frar117,France - Limousin,TRUE
+frar118,France - Rhone-Alpes,TRUE
+frar119,France - Auvergne,TRUE
+frar120,France - Languedoc-Roussillon,TRUE
+frar121,France - Provence-Alpes-Cote dAzur,TRUE
+frar122,France - Corse,TRUE
+frar125,France - Guadeloupe,TRUE
+frar126,France - Martinique,TRUE
+frar127,France - French Guyana,TRUE
+frar128,France - Reunion,TRUE
+frar129,France - Mayotte,TRUE
+gabr101,Gabon - Estuaire,TRUE
+gabr102,Gabon - Haut Ogooue,TRUE
+gabr103,Gabon - Moyen Ogooue,TRUE
+gabr104,Gabon - Ngounie,TRUE
+gabr105,Gabon - Nyanga,TRUE
+gabr106,Gabon - Ogooue Ivindo,TRUE
+gabr107,Gabon - Ogooue Lolo,TRUE
+gabr108,Gabon - Ogooue Maritime,TRUE
+gabr109,Gabon - Woleu Ntem,TRUE
+gabr110,Gabon - Libreville-Port Gentil,TRUE
+gbrr101,United Kingdom - North East,TRUE
+gbrr102,United Kingdom - North West,TRUE
+gbrr103,United Kingdom - Yorkshire and The Humber,TRUE
+gbrr104,United Kingdom - East Midlands,TRUE
+gbrr105,United Kingdom - West Midlands,TRUE
+gbrr106,United Kingdom - East of England,TRUE
+gbrr107,United Kingdom - London,TRUE
+gbrr108,United Kingdom - South East,TRUE
+gbrr109,United Kingdom - South West,TRUE
+gbrr110,United Kingdom - Wales,TRUE
+gbrr111,United Kingdom - Scotland,TRUE
+gbrr112,United Kingdom - Northern Ireland,TRUE
+geor102,Georgia - Ajaria,TRUE
+geor103,Georgia - Guria,TRUE
+geor104,Georgia - Imereti Racha-Lochkhumi Kvemo Svaneti,TRUE
+geor105,Georgia - Kakheti,TRUE
+geor106,Georgia - Kvemo Kartli,TRUE
+geor107,Georgia - Mtskheta-Mtianeti,TRUE
+geor108,Georgia - Samegrelo-Zemo Svateni,TRUE
+geor109,Georgia - Samtskhe-Javakheti,TRUE
+geor110,Georgia - Shida Kartli,TRUE
+geor111,Georgia - Tbilisi,TRUE
+ghar101,Ghana - Western,TRUE
+ghar102,Ghana - Central,TRUE
+ghar103,Ghana - Greater Accra,TRUE
+ghar104,Ghana - Volta,TRUE
+ghar105,Ghana - Eastern,TRUE
+ghar106,Ghana - Ashanti,TRUE
+ghar107,Ghana - Brong Ahafo,TRUE
+ghar108,Ghana - Northern,TRUE
+ghar109,Ghana - Upper West,TRUE
+ghar110,Ghana - Upper East,TRUE
+ginr101,Guinea - Boke,TRUE
+ginr102,Guinea - Conakry,TRUE
+ginr103,Guinea - Faranah,TRUE
+ginr104,Guinea - Kankan,TRUE
+ginr105,Guinea - Kindia,TRUE
+ginr106,Guinea - Labe,TRUE
+ginr107,Guinea - Mamou,TRUE
+ginr108,Guinea - N Zerekore,TRUE
+gmbr101,Gambia - Banjul,TRUE
+gmbr102,Gambia - Kanifing,TRUE
+gmbr103,Gambia - Brikama,TRUE
+gmbr104,Gambia - Mansakonko,TRUE
+gmbr105,Gambia - Kerewan,TRUE
+gmbr106,Gambia - Kuntaur,TRUE
+gmbr107,Gambia - Janjabureh,TRUE
+gmbr108,Gambia - Basse,TRUE
+gnbr101,Guinea Bissau - Tombali,TRUE
+gnbr102,Guinea Bissau - Quinara,TRUE
+gnbr103,Guinea Bissau - Oio,TRUE
+gnbr104,Guinea Bissau - Biombo,TRUE
+gnbr105,Guinea Bissau - Bolama,TRUE
+gnbr106,Guinea Bissau - Bafata,TRUE
+gnbr107,Guinea Bissau - Gabu,TRUE
+gnbr108,Guinea Bissau - Cacheu,TRUE
+gnbr109,Guinea Bissau - Bissau,TRUE
+gnqr101,"Equatorial Guinea - Annobon, Bioko",TRUE
+gnqr102,Equatorial Guinea - Centro Sur,TRUE
+gnqr103,Equatorial Guinea - Kie Ntem,TRUE
+gnqr104,Equatorial Guinea - Litoral,TRUE
+gnqr105,Equatorial Guinea - Wele Nzas,TRUE
+grcr101,Greece - Attiki,TRUE
+grcr102,Greece - Voreio Aigaio,TRUE
+grcr103,Greece - Notio Aigaio,TRUE
+grcr104,Greece - Kriti,TRUE
+grcr105,"Greece - Anatoliki Makedonia, Thraki",TRUE
+grcr106,Greece - Kentriki Makedonia,TRUE
+grcr107,Greece - Dytiki Makedonia,TRUE
+grcr108,Greece - Ipeiros,TRUE
+grcr109,Greece - Thessalia,TRUE
+grcr110,Greece - Ionia Nisia,TRUE
+grcr111,Greece - Dytiki Ellada,TRUE
+grcr112,Greece - Sterea Ellada,TRUE
+grcr113,Greece - Peloponnisos,TRUE
+gtmr101,Guatemala - Metropolitan,TRUE
+gtmr102,Guatemala - North,TRUE
+gtmr103,Guatemala - North-Oriental,TRUE
+gtmr104,Guatemala - South-Oriental,TRUE
+gtmr105,Guatemala - Central,TRUE
+gtmr106,Guatemala - South-Occidental,TRUE
+gtmr107,Guatemala - North-Occidental,TRUE
+gtmr108,Guatemala - Peten,TRUE
+guyr101,Guyana - Barima-Waini,TRUE
+guyr102,Guyana - Pomeroon-Supenaam,TRUE
+guyr103,Guyana - Essequibo Islands-West Demerara,TRUE
+guyr104,Guyana - Demerara-Mahaica,TRUE
+guyr105,Guyana - Mahaica-Berbice,TRUE
+guyr106,Guyana - East Berbice-Corentyne,TRUE
+guyr107,Guyana - Cuyuni-Mazaruni,TRUE
+guyr108,Guyana - Potaro-Siparuni,TRUE
+guyr109,Guyana - Upper Takutu-Upper Essequibo,TRUE
+guyr110,Guyana - Upper Demerara-Berbice,TRUE
+hndr101,Honduras - Atlantida,TRUE
+hndr102,Honduras - Colon,TRUE
+hndr103,Honduras - Comayagua,TRUE
+hndr104,Honduras - Copan,TRUE
+hndr105,Honduras - Cortes,TRUE
+hndr106,Honduras - Choluteca,TRUE
+hndr107,Honduras - El Paraiso,TRUE
+hndr108,Honduras - Francisco Morazan,TRUE
+hndr109,Honduras - Gracias a Dios,TRUE
+hndr110,Honduras - Intibuca,TRUE
+hndr111,Honduras - Islas de la Bahia,TRUE
+hndr112,Honduras - La Paz,TRUE
+hndr113,Honduras - Lempira,TRUE
+hndr114,Honduras - Ocotepeque,TRUE
+hndr115,Honduras - Olancho,TRUE
+hndr116,Honduras - Santa Barbara,TRUE
+hndr117,Honduras - Valle,TRUE
+hndr118,Honduras - Yoro,TRUE
+hrvr101,Croatia - City of Zagreb,TRUE
+hrvr102,Croatia - County of Zagreb,TRUE
+hrvr103,Croatia - County of Krapina-Zagorje,TRUE
+hrvr104,Croatia - County of Varazdin,TRUE
+hrvr105,Croatia - County of Koprivnica-Krizevc,TRUE
+hrvr106,Croatia - County of Medimurje,TRUE
+hrvr107,Croatia - County of Bjelovar-Bilogora,TRUE
+hrvr108,Croatia - County of Virovitica-Podravina,TRUE
+hrvr109,Croatia - County of Pozega-Slavonia,TRUE
+hrvr110,Croatia - County of Brod-Posavina,TRUE
+hrvr111,Croatia - County of Osijek-Baranja,TRUE
+hrvr112,Croatia - County of Vukovar-Srijem,TRUE
+hrvr113,Croatia - County of Karlovac,TRUE
+hrvr114,Croatia - County of Sisak-Moslavina,TRUE
+hrvr115,Croatia - County of Primorje-Gorski Kotar,TRUE
+hrvr116,Croatia - County of Lika-Senj,TRUE
+hrvr117,Croatia - County of Zadar,TRUE
+hrvr118,Croatia - County of Sibenik-Knin,TRUE
+hrvr119,Croatia - County of Split-Dalmatia,TRUE
+hrvr120,Croatia - County of Istria,TRUE
+hrvr121,Croatia - County of Dubrovnik-Neretva,TRUE
+htir101,Haiti - West (incl Metropolitain area),TRUE
+htir102,Haiti - South-East,TRUE
+htir103,Haiti - North,TRUE
+htir104,Haiti - North-East,TRUE
+htir105,Haiti - Artibonite,TRUE
+htir106,Haiti - Centre,TRUE
+htir107,Haiti - South,TRUE
+htir108,"Haiti - Grande-Anse, Nippes",TRUE
+htir109,Haiti - North-West,TRUE
+hunr101,Hungary - Kozep-Magyarorszag,TRUE
+hunr102,Hungary - Kozep-Dunantul,TRUE
+hunr103,Hungary - Nyugat-Dunantul,TRUE
+hunr104,Hungary - Del-Dunantul,TRUE
+hunr105,Hungary - Eszak-Magyarorszag,TRUE
+hunr106,Hungary - Eszak-Alfold,TRUE
+hunr107,Hungary - Del-Alfold,TRUE
+idnr101,Indonesia - DI Aceh,TRUE
+idnr102,Indonesia - North Sumatra,TRUE
+idnr103,Indonesia - West Sumatra,TRUE
+idnr104,Indonesia - Riau (incl. Riau islands),TRUE
+idnr105,Indonesia - Jambi,TRUE
+idnr106,Indonesia - South Sumatra,TRUE
+idnr107,Indonesia - Bengkulu,TRUE
+idnr108,Indonesia - Lampung,TRUE
+idnr109,Indonesia - Bangka Belitung,TRUE
+idnr110,Indonesia - DKI Jakarta,TRUE
+idnr111,Indonesia - West Java,TRUE
+idnr112,Indonesia - Central Java,TRUE
+idnr113,Indonesia - DI Yogyakarta,TRUE
+idnr114,Indonesia - East Java,TRUE
+idnr115,Indonesia - Banten,TRUE
+idnr116,Indonesia - Bali,TRUE
+idnr117,Indonesia - West Nusa Tenggara,TRUE
+idnr118,Indonesia - East Nusa Tenggara,TRUE
+idnr119,Indonesia - East Timor,TRUE
+idnr120,Indonesia - West Kalimantan,TRUE
+idnr121,Indonesia - Central Kalimantan,TRUE
+idnr122,Indonesia - South Kalimantan,TRUE
+idnr123,Indonesia - East Kalimantan,TRUE
+idnr124,Indonesia - North Sulawesi,TRUE
+idnr125,Indonesia - Central Sulawesi,TRUE
+idnr126,Indonesia - South Sulawesi (incl Sulawesi Barat),TRUE
+idnr127,Indonesia - Southeast Sulawesi,TRUE
+idnr128,Indonesia - Gorontalo,TRUE
+idnr129,Indonesia - Maluku,TRUE
+idnr130,Indonesia - Irian Jaya (Papua and Papua Barat),TRUE
+indr101,India - Andhra Pradesh,TRUE
+indr102,India - Assam,TRUE
+indr103,India - Bihar,TRUE
+indr104,India - Goa,TRUE
+indr105,India - Gujarat,TRUE
+indr106,India - Haryana,TRUE
+indr107,India - Himachal Pradesh,TRUE
+indr108,India - Jammu and Kashmir,TRUE
+indr109,India - Karnataka,TRUE
+indr110,India - Kerala,TRUE
+indr111,India - Madhya Pradesh,TRUE
+indr112,India - Maharashtra,TRUE
+indr113,India - Manipur,TRUE
+indr114,India - Meghalaya,TRUE
+indr115,India - Mizoram,TRUE
+indr116,India - Nagaland,TRUE
+indr117,India - Orissa,TRUE
+indr118,India - Punjab,TRUE
+indr119,India - Rajasthan,TRUE
+indr120,India - Sikkim,TRUE
+indr121,India - Tamil Nadu,TRUE
+indr122,India - West Bengal,TRUE
+indr123,India - Uttar Pradesh,TRUE
+indr124,India - New Delhi,TRUE
+indr125,India - Arunachal Pradesh,TRUE
+indr126,India - Tripura,TRUE
+indr127,India - Uttaranchal,TRUE
+indr128,India - Jharkhand,TRUE
+indr129,India - Chhattisgarh,TRUE
+indr130,India - Telangana,TRUE
+indr131,India - Chandigarth,TRUE
+indr132,India - Dadra and Nagar Haveli,TRUE
+indr133,India - Puducherry,TRUE
+indr134,India - Daman and Diu,TRUE
+indr135,India - Lakshadweep,TRUE
+indr136,India - Andaman and Nicobar Islands,TRUE
+irlr101,Ireland - Border,TRUE
+irlr102,Ireland - Midland,TRUE
+irlr103,Ireland - West,TRUE
+irlr104,Ireland - Dublin,TRUE
+irlr105,Ireland - Mid-East,TRUE
+irlr106,Ireland - Mid-West,TRUE
+irlr107,Ireland - South-East,TRUE
+irlr108,Ireland - South-West,TRUE
+irnr101,Iran - Markazi,TRUE
+irnr102,Iran - Gilan,TRUE
+irnr103,Iran - Mazandaran,TRUE
+irnr104,Iran - EastAzarbayejan,TRUE
+irnr105,Iran - WestAzarbayejan,TRUE
+irnr106,Iran - Kermanshah,TRUE
+irnr107,Iran - Khuzestan,TRUE
+irnr108,Iran - Fars,TRUE
+irnr109,Iran - Kerman,TRUE
+irnr110,Iran - Khorasan-e-Razavi,TRUE
+irnr111,Iran - Esfahan,TRUE
+irnr112,Iran - Sistanand Baluchestan,TRUE
+irnr113,Iran - Kordestan,TRUE
+irnr114,Iran - Hamedan,TRUE
+irnr115,Iran - Chaharmahal and Bakhtiyari,TRUE
+irnr116,Iran - Lorestan,TRUE
+irnr117,Iran - Ilam,TRUE
+irnr118,Iran - Kohgiluyeh and Boyerahmad,TRUE
+irnr119,Iran - Bushehr,TRUE
+irnr120,Iran - Zanjan,TRUE
+irnr121,Iran - Semnan,TRUE
+irnr122,Iran - Yazd,TRUE
+irnr123,Iran - Hormozgan,TRUE
+irnr124,Iran - Tehran and Alborz,TRUE
+irnr125,Iran - Ardebil,TRUE
+irnr126,Iran - Qom,TRUE
+irnr127,Iran - Qazvin,TRUE
+irnr128,Iran - Golestan,TRUE
+irnr129,Iran - North Khorasan,TRUE
+irnr130,Iran - South Khorasan,TRUE
+irqr101,Iraq - Dohouk,TRUE
+irqr102,Iraq - Nenava,TRUE
+irqr103,Iraq - Suleimaniya,TRUE
+irqr104,Iraq - Ta-amem-Karkuk,TRUE
+irqr105,Iraq - Erbil,TRUE
+irqr106,Iraq - Diala,TRUE
+irqr107,Iraq - Anbar,TRUE
+irqr108,Iraq - Baghdad,TRUE
+irqr109,Iraq - Babylon,TRUE
+irqr110,Iraq - Kerbela,TRUE
+irqr111,Iraq - Wasit,TRUE
+irqr112,Iraq - Salaheldeen,TRUE
+irqr113,Iraq - Najaf,TRUE
+irqr114,Iraq - Qadisiya,TRUE
+irqr115,Iraq - Muthanna,TRUE
+irqr116,Iraq - Thi-Qar,TRUE
+irqr117,Iraq - Maysan,TRUE
+irqr118,Iraq - Basra,TRUE
+itar101,Italy - Piemonte,TRUE
+itar102,Italy - Valle dAosta,TRUE
+itar103,Italy - Liguria,TRUE
+itar104,Italy - Lombardia,TRUE
+itar105,Italy - Abruzzo,TRUE
+itar106,Italy - Molise,TRUE
+itar107,Italy - Campania,TRUE
+itar108,Italy - Puglia,TRUE
+itar109,Italy - Basilicata,TRUE
+itar110,Italy - Calabria,TRUE
+itar111,Italy - Sicilia,TRUE
+itar112,Italy - Sardegna,TRUE
+itar113,Italy - Provincia Autonoma di Bolzano,TRUE
+itar114,Italy - Provincia Autonoma di Trento,TRUE
+itar115,Italy - Veneto,TRUE
+itar116,Italy - Friuli-Venezia Giulia,TRUE
+itar117,Italy - Emilia-Romagna,TRUE
+itar118,Italy - Toscana,TRUE
+itar119,Italy - Umbria,TRUE
+itar120,Italy - Marche,TRUE
+itar121,Italy - Lazio,TRUE
+jamr101,"Jamaica - Kingston, St Andrew",TRUE
+jamr102,"Jamaica - St Thomas, Portland, St Mary",TRUE
+jamr103,"Jamaica - St Ann, St Catherine",TRUE
+jamr104,"Jamaica - Trelawny, St Elizabeth",TRUE
+jamr105,"Jamaica - St James, Hanover, Westmoreland",TRUE
+jamr106,"Jamaica - Manchester, Clarendon",TRUE
+jorr101,Jordan - Amman,TRUE
+jorr102,Jordan - Balqa,TRUE
+jorr103,Jordan - Zarqa,TRUE
+jorr104,Jordan - Madaba,TRUE
+jorr105,Jordan - Irbid,TRUE
+jorr106,Jordan - Mafraq,TRUE
+jorr107,Jordan - Jarash,TRUE
+jorr108,Jordan - Aljoun,TRUE
+jorr109,Jordan - Karak,TRUE
+jorr110,Jordan - Tafiela,TRUE
+jorr111,Jordan - Maan,TRUE
+jorr112,Jordan - Aqaba,TRUE
+jpnr101,Japan - Hokkaido,TRUE
+jpnr102,"Japan - Tohoku (Aomori, Iwate, Miyagi, Akita, Yamagata, Fukushima)",TRUE
+jpnr103,"Japan - Northern-Kanto, Koshin (Ibaraki, Tochigi, Gunma)",TRUE
+jpnr104,"Japan - Southern-Kanto (Saitama, Chiba, Tokyo, Kanagawa, Yamanashi, Nagano)",TRUE
+jpnr105,"Japan - Hokuriku (Niigata, Toyama, Ishikawa, Fukui)",TRUE
+jpnr106,"Japan - Toukai (Gifu, Shizuoka, Aichi, Mie)",TRUE
+jpnr107,"Japan - Kansai region (Shiga, Kyoto, Osaka, Hyogo, Nara, Wakayama)",TRUE
+jpnr108,"Japan - Chugoku (Tottori, Shimane, Okayama, Hiroshima, Yamaguchi)",TRUE
+jpnr109,"Japan - Shikoku (Tokushima, Kagawa, Ehime, Kochi)",TRUE
+jpnr110,"Japan - Kyushu (Fukuoka, Saga, Nagasaki, Kumamoto, Oita, Miyazaki, Kagoshima, Okinawa)",TRUE
+kazr101,Kazakhstan - Almaty city,TRUE
+kazr102,"Kazakhstan - South region (Almatinskaya, Zhambylskaya, Kyzylordinskaya, South-Kazakhstanskaya)",TRUE
+kazr103,"Kazakhstan - West region (Aktyubinskaya, Atyrauskaya, Mangistauskaya, West-Kazakhstanskaya)",TRUE
+kazr104,Kazakhstan - Central region (Karagandinskaya),TRUE
+kazr105,"Kazakhstan - North region (Akmolinskaya (incl Astana city), Kostnaiskaya, Pavlodarskaya, North-Kazakhstanskaya)",TRUE
+kazr106,Kazakhstan - East region (East-Kazakhstanskaya),TRUE
+kenr101,Kenya - Nairobi,TRUE
+kenr102,Kenya - Central,TRUE
+kenr103,Kenya - Coast,TRUE
+kenr104,Kenya - Eastern,TRUE
+kenr105,Kenya - Nyanza,TRUE
+kenr106,Kenya - Rift Valley,TRUE
+kenr107,Kenya - Western,TRUE
+kenr108,Kenya - North Eastern,TRUE
+kgzr101,Kyrgyzstan - Bishkek,TRUE
+kgzr102,Kyrgyzstan - Issyk-Kul,TRUE
+kgzr103,Kyrgyzstan - Chuy,TRUE
+kgzr104,Kyrgyzstan - Talas,TRUE
+kgzr105,Kyrgyzstan - Jalal-Abad,TRUE
+kgzr106,Kyrgyzstan - Osh,TRUE
+kgzr107,Kyrgyzstan - Naryn,TRUE
+kgzr108,Kyrgyzstan - Batken,TRUE
+khmr101,Cambodia - Banteay Mean Chey,TRUE
+khmr102,Cambodia - Kampong Cham (incl Tboung Khmum),TRUE
+khmr103,Cambodia - Kampong Chhnang,TRUE
+khmr104,Cambodia - Kampong Spueu,TRUE
+khmr105,Cambodia - Kampong Thum,TRUE
+khmr106,Cambodia - Kandal,TRUE
+khmr107,Cambodia - Kaoh Kong,TRUE
+khmr108,Cambodia - Phnom Penh,TRUE
+khmr109,Cambodia - Prey Veaeng,TRUE
+khmr110,Cambodia - Pousat,TRUE
+khmr111,Cambodia - Svay Rieng,TRUE
+khmr112,Cambodia - Takaev,TRUE
+khmr113,Cambodia - Bat Dambang-Krong Pailin,TRUE
+khmr114,Cambodia - Kampot-Krong Kaeb-Krong Preah Sihanouk,TRUE
+khmr115,Cambodia - Preah Vihear-Stueng Traeng-Kracheh,TRUE
+khmr116,Cambodia - Mondol Kiri-Rotanak Kiri,TRUE
+khmr117,Cambodia - Siem Reab-Otdar Mean Chey,TRUE
+kirr101,Kiribati - Souyth Tarawa,TRUE
+kirr102,Kiribati - Northern Gilbert,TRUE
+kirr103,Kiribati - Central Gibert,TRUE
+kirr104,Kiribati - Southern Gilbert,TRUE
+kirr105,Kiribati - Line and Phoenix Group,TRUE
+korr101,South Korea - Capital Region,TRUE
+korr102,South Korea - Gyeongnam Region,TRUE
+korr103,South Korea - Gyeongbuk Region,TRUE
+korr104,South Korea - Jeolla Region,TRUE
+korr105,South Korea - Chungcheong Region,TRUE
+korr106,South Korea - Gangwon Region,TRUE
+korr107,South Korea - Jeju,TRUE
+kwtr101,"Kuwait - Al Asimah, Hawalli, Al-Farwaniyah, Mubarak al-Sabah",TRUE
+kwtr102,Kuwait - Ahmadi,TRUE
+kwtr103,Kuwait - Al-Jahra,TRUE
+laor101,Lao - Vientiane Municipality,TRUE
+laor102,Lao - Phongsaly,TRUE
+laor103,Lao - Luangnamtha,TRUE
+laor104,Lao - Oudomxay,TRUE
+laor105,Lao - Bokeo,TRUE
+laor106,Lao - Luangprabang,TRUE
+laor107,Lao - Huaphanh,TRUE
+laor108,Lao - Sayabury,TRUE
+laor109,Lao - Xiengkhuang,TRUE
+laor110,Lao - Vientiane Province,TRUE
+laor111,Lao - Borikhamxay,TRUE
+laor112,Lao - Khammuane,TRUE
+laor113,Lao - Savannakhet,TRUE
+laor114,Lao - Saravane,TRUE
+laor115,Lao - Sekong,TRUE
+laor116,Lao - Champasack,TRUE
+laor117,Lao - Attapeu,TRUE
+lbnr101,Lebanon - Beirut,TRUE
+lbnr102,Lebanon - Mount Lebanon,TRUE
+lbnr103,Lebanon - Northern,TRUE
+lbnr104,Lebanon - Beqaa,TRUE
+lbnr105,"Lebanon - Southern, Nabtieh",TRUE
+lbrr101,Liberia - Bomi,TRUE
+lbrr102,Liberia - Bong,TRUE
+lbrr103,Liberia - Gbarpolu,TRUE
+lbrr104,Liberia - Grand Bassa,TRUE
+lbrr105,Liberia - Grand Cape Mount,TRUE
+lbrr106,Liberia - Grand Gedeh,TRUE
+lbrr107,Liberia - Grand Kru,TRUE
+lbrr108,Liberia - Lofa,TRUE
+lbrr109,Liberia - Margibi,TRUE
+lbrr110,Liberia - Maryland,TRUE
+lbrr111,Liberia - Montserrado,TRUE
+lbrr112,Liberia - Nimba,TRUE
+lbrr113,Liberia - River Cess,TRUE
+lbrr114,Liberia - River Gee,TRUE
+lbrr115,Liberia - Sinoe,TRUE
+lbyr101,Libya - Cyrenaica,TRUE
+lbyr102,Libya - Tripolitania,TRUE
+lbyr103,Libya - Fezzan,TRUE
+lcar101,Saint Lucia - St Lucia rural,TRUE
+lcar102,Saint Lucia - St Lucia urban,TRUE
+lsor101,Lesotho - Butha-Buthe,TRUE
+lsor102,Lesotho - Leribe,TRUE
+lsor103,Lesotho - Berea,TRUE
+lsor104,Lesotho - Maseru,TRUE
+lsor105,Lesotho - Mafeteng,TRUE
+lsor106,Lesotho - Mohale s Hoek,TRUE
+lsor107,Lesotho - Quthing,TRUE
+lsor108,Lesotho - Qasha s Nek,TRUE
+lsor109,Lesotho - Mokhotlong,TRUE
+lsor110,Lesotho - Thaba-Tseka,TRUE
+ltur101,Lithuania - Alytus County,TRUE
+ltur102,Lithuania - Kaunas County,TRUE
+ltur103,Lithuania - Klaipeda County,TRUE
+ltur104,Lithuania - Marijampole County,TRUE
+ltur105,Lithuania - Panevezys County,TRUE
+ltur106,Lithuania - Siauliai County,TRUE
+ltur107,Lithuania - Taurage County,TRUE
+ltur108,Lithuania - Telsiai County,TRUE
+ltur109,Lithuania - Utena County,TRUE
+ltur110,Lithuania - Vilnius County,TRUE
+lvar101,Latvia - Riga region,TRUE
+lvar102,Latvia - Pieriga region,TRUE
+lvar103,Latvia - Vidzeme region,TRUE
+lvar104,Latvia - Kurzeme region,TRUE
+lvar105,Latvia - Zemgale region,TRUE
+lvar106,Latvia - Latgale region,TRUE
+marr101,Morocco - North west,TRUE
+marr102,Morocco - Centre north,TRUE
+marr103,Morocco - Centre,TRUE
+marr104,Morocco - Eastern,TRUE
+marr105,Morocco - Centre south,TRUE
+marr106,Morocco - Tensift,TRUE
+marr107,Morocco - South,TRUE
+mdar101,Moldova - North,TRUE
+mdar102,Moldova - Center,TRUE
+mdar103,Moldova - South,TRUE
+mdar104,Moldova - Chisinau,TRUE
+mdgr101,Madagascar - Analamanga,TRUE
+mdgr102,Madagascar - Vakinankaratra,TRUE
+mdgr103,Madagascar - Itasy,TRUE
+mdgr104,Madagascar - Bongolava,TRUE
+mdgr105,Madagascar - Haute Matsiatra,TRUE
+mdgr106,Madagascar - Anamoroni Mania,TRUE
+mdgr107,Madagascar - Vatovavy Fitovinany,TRUE
+mdgr108,Madagascar - Ihorombe,TRUE
+mdgr109,Madagascar - Atsimo Atsinanana,TRUE
+mdgr110,Madagascar - Atsinanana,TRUE
+mdgr111,Madagascar - Analanjirofo,TRUE
+mdgr112,Madagascar - Alaotra Mangoro,TRUE
+mdgr113,Madagascar - Boeny,TRUE
+mdgr114,Madagascar - Sofia,TRUE
+mdgr115,Madagascar - Betsiboka,TRUE
+mdgr116,Madagascar - Melaky,TRUE
+mdgr117,Madagascar - Atsimo Andrefana,TRUE
+mdgr118,Madagascar - Androy,TRUE
+mdgr119,Madagascar - Anosy,TRUE
+mdgr120,Madagascar - Menabe,TRUE
+mdgr121,Madagascar - Diana,TRUE
+mdgr122,Madagascar - Sava,TRUE
+mdvr101,Maldives - Male,TRUE
+mdvr102,Maldives - North,TRUE
+mdvr103,Maldives - North Central,TRUE
+mdvr104,Maldives - Central,TRUE
+mdvr105,Maldives - South Central,TRUE
+mdvr106,Maldives - South,TRUE
+mexr101,Mexico - Aguascalientes,TRUE
+mexr102,Mexico - Baja California,TRUE
+mexr103,Mexico - Baja California Sur,TRUE
+mexr104,Mexico - Campeche,TRUE
+mexr105,Mexico - Coahuila,TRUE
+mexr106,Mexico - Colima,TRUE
+mexr107,Mexico - Chiapas,TRUE
+mexr108,Mexico - Chihuahua,TRUE
+mexr109,Mexico - Distrito Federal,TRUE
+mexr110,Mexico - Durango,TRUE
+mexr111,Mexico - Guanajuato,TRUE
+mexr112,Mexico - Guerrero,TRUE
+mexr113,Mexico - Hidalgo,TRUE
+mexr114,Mexico - Jalisco,TRUE
+mexr115,Mexico - Mexico,TRUE
+mexr116,Mexico - Michoacan de Ocampo,TRUE
+mexr117,Mexico - Morelos,TRUE
+mexr118,Mexico - Nayarit,TRUE
+mexr119,Mexico - Nuevo Leon,TRUE
+mexr120,Mexico - Oaxaca,TRUE
+mexr121,Mexico - Puebla,TRUE
+mexr122,Mexico - Queretaro,TRUE
+mexr123,Mexico - Quintana Roo,TRUE
+mexr124,Mexico - San Luis Potosi,TRUE
+mexr125,Mexico - Sinaloa,TRUE
+mexr126,Mexico - Sonora,TRUE
+mexr127,Mexico - Tabasco,TRUE
+mexr128,Mexico - Tamaulipas,TRUE
+mexr129,Mexico - Tlaxcala,TRUE
+mexr130,Mexico - Veracruz,TRUE
+mexr131,Mexico - Yucatan,TRUE
+mexr132,Mexico - Zacatecas,TRUE
+mkdr101,North Macedonia - Skopski,TRUE
+mkdr102,North Macedonia - Pelagoniski,TRUE
+mkdr103,North Macedonia - Vardarski,TRUE
+mkdr104,North Macedonia - North East,TRUE
+mkdr105,North Macedonia - South West,TRUE
+mkdr106,North Macedonia - South East,TRUE
+mkdr107,North Macedonia - Poloski,TRUE
+mkdr108,North Macedonia - East,TRUE
+mlir101,Mali - Kayes,TRUE
+mlir102,Mali - Koulikoro,TRUE
+mlir103,Mali - Sikasso,TRUE
+mlir104,Mali - Segou,TRUE
+mlir105,Mali - Mopti,TRUE
+mlir106,Mali - Tombouctou,TRUE
+mlir107,Mali - Gao and Kidal,TRUE
+mlir108,Mali - Bamako,TRUE
+mmrr101,Myanmar - Kachin,TRUE
+mmrr102,Myanmar - Kayah,TRUE
+mmrr103,Myanmar - Kayin,TRUE
+mmrr104,Myanmar - Chin,TRUE
+mmrr105,Myanmar - Sagaing,TRUE
+mmrr106,Myanmar - Taninthayi,TRUE
+mmrr107,Myanmar - Bago,TRUE
+mmrr108,Myanmar - Magway,TRUE
+mmrr109,"Myanmar - Mandalay, NayPyitaw",TRUE
+mmrr110,Myanmar - Mon,TRUE
+mmrr111,Myanmar - Rakhine,TRUE
+mmrr112,Myanmar - Yangon,TRUE
+mmrr113,Myanmar - Shan,TRUE
+mmrr114,Myanmar - Ayeyarwaddy,TRUE
+mner101,Monte Negro - North,TRUE
+mner102,Monte Negro - Centre,TRUE
+mner103,Monte Negro - South,TRUE
+mngr101,"Mongolia - Western (Bayan-Ulgii, Govi-Altai, Zavkhan, Uvs, Khovd)",TRUE
+mngr102,"Mongolia - Khangai (Arkhangai, Bayankhongor, Bulgan, Uvurkhangai, Khuvsgul, Orkhon)",TRUE
+mngr103,"Mongolia - Central (Dornogovi, Dundgovi, Umnugovi, Selenge, Tuv, Darkhan-Uul, Govisumber)",TRUE
+mngr104,"Mongolia - Eastern (Dornod, Sukhbaatar, Khentii)",TRUE
+mngr105,Mongolia - Ulaanbaatar,TRUE
+mozr101,Mozambique - Niassa,TRUE
+mozr102,Mozambique - Cabo delgado,TRUE
+mozr103,Mozambique - Nampula,TRUE
+mozr104,Mozambique - Zambezia,TRUE
+mozr105,Mozambique - Tete,TRUE
+mozr106,Mozambique - Manica,TRUE
+mozr107,Mozambique - Sofala,TRUE
+mozr108,Mozambique - Inhambane,TRUE
+mozr109,Mozambique - Gaza,TRUE
+mozr110,Mozambique - Maputo Provincia,TRUE
+mozr111,Mozambique - Maputo Cidade,TRUE
+mrtr101,Mauritania - Hodh Charghi,TRUE
+mrtr102,Mauritania - Hodh Gharbi,TRUE
+mrtr103,Mauritania - Assaba,TRUE
+mrtr104,Mauritania - Gorgol,TRUE
+mrtr105,Mauritania - Brakna,TRUE
+mrtr106,Mauritania - Trarza incl Nouakchott,TRUE
+mrtr107,Mauritania - Adrar,TRUE
+mrtr108,Mauritania - Nouadhibou,TRUE
+mrtr109,Mauritania - Tagant,TRUE
+mrtr110,Mauritania - Guidimagha,TRUE
+mrtr111,Mauritania - Tiris-Zemmour,TRUE
+mrtr112,Mauritania - Inchiri,TRUE
+musr101,"Mauritius - North (Port Louis, Pamplemousses, Riviere du Rempart, Flacq, Moka)",TRUE
+musr102,"Mauritius - South (Grand Port, Savanne, Plaines Wilhems, Black River)",TRUE
+musr103,Mauritius - Rodrigues,TRUE
+mwir101,Malawi - Blantyre,TRUE
+mwir102,Malawi - Kasungu,TRUE
+mwir103,Malawi - Machinga,TRUE
+mwir104,Malawi - Mangochi,TRUE
+mwir105,Malawi - Mzimba,TRUE
+mwir106,Malawi - Salima,TRUE
+mwir107,Malawi - Thyolo,TRUE
+mwir108,Malawi - Zomba,TRUE
+mwir109,Malawi - Lilongwe,TRUE
+mwir110,Malawi - Mulanje,TRUE
+mwir111,"Malawi - Other northern (Chitipa, Karonga, Rumphi, Nkhata Bay)",TRUE
+mwir112,"Malawi - Other central (Nkhota Kota, Mchinji, Dowa, Ntchisi, Dedza, Ntcheu)",TRUE
+mwir113,"Malawi - Other southern (Balaka, Mwanza, Phalombe, Chiradzulu, Chikwawa, Nsanje, neno)",TRUE
+mysr101,Malaysia - Johor,TRUE
+mysr102,Malaysia - Kedah,TRUE
+mysr103,Malaysia - Kelantan,TRUE
+mysr104,Malaysia - Melaka,TRUE
+mysr105,Malaysia - Negeri Sembilan,TRUE
+mysr106,Malaysia - Pahang,TRUE
+mysr107,Malaysia - Pulau Pinang,TRUE
+mysr108,Malaysia - Perak,TRUE
+mysr109,Malaysia - Perlis,TRUE
+mysr110,Malaysia - Selangor,TRUE
+mysr111,Malaysia - Terengganu,TRUE
+mysr112,Malaysia - Sabah,TRUE
+mysr113,Malaysia - Sarawak,TRUE
+mysr114,Malaysia - Kuala Lumpur Federal Territory,TRUE
+mysr115,Malaysia - Labuan Federal Territory,TRUE
+namr101,Namibia - Caprivi,TRUE
+namr102,Namibia - Erongo,TRUE
+namr103,Namibia - Hardap,TRUE
+namr104,Namibia - Karas,TRUE
+namr105,Namibia - Khomas,TRUE
+namr106,Namibia - Kunene,TRUE
+namr107,Namibia - Ohangwena,TRUE
+namr108,Namibia - Kavango,TRUE
+namr109,Namibia - Omaheke,TRUE
+namr110,Namibia - Omusati,TRUE
+namr111,Namibia - Oshana,TRUE
+namr112,Namibia - Oshikoto,TRUE
+namr113,Namibia - Otjozondjupa,TRUE
+nerr101,Niger - Agadez,TRUE
+nerr102,Niger - Diffa,TRUE
+nerr103,Niger - Dosso,TRUE
+nerr104,Niger - Maradi,TRUE
+nerr105,Niger - Tillabery (incl Niamey),TRUE
+nerr106,Niger - Tahoua,TRUE
+nerr107,Niger - Zinder,TRUE
+ngar101,Nigeria - Akwa Ibom,TRUE
+ngar102,Nigeria - Anambra,TRUE
+ngar103,Nigeria - Bauchi,TRUE
+ngar104,Nigeria - Edo,TRUE
+ngar105,Nigeria - Benue,TRUE
+ngar106,Nigeria - Borno,TRUE
+ngar107,Nigeria - Cross River,TRUE
+ngar108,Nigeria - Adamawa,TRUE
+ngar109,Nigeria - Imo,TRUE
+ngar110,Nigeria - Kaduna,TRUE
+ngar111,Nigeria - Kano,TRUE
+ngar112,Nigeria - Katsina,TRUE
+ngar113,Nigeria - Kwara,TRUE
+ngar114,Nigeria - Lagos,TRUE
+ngar115,Nigeria - Niger,TRUE
+ngar116,Nigeria - Ogun,TRUE
+ngar117,Nigeria - Ondo,TRUE
+ngar118,Nigeria - Oyo,TRUE
+ngar119,Nigeria - Plateau,TRUE
+ngar120,Nigeria - Rivers,TRUE
+ngar121,Nigeria - Sokoto,TRUE
+ngar122,Nigeria - Abia,TRUE
+ngar123,Nigeria - Delta,TRUE
+ngar124,Nigeria - Enugu,TRUE
+ngar125,Nigeria - Jigawa,TRUE
+ngar126,Nigeria - Kebbi,TRUE
+ngar127,Nigeria - Kogi,TRUE
+ngar128,Nigeria - Osun,TRUE
+ngar129,Nigeria - Taraba,TRUE
+ngar130,Nigeria - Yobe,TRUE
+ngar131,Nigeria - Bayelsa,TRUE
+ngar132,Nigeria - Ebonyi,TRUE
+ngar133,Nigeria - Ekiti,TRUE
+ngar134,Nigeria - Gombe,TRUE
+ngar135,Nigeria - Nassarawa,TRUE
+ngar136,Nigeria - Zamfora,TRUE
+ngar137,Nigeria - Abuja FCT,TRUE
+nicr101,"Nicaragua - Pacifico (Chinandega, Leon, Managua, Masaya, Granada, Carazo, Rivas)",TRUE
+nicr102,"Nicaragua - Central-Norte (Boaco, Chontales, Jinotega, Matagalpa, Esteli, Madriz, Nueva Segovia)",TRUE
+nicr103,"Nicaragua - Atlantico (Rio San Juan, Atlantico Norte (Raan), Atlantico Sur (Raas))",TRUE
+nldr101,Netherlands - Groningen,TRUE
+nldr102,Netherlands - Friesland,TRUE
+nldr103,Netherlands - Drenthe,TRUE
+nldr104,Netherlands - Overijssel,TRUE
+nldr105,Netherlands - Gelderland,TRUE
+nldr106,Netherlands - Flevoland,TRUE
+nldr107,Netherlands - Utrecht,TRUE
+nldr108,Netherlands - Noord-Holland,TRUE
+nldr109,Netherlands - Zuid-Holland,TRUE
+nldr110,Netherlands - Zeeland,TRUE
+nldr111,Netherlands - Noord-Brabant,TRUE
+nldr112,Netherlands - Limburg,TRUE
+norr101,Norway - Oslo og Akershus,TRUE
+norr102,Norway - Hedmark og Oppland,TRUE
+norr103,Norway - Sor-Ostlandet,TRUE
+norr104,Norway - Agder og Rogaland,TRUE
+norr105,Norway - Vestlandet,TRUE
+norr106,Norway - Trondelag,TRUE
+norr107,Norway - Nord-Norge,TRUE
+nplr101,Nepal - Eastern,TRUE
+nplr102,Nepal - Central,TRUE
+nplr103,Nepal - Western,TRUE
+nplr104,Nepal - Mid-western,TRUE
+nplr105,Nepal - Far-western,TRUE
+nzlr101,New Zealand - Northland,TRUE
+nzlr102,New Zealand - Auckland,TRUE
+nzlr103,New Zealand - Waikato,TRUE
+nzlr104,New Zealand - Bay of Plenty,TRUE
+nzlr105,New Zealand - Gisborne,TRUE
+nzlr106,New Zealand - Hawkes Bay,TRUE
+nzlr107,New Zealand - Taranaki,TRUE
+nzlr108,New Zealand - Manawatu-Wanganui,TRUE
+nzlr109,New Zealand - Wellington,TRUE
+nzlr110,New Zealand - Tasman - Nelson,TRUE
+nzlr111,New Zealand - Marlborough,TRUE
+nzlr112,New Zealand - West Coast,TRUE
+nzlr113,New Zealand - Canterbury,TRUE
+nzlr114,New Zealand - Otago,TRUE
+nzlr115,New Zealand - Southland,TRUE
+pakr101,Pakistan - Punjab,TRUE
+pakr102,Pakistan - Sindh,TRUE
+pakr103,Pakistan - Khyber Pakhtunkhwa (NWFrontier),TRUE
+pakr104,Pakistan - Balochistan,TRUE
+pakr105,Pakistan - Islamabad (ICT),TRUE
+pakr106,Pakistan - Gilgit Baltistan,TRUE
+pakr107,Pakistan - AJK,TRUE
+pakr108,Pakistan - FATA,TRUE
+panr101,Panama - Bocas del Toro,TRUE
+panr102,Panama - Cocle,TRUE
+panr103,Panama - Colon,TRUE
+panr104,Panama - Chiriqui,TRUE
+panr105,Panama - Darien,TRUE
+panr106,Panama - Herrera,TRUE
+panr107,Panama - Los Santos,TRUE
+panr108,Panama - Panama,TRUE
+panr109,Panama - Veraguas,TRUE
+panr110,Panama - Kuna Yala,TRUE
+panr111,Panama - Embera Wounaan,TRUE
+panr112,Panama - Ngobe Bugle,TRUE
+perr101,"Peru - North (Tumbes, Piura, Lambayeque, Cajamarca, La Libertad)",TRUE
+perr102,"Peru - North East (Amazonas, Loreto, San Martin, Ucayali)",TRUE
+perr103,"Peru - East (Madre de Dios, Cusco, Puno, Apurimac)",TRUE
+perr104,"Peru - South (Tacna, Moquegua, Arequipa, Ica, Ayacucho)",TRUE
+perr105,"Peru - West (Ancash, Lima, Callao)",TRUE
+perr106,"Peru - Central (Huancavelica, Huanuco, Junin, Pasco)",TRUE
+phlr101,Philippines - National Capital Region,TRUE
+phlr102,Philippines - Cordillera Admin Region,TRUE
+phlr103,Philippines - I-Ilocos,TRUE
+phlr104,Philippines - II-Cagayan Valley,TRUE
+phlr105,Philippines - III-Central Luzon,TRUE
+phlr106,Philippines - IVA-CALABARZON,TRUE
+phlr107,Philippines - IVB-MIMAROPA,TRUE
+phlr108,Philippines - V-Bicol,TRUE
+phlr109,Philippines - VI-Western Visayas,TRUE
+phlr110,Philippines - VII-Central Visayas,TRUE
+phlr111,Philippines - VIII-Eastern Visayas,TRUE
+phlr112,Philippines - IX-Zamboanga Peninsula,TRUE
+phlr113,Philippines - X-Northern Mindanao,TRUE
+phlr114,Philippines - XI-Davao,TRUE
+phlr115,Philippines - XII-SOCCSKSARGEN,TRUE
+phlr116,Philippines - XIII-Caraga,TRUE
+phlr117,Philippines - ARMM,TRUE
+pngr101,Papua New Guinea - Western,TRUE
+pngr102,Papua New Guinea - Gulf,TRUE
+pngr103,Papua New Guinea - Central,TRUE
+pngr104,Papua New Guinea - National Capital District,TRUE
+pngr105,Papua New Guinea - Milne Bay,TRUE
+pngr106,"Papua New Guinea - Northern, Oro",TRUE
+pngr107,Papua New Guinea - Southern Highlands,TRUE
+pngr108,Papua New Guinea - Enga,TRUE
+pngr109,Papua New Guinea - Western Highlands,TRUE
+pngr110,"Papua New Guinea - Chimbu, Simbu",TRUE
+pngr111,Papua New Guinea - Eastern Highlands,TRUE
+pngr112,Papua New Guinea - Morobe,TRUE
+pngr113,Papua New Guinea - Madang,TRUE
+pngr114,Papua New Guinea - East Sepik,TRUE
+pngr115,"Papua New Guinea - West Sepik, Sandaun",TRUE
+pngr116,Papua New Guinea - Manus,TRUE
+pngr117,Papua New Guinea - New Ireland,TRUE
+pngr118,Papua New Guinea - East New Britain,TRUE
+pngr119,Papua New Guinea - West New Britain,TRUE
+pngr120,Papua New Guinea - Autonomous Region of Bougainville,TRUE
+pngr121,Papua New Guinea - Hela,TRUE
+pngr122,Papua New Guinea - Jiwaka,TRUE
+polr101,Poland - Lodzkie,TRUE
+polr102,Poland - Mazowieckie,TRUE
+polr103,Poland - Malopolskie,TRUE
+polr104,Poland - Slaskie,TRUE
+polr105,Poland - Lubelskie,TRUE
+polr106,Poland - Podkarpackie,TRUE
+polr107,Poland - Swietokrzyskie,TRUE
+polr108,Poland - Podlaskie,TRUE
+polr109,Poland - Wielkopolskie,TRUE
+polr110,Poland - Zachodniopomorskie,TRUE
+polr111,Poland - Lubuskie,TRUE
+polr112,Poland - Dolnoslaskie,TRUE
+polr113,Poland - Opolskie,TRUE
+polr114,Poland - Kujawsko-Pomorskie,TRUE
+polr115,Poland - Warminsko-Mazurskie,TRUE
+polr116,Poland - Pomorskie,TRUE
+prtr101,Portugal - Norte,TRUE
+prtr102,Portugal - Algarve,TRUE
+prtr103,Portugal - Centro,TRUE
+prtr104,Portugal - Area Metropolitana de Lisboa,TRUE
+prtr105,Portugal - Alentejo,TRUE
+prtr106,Portugal - Regiao Autonoma dos Acores,TRUE
+prtr107,Portugal - Regiao Autonoma da Madeira,TRUE
+pryr101,"Paraguay - North-West (Boqueron, Alto Paraguay, Presidente Hayes, Conception, Amambay, San pedro, Cordillera)",TRUE
+pryr102,"Paraguay - North-East (Caaguazu, Alto Parana, Canideyu)",TRUE
+pryr103,"Paraguay - South-West (Caazapa, Itapua)",TRUE
+pryr104,"Paraguay - South-East (Guaira, Misiones, Paraguari, Neembucu)",TRUE
+pryr105,"Paraguay - Central (Asuncion, Central)",TRUE
+pser101,"Palestine - Jenin, Tubas, Tulkarm, Nablus, Qalqiliya",TRUE
+pser102,"Palestine - Salfit, Ramallah, Al-Bireh, Jericho, Al Aghwar",TRUE
+pser103,Palestine - Jerusalem,TRUE
+pser104,"Palestine - Bethlehem, Hebron",TRUE
+pser105,"Palestine - North Gaza, Gaza",TRUE
+pser106,"Palestine - Deir El-Balah, Khan Yunis, Rafah",TRUE
+rour101,Romania - Nord-Est,TRUE
+rour102,Romania - Sud-Est,TRUE
+rour103,Romania - Sud,TRUE
+rour104,Romania - Sud-Vest Oltenia,TRUE
+rour105,Romania - Vest,TRUE
+rour106,Romania - Nord-Vest,TRUE
+rour107,Romania - Centru,TRUE
+rour108,Romania - Bucuresti,TRUE
+rusr101,Russian Federation - The Central Federal District,TRUE
+rusr102,Russian Federation - The North West Federal District,TRUE
+rusr103,Russian Federation - The South Federal District,TRUE
+rusr104,Russian Federation - The North-Caucasian Federal District,TRUE
+rusr105,Russian Federation - The Privolzhsky (Volga) Federal District,TRUE
+rusr106,Russian Federation - The Urals  Federal District,TRUE
+rusr107,Russian Federation - The Siberian  Federal District,TRUE
+rusr108,Russian Federation - The Far East  Federal District,TRUE
+rwar101,Rwanda - City of Kigali,TRUE
+rwar102,Rwanda - South,TRUE
+rwar103,Rwanda - West,TRUE
+rwar104,Rwanda - North,TRUE
+rwar105,Rwanda - East,TRUE
+saur101,"Saudi Arabia - Center (Riadh, Qassim)",TRUE
+saur102,"Saudi Arabia - West (Makka, Madinah, Tabuk)",TRUE
+saur103,"Saudi Arabia - South (Bahah, Jizan, Asir, Najran)",TRUE
+saur104,Saudi Arabia - Eastern province,TRUE
+saur105,"Saudi Arabia - North (Northern Borders, Al Jawf, Hail)",TRUE
+sdnr101,Sudan - Northern,TRUE
+sdnr102,Sudan - Nahr El Nil,TRUE
+sdnr103,Sudan - Red Sea,TRUE
+sdnr104,Sudan - Kassala,TRUE
+sdnr105,Sudan - Al Gedarif,TRUE
+sdnr106,Sudan - Khartoum,TRUE
+sdnr107,Sudan - Al Gezira,TRUE
+sdnr108,Sudan - White Nile,TRUE
+sdnr109,Sudan - Sinnar,TRUE
+sdnr110,Sudan - Blue Nile,TRUE
+sdnr111,Sudan - North Kordofan,TRUE
+sdnr112,Sudan - South Kordofan,TRUE
+sdnr113,Sudan - North Darfur,TRUE
+sdnr114,Sudan - West Darfur,TRUE
+sdnr115,Sudan - South Darfur,TRUE
+senr101,Senegal - Dakar,TRUE
+senr102,Senegal - Ziguinchor,TRUE
+senr103,Senegal - Diourbel,TRUE
+senr104,Senegal - Saint Louis,TRUE
+senr105,Senegal - Tambacounda,TRUE
+senr106,Senegal - Kaolack,TRUE
+senr107,Senegal - Thies,TRUE
+senr108,Senegal - Louga,TRUE
+senr109,Senegal - Fatick,TRUE
+senr110,Senegal - Kolda,TRUE
+sler101,Sierra Leone - Bombali,TRUE
+sler102,Sierra Leone - Kambia,TRUE
+sler103,Sierra Leone - Koinadugu,TRUE
+sler104,Sierra Leone - Port Loko,TRUE
+sler105,Sierra Leone - Tonkolili,TRUE
+sler106,Sierra Leone - Kailahun,TRUE
+sler107,Sierra Leone - Kenema,TRUE
+sler108,Sierra Leone - Kono,TRUE
+sler109,Sierra Leone - Bo,TRUE
+sler110,Sierra Leone - Bonthe,TRUE
+sler111,Sierra Leone - Moyamba,TRUE
+sler112,Sierra Leone - Pujehun,TRUE
+sler113,Sierra Leone - Western Rural,TRUE
+sler114,Sierra Leone - Western Urban,TRUE
+slvr101,El Salvador - Occidental,TRUE
+slvr102,El Salvador - Central I,TRUE
+slvr103,El Salvador - Central II,TRUE
+slvr104,El Salvador - Oriental,TRUE
+somr101,Somalia - W Galbeed,TRUE
+somr102,Somalia - Awdal,TRUE
+somr103,Somalia - Sanaag,TRUE
+somr104,Somalia - Sool,TRUE
+somr105,Somalia - Togdhere,TRUE
+somr106,Somalia - Mudug,TRUE
+somr107,Somalia - Nugal,TRUE
+somr108,Somalia - Bari,TRUE
+somr109,Somalia - Bakool,TRUE
+somr110,Somalia - Bay,TRUE
+somr111,Somalia - Gedo,TRUE
+somr112,Somalia - Middle Juba,TRUE
+somr113,Somalia - Hiran,TRUE
+somr114,Somalia - Middle Shabelle,TRUE
+somr115,Somalia - Lower Shabelle,TRUE
+somr116,Somalia - Banadir,TRUE
+somr117,Somalia - Galguduud,TRUE
+somr118,Somalia - Lower Juba,TRUE
+srbr101,Serbia - Belgrade,TRUE
+srbr102,Serbia - Vojvodina,TRUE
+srbr103,Serbia - Sumadija and West Serbia,TRUE
+srbr104,Serbia - South and East Serbia,TRUE
+ssdr101,South Sudan - Upper Nile,TRUE
+ssdr102,South Sudan - Jonglei,TRUE
+ssdr103,South Sudan - Unity,TRUE
+ssdr104,South Sudan - Warrap,TRUE
+ssdr105,South Sudan - Northern Bahr El Ghazal,TRUE
+ssdr106,South Sudan - Western Bahr El Ghazal,TRUE
+ssdr107,South Sudan - Lakes,TRUE
+ssdr108,South Sudan - Western Equatoria,TRUE
+ssdr109,South Sudan - Central Equatoria,TRUE
+ssdr110,South Sudan - Eastern Equatoria,TRUE
+stpr101,Sao Tome & Principe - Regiao Centro,TRUE
+stpr102,Sao Tome & Principe - Regiao Sul,TRUE
+stpr103,Sao Tome & Principe - Regiao Norte,TRUE
+stpr104,Sao Tome & Principe - Regiao do Principe,TRUE
+surr101,Suriname - Paramaribo,TRUE
+surr102,Suriname - Wanica and Para,TRUE
+surr103,"Suriname - Nickerie, Coronie and Saramacca",TRUE
+surr104,Suriname - Commewijne and Marowijne,TRUE
+surr105,Suriname - Brokopondo and Sipaliwini,TRUE
+svkr101,Slovakia - Bratislavsky kraj,TRUE
+svkr102,Slovakia - Zapadne Slovensko,TRUE
+svkr103,Slovakia - Stredne Slovensko,TRUE
+svkr104,Slovakia - Vychodne Slovensko,TRUE
+svnr101,Slovenia - Pomurska,TRUE
+svnr102,Slovenia - Podravska,TRUE
+svnr103,Slovenia - Koroska,TRUE
+svnr104,Slovenia - Savinjska,TRUE
+svnr105,Slovenia - Zasavska,TRUE
+svnr106,Slovenia - Posavska,TRUE
+svnr107,Slovenia - Jugovzhodna Slovenija,TRUE
+svnr108,Slovenia - Primorsko-notranjska,TRUE
+svnr109,Slovenia - Osrednjeslovenska,TRUE
+svnr110,Slovenia - Gorenjska,TRUE
+svnr111,Slovenia - Goriska,TRUE
+svnr112,Slovenia - Obalno-kraska,TRUE
+swer101,Sweden - Stockholm,TRUE
+swer102,Sweden - Ostra Mellansverige,TRUE
+swer103,Sweden - Smaland med oarna,TRUE
+swer104,Sweden - Sydsverige,TRUE
+swer105,Sweden - Vastsverige,TRUE
+swer106,Sweden - Norra Mellansverige,TRUE
+swer107,Sweden - Mellersta Norrland,TRUE
+swer108,Sweden - Ovre Norrland,TRUE
+swzr101,Eswatini - Hhohho,TRUE
+swzr102,Eswatini - Manzini,TRUE
+swzr103,Eswatini - Shiselweni,TRUE
+swzr104,Eswatini - Lubombo,TRUE
+syrr101,Syria - Damascus,TRUE
+syrr102,Syria - Rural Damascus,TRUE
+syrr103,Syria - Homs,TRUE
+syrr104,Syria - Hamaa,TRUE
+syrr105,Syria - Tartous,TRUE
+syrr106,Syria - Al Latakia,TRUE
+syrr107,Syria - Edlab Idleb,TRUE
+syrr108,Syria - Halab - Aleppo,TRUE
+syrr109,Syria - Al Raka-Raqqa,TRUE
+syrr110,Syria - Der El Zour - Deir Ezzor,TRUE
+syrr111,Syria - Al Hasaka,TRUE
+syrr112,Syria - Al Swida - Sweida,TRUE
+syrr113,Syria - Daraa,TRUE
+syrr114,Syria - Al Qunitara - Quneitra,TRUE
+tcdr101,Chad - Zone 1 (N'Djamena),TRUE
+tcdr102,"Chad - Zone 2 (Borkou, Ennedi, Tibesti, Kanem, Barh El Gazal, Lac)",TRUE
+tcdr103,"Chad - Zone 3 (Guera, Batha, Salamat)",TRUE
+tcdr104,"Chad - Zone 4 (Ouaddai, Assongha, Sila, Biltine - Wadi Fira)",TRUE
+tcdr105,"Chad - Zone 5 (Chari-Baguimi, Dababa, Baguirmi, Hadjer Lamis)",TRUE
+tcdr106,Chad - Zone 6 (Mayo-Kebbi Est and Ouest),TRUE
+tcdr107,"Chad - Zone 7 (Logone Occidental & Oriental, Monts de Lam, Tandjile Est & Ouest)",TRUE
+tcdr108,"Chad - Zone 8 (Mandoul, Moyen-Chari, Bahr Koh, Lac Iro)",TRUE
+tgor101,Togo - Lome,TRUE
+tgor102,Togo - Maritime,TRUE
+tgor103,Togo - Plateaux,TRUE
+tgor104,Togo - Centrale,TRUE
+tgor105,Togo - Kara,TRUE
+tgor106,Togo - Savanes,TRUE
+thar101,Thailand - Bangkok,TRUE
+thar102,Thailand - Central,TRUE
+thar103,Thailand - North,TRUE
+thar104,Thailand - Northeast,TRUE
+thar105,Thailand - South,TRUE
+tjkr101,Tajikistan - Duchanbe,TRUE
+tjkr102,Tajikistan - Khatlon,TRUE
+tjkr103,Tajikistan - Sughd (formerly Leninabad),TRUE
+tjkr104,Tajikistan - DRS,TRUE
+tjkr105,Tajikistan - GBAO,TRUE
+tkmr101,Turkmenistan - Ashgabat City,TRUE
+tkmr102,Turkmenistan - Akhal,TRUE
+tkmr103,Turkmenistan - Balkan,TRUE
+tkmr104,Turkmenistan - Dashoguz,TRUE
+tkmr105,Turkmenistan - Lebap,TRUE
+tkmr106,Turkmenistan - Mary,TRUE
+tlsr101,Timor Leste - Aileu,TRUE
+tlsr102,Timor Leste - Ainaro,TRUE
+tlsr103,Timor Leste - Baucau,TRUE
+tlsr104,Timor Leste - Bobonaro,TRUE
+tlsr105,Timor Leste - Cova Lima,TRUE
+tlsr106,Timor Leste - Dili,TRUE
+tlsr107,Timor Leste - Ermera,TRUE
+tlsr108,Timor Leste - Liquica,TRUE
+tlsr109,Timor Leste - Lautem,TRUE
+tlsr110,Timor Leste - Manufahi,TRUE
+tlsr111,Timor Leste - Manatuto,TRUE
+tlsr112,Timor Leste - Oecussi,TRUE
+tlsr113,Timor Leste - Viqueque,TRUE
+tonr101,Tonga - Tongatapu,TRUE
+tonr102,Tonga - Vava-u,TRUE
+tonr103,Tonga - Ha-apai,TRUE
+tonr104,Tonga - Eua,TRUE
+tonr105,Tonga - Ongo Niua,TRUE
+ttor101,Trinidad & Tobago - North West,TRUE
+ttor102,Trinidad & Tobago - East,TRUE
+ttor103,Trinidad & Tobago - Central,TRUE
+ttor104,Trinidad & Tobago - South West,TRUE
+ttor105,Trinidad & Tobago - Tobago,TRUE
+tunr101,"Tunisia - Grand Tunis (Tunis, Ariana, Ben Arous, Manouba)",TRUE
+tunr102,"Tunisia - Nord Est (Nabeul, Zaghouan, Bizerte)",TRUE
+tunr103,"Tunisia - Nord Ouest (Beja, Jendouba, Kef, Siliana)",TRUE
+tunr104,"Tunisia - Centre Ouest (Kairouan, Kasserine, Sidi Bouzid)",TRUE
+tunr105,"Tunisia - Centre Est (Sousse, Monastir, Mahdia, Sfax)",TRUE
+tunr106,"Tunisia - Sud Ouest (Gafsa, Tozeur, Kebili)",TRUE
+tunr107,"Tunisia - Sud Est (Gabes, Medinine, Tataouine)",TRUE
+turr101,Turkey - Istanbul,TRUE
+turr102,"Turkey - West Marmara (Balikesir, Canakkale, Edirne, Kirkla",TRUE
+turr103,"Turkey - Aegean (Afyon, Aydin, Denizli, Izmir, Kutahya, Man",TRUE
+turr104,"Turkey - East Marmara (Bilecik, Bolu, Bursa, Duzce, Eskiseh",TRUE
+turr105,"Turkey - West Anatolia (Ankara, Konya, Karaman)",TRUE
+turr106,"Turkey - Mediterranean (Adana, Antalya, Burdur, Hatay, Ispa",TRUE
+turr107,"Turkey - Central Anatolia (Kayseri, Kirsehir, Nevsehir, Nig",TRUE
+turr108,"Turkey - West Black Sea (Amasya, Cankiri, Corum, Kastamonu,",TRUE
+turr109,"Turkey - East Black Sea (Artvin, Giresun, Gumushane, Ordu,",TRUE
+turr110,"Turkey - North East Anatolia (Agri, Erzincan, Erzurum, Kars",TRUE
+turr111,"Turkey - Central East Anatolia (Bingol, Bitlis, Elazig, Hak",TRUE
+turr112,"Turkey - South East Anatolia (Adiyaman, Diyarbakir, Gaziant",TRUE
+tzar201,Tanzania - Dodoma,TRUE
+tzar202,"Tanzania - Arusha, Manyara",TRUE
+tzar203,Tanzania - Kilimanjaro,TRUE
+tzar204,Tanzania - Tanga,TRUE
+tzar205,Tanzania - Morogoro,TRUE
+tzar206,Tanzania - Pwani,TRUE
+tzar207,Tanzania - Dar Es Salam,TRUE
+tzar208,Tanzania - Lindi,TRUE
+tzar209,Tanzania - Mtwara,TRUE
+tzar210,Tanzania - Ruvuma,TRUE
+tzar211,"Tanzania - Iringa, Njombe",TRUE
+tzar212,Tanzania - Mbeya,TRUE
+tzar213,Tanzania - Singida,TRUE
+tzar214,Tanzania - Tabora,TRUE
+tzar215,"Tanzania - Rukwa, Katavi",TRUE
+tzar216,Tanzania - Kigoma,TRUE
+tzar217,"Tanzania - Shinyanga, Simiyu",TRUE
+tzar218,Tanzania - Kagera,TRUE
+tzar219,"Tanzania - Mwanza, Geita",TRUE
+tzar220,Tanzania - Mara,TRUE
+tzar221,Tanzania - Zanzibar North,TRUE
+tzar222,Tanzania - Zanzibar South,TRUE
+tzar223,Tanzania - Zanzibar West,TRUE
+tzar224,Tanzania - Pemba North,TRUE
+tzar225,Tanzania - Pemba South,TRUE
+ugar101,Uganda - Central 1 (Central South),TRUE
+ugar102,Uganda - Central 2 (Central North),TRUE
+ugar103,Uganda - Kampala,TRUE
+ugar104,Uganda - East Central (Busoga),TRUE
+ugar105,"Uganda - Eastern (Bukedi, Bugishu, Teso)",TRUE
+ugar106,"Uganda - North (Karamoja, Lango, Acholi)",TRUE
+ugar107,Uganda - West Nile,TRUE
+ugar108,"Uganda - Western (Bunyoro, Tooro)",TRUE
+ugar109,"Uganda - Southwest (Ankole, Kigezi)",TRUE
+ukrr101,Ukraine - North,TRUE
+ukrr102,Ukraine - Central,TRUE
+ukrr103,Ukraine - East,TRUE
+ukrr104,Ukraine - South,TRUE
+ukrr105,Ukraine - West,TRUE
+uryr101,Uruguay - Montevideo and Metropolitan area,TRUE
+uryr102,"Uruguay - Norte (Artigas, Rivera, Cerro Largo and Trienta y Tres)",TRUE
+uryr103,"Uruguay - Costa Este (Canelones, Maldonado and Rocha)",TRUE
+uryr104,"Uruguay - Litoral Sur (Soriano, Colonia and San Jose)",TRUE
+uryr105,Uruguay - Centro (Durazno and Tacuarembo),TRUE
+uryr106,"Uruguay - Centro Sur (Flores, Florida and Lavalleja)",TRUE
+uryr107,"Uruguay - Litoral Norte (Paysandu, Salto and Rio Negro)",TRUE
+usar101,United States - Alabama,TRUE
+usar102,United States - Alaska,TRUE
+usar103,United States - Arizona,TRUE
+usar104,United States - Arkansas,TRUE
+usar105,United States - California,TRUE
+usar106,United States - Colorado,TRUE
+usar107,United States - Connecticut,TRUE
+usar108,United States - Delaware,TRUE
+usar109,United States - District of Columbia,TRUE
+usar110,United States - Florida,TRUE
+usar111,United States - Georgia,TRUE
+usar112,United States - Hawaii,TRUE
+usar113,United States - Idaho,TRUE
+usar114,United States - Illinois,TRUE
+usar115,United States - Indiana,TRUE
+usar116,United States - Iowa,TRUE
+usar117,United States - Kansas,TRUE
+usar118,United States - Kentucky,TRUE
+usar119,United States - Louisiana,TRUE
+usar120,United States - Maine,TRUE
+usar121,United States - Maryland,TRUE
+usar122,United States - Massachusetts,TRUE
+usar123,United States - Michigan,TRUE
+usar124,United States - Minnesota,TRUE
+usar125,United States - Mississippi,TRUE
+usar126,United States - Missouri,TRUE
+usar127,United States - Montana,TRUE
+usar128,United States - Nebraska,TRUE
+usar129,United States - Nevada,TRUE
+usar130,United States - New Hampshire,TRUE
+usar131,United States - New Jersey,TRUE
+usar132,United States - New Mexico,TRUE
+usar133,United States - New York,TRUE
+usar134,United States - North Carolina,TRUE
+usar135,United States - North Dakota,TRUE
+usar136,United States - Ohio,TRUE
+usar137,United States - Oklahoma,TRUE
+usar138,United States - Oregon,TRUE
+usar139,United States - Pennsylvania,TRUE
+usar140,United States - Rhode Island,TRUE
+usar141,United States - South Carolina,TRUE
+usar142,United States - South Dakota,TRUE
+usar143,United States - Tennessee,TRUE
+usar144,United States - Texas,TRUE
+usar145,United States - Utah,TRUE
+usar146,United States - Vermont,TRUE
+usar147,United States - Virginia,TRUE
+usar148,United States - Washington,TRUE
+usar149,United States - West Virginia,TRUE
+usar150,United States - Wisconsin,TRUE
+usar151,United States - Wyoming,TRUE
+uzbr101,"Uzbekistan - West (Karakalpakstan, Khorezm)",TRUE
+uzbr102,"Uzbekistan - Central (Navoi, Bukhara, Samarkand)",TRUE
+uzbr103,"Uzbekistan - South (Kashkadarya, Surkhandarya)",TRUE
+uzbr104,"Uzbekistan - Central-East (Dzhizak, Syrdarya)",TRUE
+uzbr105,"Uzbekistan - East (Namangan, Fergana, Andizhan)",TRUE
+uzbr106,Uzbekistan - Tashkent,TRUE
+venr101,Venezuela - Federal District,TRUE
+venr102,Venezuela - Amazonas Federal Territory,TRUE
+venr103,Venezuela - Anzoategui,TRUE
+venr104,Venezuela - Apure,TRUE
+venr105,Venezuela - Aragua,TRUE
+venr106,Venezuela - Barinas,TRUE
+venr107,Venezuela - Bolivar,TRUE
+venr108,Venezuela - Carabobo,TRUE
+venr109,Venezuela - Cojedes,TRUE
+venr110,Venezuela - Amacuros Delta Federal Territory,TRUE
+venr111,Venezuela - Falcon,TRUE
+venr112,Venezuela - Guarico,TRUE
+venr113,Venezuela - Lara,TRUE
+venr114,Venezuela - Merida,TRUE
+venr115,Venezuela - Miranda,TRUE
+venr116,Venezuela - Monagas,TRUE
+venr117,Venezuela - Nueva Esparta,TRUE
+venr118,Venezuela - Portuguesa,TRUE
+venr119,Venezuela - Sucre,TRUE
+venr120,Venezuela - Tachira,TRUE
+venr121,Venezuela - Trujillo,TRUE
+venr122,Venezuela - Yaracuy,TRUE
+venr123,Venezuela - Zulia,TRUE
+venr124,Venezuela - Vargas,TRUE
+vnmr101,Vietnam - Red River Delta,TRUE
+vnmr102,"Vietnam - North East, North West",TRUE
+vnmr103,Vietnam - North Central Coast and South Central Coast,TRUE
+vnmr104,Vietnam - Central Highlands,TRUE
+vnmr105,Vietnam - South East,TRUE
+vnmr106,Vietnam - Mekong River Delta,TRUE
+vutr101,Vanuatu - Tafea,TRUE
+vutr102,Vanuatu - Shefa,TRUE
+vutr103,Vanuatu - Malampa,TRUE
+vutr104,Vanuatu - Penama,TRUE
+vutr105,Vanuatu - Sanma,TRUE
+vutr106,Vanuatu - Torba,TRUE
+vutr107,Vanuatu - Port Vila,TRUE
+vutr108,Vanuatu - Luganville,TRUE
+ksvr101,Kosovo - Gjakova,TRUE
+ksvr102,Kosovo - Gjilan,TRUE
+ksvr103,Kosovo - Mitrovica,TRUE
+ksvr104,Kosovo - Peja,TRUE
+ksvr105,Kosovo - Prizren,TRUE
+ksvr106,Kosovo - Pristina,TRUE
+ksvr107,Kosovo - Ferizaj,TRUE
+yemr101,Yemen - Ibb,TRUE
+yemr102,"Yemen - Abyan, Aden (town and countryside), Lahej, Ad Dali (Al Dhalih)",TRUE
+yemr103,"Yemen - Sana a (capital; Al Amana), Sana a (governorate)",TRUE
+yemr104,"Yemen - Beida (Al Bayda), Dhamar, Raimah",TRUE
+yemr105,Yemen - Taiz,TRUE
+yemr106,"Yemen - Jawf, Hadramet, Shabda (Shabwah), Marib, Mohra (Al Mahrah)",TRUE
+yemr107,"Yemen - Hajja, Sada, Amran (Omran)",TRUE
+yemr108,"Yemen - Hodeida (Al Hudaydah), Mahweit (Al Mahwit)",TRUE
+zafr101,South Africa - Western Cape,TRUE
+zafr102,South Africa - Eastern Cape,TRUE
+zafr103,South Africa - Northern Cape,TRUE
+zafr104,South Africa - Free State,TRUE
+zafr105,South Africa - KwaZulu Natal,TRUE
+zafr106,South Africa - North West,TRUE
+zafr107,South Africa - Gauteng,TRUE
+zafr108,South Africa - Mpumalanga,TRUE
+zafr109,South Africa - Northern Province,TRUE
+zmbr101,Zambia - Central,TRUE
+zmbr102,Zambia - Copperbelt,TRUE
+zmbr103,Zambia - Eastern,TRUE
+zmbr104,Zambia - Luapula,TRUE
+zmbr105,Zambia - Lusaka,TRUE
+zmbr106,Zambia - Northern,TRUE
+zmbr107,Zambia - North-Western,TRUE
+zmbr108,Zambia - Southern,TRUE
+zmbr109,Zambia - Western,TRUE
+zwer101,Zimbabwe - Manicaland,TRUE
+zwer102,Zimbabwe - Mashonaland Central,TRUE
+zwer103,Zimbabwe - Mashonaland East,TRUE
+zwer104,Zimbabwe - Mashonaland West,TRUE
+zwer105,Zimbabwe - Matebeleland North,TRUE
+zwer106,Zimbabwe - Matebeleland South,TRUE
+zwer107,Zimbabwe - Midlands,TRUE
+zwer108,Zimbabwe - Masvingo,TRUE
+zwer109,Zimbabwe - Harare,TRUE
+zwer110,Zimbabwe - Bulawayo,TRUE
+chlr201,Chili - Norte I - IV,TRUE
+chlr202,Chili - Centro V - VII,TRUE
+chlr203,Chili - Sur VIII - XII,TRUE
+chnr201,"China - Beijing, Tianjin, Hebei, Shandong",TRUE
+chnr202,"China - Liaoning, Jilin, Heilongjiang",TRUE
+chnr203,"China - Shanghai, Jiangsu, Zhejiang, Anhui",TRUE
+chnr204,"China - Fujian,  Guangdong, Hainan",TRUE
+chnr205,"China - Hubei, Jiangxi, Hunan, Guangxi",TRUE
+chnr206,"China - Chongqing, Sichuan, Guizhou, Yunnan, Tibet",TRUE
+chnr207,"China - Henan, Shanxi, Shaanxi, Inner Mongolia",TRUE
+chnr208,"China - Gansu, Qinghai, Ningxia, Xinjiang",TRUE
+chyr101,China - Beijing,TRUE
+chyr102,China - Tianjin,TRUE
+chyr103,China - Hebei,TRUE
+chyr104,China - Shanxi,TRUE
+chyr105,China - Inner Mongolia,TRUE
+chyr106,China - Liaoning,TRUE
+chyr107,China - Jilin,TRUE
+chyr108,China - Heilongjiang,TRUE
+chyr109,China - Shanghai,TRUE
+chyr110,China - Jiangsu,TRUE
+chyr111,China - Zhejiang,TRUE
+chyr112,China - Anhui,TRUE
+chyr113,China - Fujian,TRUE
+chyr114,China - Jiangxi,TRUE
+chyr115,China - Shandong,TRUE
+chyr116,China - Henan,TRUE
+chyr117,China - Hubei,TRUE
+chyr118,China - Hunan,TRUE
+chyr119,China - Guangdong,TRUE
+chyr120,China - Guangxi Zhuang,TRUE
+chyr121,China - Hainan,TRUE
+chyr122,China - Chongqing,TRUE
+chyr123,China - Sichuan,TRUE
+chyr124,China - Guizhou,TRUE
+chyr125,China - Yunnan,TRUE
+chyr127,China - Shaanxi,TRUE
+chyr128,China - Gansu,TRUE
+chyr129,China - Qinghai,TRUE
+chyr130,China - Ningxia,TRUE
+chyr131,China - Xinjiang,TRUE
+chyr201,"China - Beijing, Tianjin, Hebei, Shandong",TRUE
+chyr202,"China - Liaoning, Jilin, Heilongjiang",TRUE
+chyr203,"China - Shanghai, Jiangsu, Zhejiang, Anhui",TRUE
+chyr204,"China - Fujian,  Guangdong, Hainan",TRUE
+chyr205,"China - Hubei, Jiangxi, Hunan, Guangxi",TRUE
+chyr206,"China - Chongqing, Sichuan, Guizhou, Yunnan, Tibet",TRUE
+chyr207,"China - Henan, Shanxi, Shaanxi, Inner Mongolia",TRUE
+chyr208,"China - Gansu, Qinghai, Ningxia, Xinjiang",TRUE
+htir110,Haiti - Camps,TRUE
+lbrr201,Liberia - Monrovia,TRUE
+lbrr202,Liberia - North Western,TRUE
+lbrr203,Liberia - South Central,TRUE
+lbrr204,Liberia - South Eastern A,TRUE
+lbrr205,Liberia - South Eastern B,TRUE
+lbrr206,Liberia - North Central,TRUE
+mdgr201,Madagascar - Antananarivo,TRUE
+mdgr202,Madagascar - Fianarantsoa,TRUE
+mdgr203,Madagascar - Toamasina,TRUE
+mdgr204,Madagascar - Mahajanga,TRUE
+mdgr205,Madagascar - Toliary,TRUE
+mdgr206,Madagascar - Antsiranana,TRUE
+mexr201,"Mexico - Noroeste (Baja California, Baja California Sur, Chihuahua, Durango, Jalisco, Nayarit, Sinaloa y Son",TRUE
+mexr202,"Mexico - Noreste (Aguascalientes, Coahuila, Guanajuato, Nuevo Leon, Queretaro, San Luis Potosi, Tamaulipas,",TRUE
+mexr203,"Mexico - Centro (Guerrero, Morelos, Puebla, Tlaxcala, Hidalgo, Michoacan y Colima)",TRUE
+mexr204,Mexico - CDMX-Edo Mexico Ciudad de Mexico (Estado de Mexico),TRUE
+mexr205,"Mexico - Sur (Campeche, Chiapas, Oaxaca, Quintana Roo, Tabasco, Veracruz y Yucatan)",TRUE
+mysr201,"Malaysia - North (Perlis, Kedah, Penang)",TRUE
+mysr202,"Malaysia - East (Kelantan, Terengganu, Pahang)",TRUE
+mysr203,"Malaysia - Central (Perak, Selangor, Wilayah Persekutuan)",TRUE
+mysr204,"Malaysia - South (Negeri Sembilan, Melaka, Johor)",TRUE
+mysr205,"Malaysia - East Malaysia (Saba, Sarawak)",TRUE
+namr201,Namibia - Northwest,TRUE
+namr202,Namibia - Northeast,TRUE
+namr203,Namibia - Central,TRUE
+namr204,Namibia - South,TRUE
+panr201,Panama - Area Metropolitana,TRUE
+panr202,Panama - Area Oriental,TRUE
+panr203,Panama - Area Central,TRUE
+panr204,Panama - Area Occidental,TRUE
+qatr101,Qatar - Doha,TRUE
+qatr102,Qatar - Al-Rayyan,TRUE
+qatr103,Qatar - Al-Wakra,TRUE
+qatr104,Qatar - Umm Slal,TRUE
+qatr105,Qatar - Al-Khor,TRUE
+qatr106,Qatar - Al-Shamal,TRUE
+qatr107,Qatar - Al Daayen,TRUE
+tcar101,Turks & Caicos Islands - Grand Turk,TRUE
+tcar102,Turks & Caicos Islands - Salt Cay,TRUE
+tcar103,Turks & Caicos Islands - South Caicos,TRUE
+tcar104,Turks & Caicos Islands - Middle Caicos,TRUE
+tcar105,Turks & Caicos Islands - North Caicos,TRUE
+tcar106,Turks & Caicos Islands - Providenciales,TRUE
+tuvr101,Tuvalu - Nanumea,TRUE
+tuvr102,Tuvalu - Nanumaga,TRUE
+tuvr103,Tuvalu - Niutao,TRUE
+tuvr104,Tuvalu - Nui,TRUE
+tuvr105,Tuvalu - Vaitupu,TRUE
+tuvr106,Tuvalu - Nukufetau,TRUE
+tuvr107,Tuvalu - Funafuti,TRUE
+ugar201,"Uganda - Central (Central 1, Central 2, Kampala)",TRUE
+ugar202,"Uganda - Eastern (Eastern, East Central)",TRUE
+ugar203,"Uganda - Northern (North, Karamoja, West Nile)",TRUE
+ugar204,"Uganda - Western (Western, Southwest)",TRUE
+venr201,Venezuela - Region Capital,TRUE
+venr202,Venezuela - Region Zuliana,TRUE
+venr203,Venezuela - Region Centro-Occidental,TRUE
+venr204,Venezuela - Region Oriental,TRUE
+venr205,Venezuela - Region Los Llanos,TRUE
+venr206,Venezuela - Region Central,TRUE
+venr207,Venezuela - Region Guayana,TRUE
+venr208,Venezuela - Region Los Andes,TRUE
+wsmr101,Samoa - Apia Urban Area,TRUE
+wsmr102,Samoa - North West Upolu,TRUE
+wsmr103,Samoa - Rest of Upolu,TRUE
+wsmr104,Samoa - Savaii,TRUE

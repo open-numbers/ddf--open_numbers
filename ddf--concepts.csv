@@ -43,3 +43,4 @@ un_state,boolean,,UN member states and permanent observers,,,_none,,https://www.
 income_3groups,entity_set,geo,Income Groups (3 levels),,,categorizations,,,,,
 unhcr_region,entity_set,geo,UNHCR Regions,,,categorizations,,,,,
 west_and_rest,entity_set,geo,West and Rest,,,categorizations,,,,,
+subnational_region,entity_set,geo,Subnational Region,,,categorizations,,,,,
