@@ -278,6 +278,7 @@ China_(Mainland),chn
 CI,civ
 CIV,civ
 COTE D'IVOIRE,civ
+Cote D'Ivoire,civ
 Cote D Ivoire,civ
 Cote Divoire,civ
 Cote d'Ivoire,civ
@@ -303,6 +304,7 @@ COD,cod
 Congo (Democratic Republic of the),cod
 Congo - Kinshasa,cod
 Congo DR,cod
+"Congo, DR",cod
 Congo Dem Rep,cod
 Congo [DRC],cod
 "Congo, Dem. Rep.",cod
@@ -900,6 +902,7 @@ LAO,lao
 LAO PEOPLE'S DEMOCRATIC REPUBLIC,lao
 Lao P.D.R.,lao
 Lao PDR,lao
+"Lao, PDR",lao
 Lao People S Democratic Republic,lao
 Lao People's Dem. Rep.,lao
 Lao People's Democratic Republic,lao
@@ -1005,6 +1008,7 @@ MDA,mda
 MOLDOVA,mda
 "MOLDOVA, REPUBLIC OF",mda
 Moldova,mda
+"Moldova, Rep",mda
 Moldova (Republic of),mda
 "Moldova, Rep. of",mda
 "Moldova, Republic of",mda
@@ -1281,6 +1285,7 @@ Democratic_People_S_Republic_Of_Korea,prk
 KP,prk
 Korea (Democratic People's Rep. of),prk
 Korea DPR,prk
+"Korea, DPR",prk
 Korea North,prk
 "Korea, Dem. People's Rep.",prk
 "Korea, Dem. Rep.",prk
@@ -1531,6 +1536,7 @@ Sweden,swe
 748,swz
 Eswatini,swz
 Eswatini (Kingdom of),swz
+Eswatini (the Kingdom of),swz
 Kingdom of Eswatini,swz
 Kingdom_of_Eswatini,swz
 SWAZILAND,swz
@@ -1853,3 +1859,6 @@ ZIMBABWE,zwe
 ZW,zwe
 ZWE,zwe
 Zimbabwe,zwe
+Global,world
+global,world
+
