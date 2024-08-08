@@ -8,7 +8,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2024-01-24T03:06:13.447048+00:00",
+    "created": "2024-08-08T07:20:22.471005+00:00",
     "translations": [],
     "version": "0.0.1",
     "resources": [
@@ -54,7 +54,9 @@
                         "name": "unit"
                     }
                 ],
-                "primaryKey": "concept"
+                "primaryKey": [
+                    "concept"
+                ]
             }
         },
         {
@@ -132,7 +134,9 @@
                         "name": "west_and_rest"
                     }
                 ],
-                "primaryKey": "country"
+                "primaryKey": [
+                    "country"
+                ]
             }
         },
         {
@@ -153,7 +157,9 @@
                         "name": "rank"
                     }
                 ],
-                "primaryKey": "g77_and_oecd_countries"
+                "primaryKey": [
+                    "g77_and_oecd_countries"
+                ]
             }
         },
         {
@@ -183,7 +189,9 @@
                         "name": "unicode_region_subtag"
                     }
                 ],
-                "primaryKey": "global"
+                "primaryKey": [
+                    "global"
+                ]
             }
         },
         {
@@ -204,7 +212,9 @@
                         "name": "rank"
                     }
                 ],
-                "primaryKey": "income_3groups"
+                "primaryKey": [
+                    "income_3groups"
+                ]
             }
         },
         {
@@ -225,7 +235,9 @@
                         "name": "rank"
                     }
                 ],
-                "primaryKey": "income_groups"
+                "primaryKey": [
+                    "income_groups"
+                ]
             }
         },
         {
@@ -246,7 +258,9 @@
                         "name": "rank"
                     }
                 ],
-                "primaryKey": "landlocked"
+                "primaryKey": [
+                    "landlocked"
+                ]
             }
         },
         {
@@ -267,7 +281,9 @@
                         "name": "rank"
                     }
                 ],
-                "primaryKey": "main_religion_2008"
+                "primaryKey": [
+                    "main_religion_2008"
+                ]
             }
         },
         {
@@ -285,7 +301,9 @@
                         "name": "is--un_sdg_ldc"
                     }
                 ],
-                "primaryKey": "un_sdg_ldc"
+                "primaryKey": [
+                    "un_sdg_ldc"
+                ]
             }
         },
         {
@@ -306,7 +324,9 @@
                         "name": "is--un_sdg_region"
                     }
                 ],
-                "primaryKey": "un_sdg_region"
+                "primaryKey": [
+                    "un_sdg_region"
+                ]
             }
         },
         {
@@ -324,7 +344,9 @@
                         "name": "is--unhcr_region"
                     }
                 ],
-                "primaryKey": "unhcr_region"
+                "primaryKey": [
+                    "unhcr_region"
+                ]
             }
         },
         {
@@ -342,7 +364,9 @@
                         "name": "is--unicef_region"
                     }
                 ],
-                "primaryKey": "unicef_region"
+                "primaryKey": [
+                    "unicef_region"
+                ]
             }
         },
         {
@@ -360,7 +384,9 @@
                         "name": "is--west_and_rest"
                     }
                 ],
-                "primaryKey": "west_and_rest"
+                "primaryKey": [
+                    "west_and_rest"
+                ]
             }
         },
         {
@@ -402,7 +428,9 @@
                         "name": "shape_lores_svg"
                     }
                 ],
-                "primaryKey": "world_4region"
+                "primaryKey": [
+                    "world_4region"
+                ]
             }
         },
         {
@@ -432,7 +460,9 @@
                         "name": "shape_lores_svg"
                     }
                 ],
-                "primaryKey": "world_6region"
+                "primaryKey": [
+                    "world_6region"
+                ]
             }
         },
         {
@@ -450,7 +480,9 @@
                         "name": "parent"
                     }
                 ],
-                "primaryKey": "tag"
+                "primaryKey": [
+                    "tag"
+                ]
             }
         },
         {
@@ -1695,6 +1727,16 @@
             {
                 "primaryKey": [
                     "country",
+                    "synonym"
+                ],
+                "value": null,
+                "resources": [
+                    "ddf--synonyms--geo"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "global",
                     "synonym"
                 ],
                 "value": null,
