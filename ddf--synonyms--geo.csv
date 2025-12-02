@@ -518,6 +518,7 @@ Fiji,fji
 238,flk
 FALKLAND ISLANDS (MALVINAS),flk
 FALKLAND_ISLANDS_(MALVINAS),flk
+"Falkland Islands, Malvinas",flk
 FK,flk
 FLK,flk
 Falkland Is (Malvinas),flk
@@ -1283,6 +1284,7 @@ Democratic People S Republic Of Korea,prk
 Democratic People's Republic of Korea,prk
 Democratic Peoples's Republic of Korea,prk
 Democratic_People_S_Republic_Of_Korea,prk
+"Korea (the Democratic People's Republic of)",prk
 "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",prk
 KP,prk
 Korea (Democratic People's Rep. of),prk
@@ -1459,6 +1461,8 @@ SO,som
 SOM,som
 SOMALIA,som
 Somalia,som
+"Somalia, Fed. Rep.",som
+Federal Republic of Somalia,som
 Somaliland,som_somland
 South Ossetia,sosset
 South_Ossetia,sosset
