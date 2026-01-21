@@ -312,7 +312,7 @@ COD,cod
 Congo_Democratic_Republic,cod
 Congo (Democratic Republic of the),cod
 Congo_(Democratic_Republic_of_the),cod
-"Congo Dem. Rep.",cod
+Congo Dem. Rep.,cod
 Congo Dem Rep,cod
 Congo_Dem_Rep,cod
 Congo DR,cod
@@ -340,7 +340,7 @@ Congo,cog
 Congo - Brazzaville,cog
 Congo Brazzaville,cog
 Congo_Brazzaville,cog
-"Congo Rep.",cog
+Congo Rep.,cog
 Congo (Republic of),cog
 Congo_(Republic_of),cog
 Republic of Congo,cog
@@ -612,7 +612,6 @@ GE,geo
 GEO,geo
 Georgia,geo
 GEORGIA,geo
-http://en.wikipedia.org/wiki/ISO_3166-2:GE,geo
 288,gha
 GH,gha
 GHA,gha
@@ -880,7 +879,7 @@ St. Kitts-Nevis,kna
 410,kor
 KOR,kor
 Korea,kor
-"Korea Rep.",kor
+Korea Rep.,kor
 Korea Rep,kor
 Korea_Rep,kor
 Korea (Rep. of),kor
@@ -1301,7 +1300,7 @@ Korea DPR,prk
 Korea_DPR,prk
 Korea North,prk
 Korea_North,prk
-"Korea (the Democratic People's Republic of)",prk
+Korea (the Democratic People's Republic of),prk
 KP,prk
 North Korea,prk
 North_Korea,prk
@@ -1701,7 +1700,7 @@ China: Province of Taiwan only,twn
 China Taiwan,twn
 Taiwan,twn
 TAIWAN,twn
-"Taiwan (Chinese Taipei)",twn
+Taiwan (Chinese Taipei),twn
 Taiwan (Province of China),twn
 Taiwan Province of China,twn
 Taiwan_(Province_of_China),twn
@@ -1853,7 +1852,7 @@ YE,yem
 YEM,yem
 Yemen,yem
 YEMEN,yem
-"Yemen Rep.",yem
+Yemen Rep.,yem
 Yemen Republic,yem
 Yemen_Republic,yem
 FORMER YEMEN,yem_north
