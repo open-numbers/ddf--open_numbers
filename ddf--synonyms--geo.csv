@@ -312,13 +312,14 @@ COD,cod
 Congo_Democratic_Republic,cod
 Congo (Democratic Republic of the),cod
 Congo_(Democratic_Republic_of_the),cod
-Congo Dem. Rep.,cod
 Congo Dem Rep,cod
+Congo Dem. Rep.,cod
 Congo_Dem_Rep,cod
 Congo DR,cod
 Congo_DR,cod
 Congo [DRC],cod
 Congo - Kinshasa,cod
+Congo Kinshasa,cod
 Democratic Republic of Congo,cod
 Democratic_Republic_of_Congo,cod
 Democratic Republic of the Congo,cod
@@ -437,8 +438,10 @@ East Germany,deu_east
 East_Germany,deu_east
 FORMER GERMAN DEMOCRATIC REPUBLIC,deu_east
 FORMER_GERMAN_DEMOCRATIC_REPUBLIC,deu_east
+Germany East,deu_east
 FEDERAL REPUBLIC OF GERMANY,deu_west
 FEDERAL_REPUBLIC_OF_GERMANY,deu_west
+Germany West,deu_west
 West Germany,deu_west
 West_Germany,deu_west
 262,dji
@@ -879,8 +882,8 @@ St. Kitts-Nevis,kna
 410,kor
 KOR,kor
 Korea,kor
-Korea Rep.,kor
 Korea Rep,kor
+Korea Rep.,kor
 Korea_Rep,kor
 Korea (Rep. of),kor
 Korea (Republic of),kor
@@ -1085,6 +1088,7 @@ MM,mmr
 MMR,mmr
 Myanmar,mmr
 MYANMAR,mmr
+Myanmar (Burma),mmr
 Myanmar [Burma],mmr
 Myanmar/Burma,mmr
 MYANMAR (FORMERLY BURMA),mmr
@@ -1421,6 +1425,7 @@ SDN,sdn
 Sudan,sdn
 SUDAN,sdn
 Sudan (former),sdn
+Sudan-North,sdn
 686,sen
 SEN,sen
 Senegal,sen
@@ -1862,6 +1867,7 @@ North Yemen (former),yem_north
 North_Yemen_(former),yem_north
 Yemen Arab Republic (Former),yem_north
 Yemen_Arab_Republic_(Former),yem_north
+Yemen North,yem_north
 FORMER DEMOCRATIC YEMEN,yem_south
 FORMER_DEMOCRATIC_YEMEN,yem_south
 South_Yemen,yem_south
@@ -1869,6 +1875,7 @@ South Yemen (former),yem_south
 South_Yemen_(former),yem_south
 Yemen Democratic (Former),yem_south
 Yemen_Democratic_(Former),yem_south
+Yemen South,yem_south
 Yugoslavia,yug
 Yugoslavia (former),yug
 YUGOSLAVIA (FORMER SOCIALIST FEDERAL REPUBLIC),yug
