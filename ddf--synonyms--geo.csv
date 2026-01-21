@@ -360,6 +360,7 @@ CO,col
 COL,col
 Colombia,col
 COLOMBIA,col
+Gran Colombia,col
 174,com
 COM,com
 Comores,com
@@ -430,10 +431,14 @@ CZECH_REPUBLIC,cze
 "Korea, Dem. Rep.",prk
 "CONGO, DEM REP",cod
 276,deu
+Baden,deu
+Bavaria,deu
 DE,deu
 DEU,deu
 Germany,deu
 GERMANY,deu
+Saxony,deu
+Wuerttemburg,deu
 East Germany,deu_east
 East_Germany,deu_east
 FORMER GERMAN DEMOCRATIC REPUBLIC,deu_east
@@ -818,6 +823,12 @@ Italy,ita
 ITALY,ita
 Italy (Including San Marino),ita
 Italy_(Including_San_Marino),ita
+Modena,ita
+Papal States,ita
+Parma,ita
+Sardinia,ita
+Tuscany,ita
+Two Sicilies,ita
 388,jam
 JAM,jam
 Jamaica,jam
@@ -1819,12 +1830,14 @@ VIRGIN ISLANDS (U.S.),vir
 Virgin Islands (USA),vir
 Virgin_Islands_(USA),vir
 704,vnm
+South Vietnam,vnm
 Vietnam,vnm
 Viet Nam,vnm
 Viet_Nam,vnm
 VIET NAM,vnm
 VIET_NAM,vnm
 VIETNAM,vnm
+Vietnam North,vnm
 VN,vnm
 VNM,vnm
 548,vut
@@ -1883,6 +1896,7 @@ YUGOSLAVIA_(FORMER_SOCIALIST_FEDERAL_REPUBLIC),yug
 Yugoslav SFR,yug
 Yugoslav_SFR,yug
 710,zaf
+Orange Free State,zaf
 South Africa,zaf
 South_Africa,zaf
 SOUTH AFRICA,zaf
